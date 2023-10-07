@@ -170,7 +170,6 @@ class RecipeEngine:
 
         for i in resource.ingredients_flat:
             for j in resource.ingredients_flat:
-                
 
                 # if this ingredient is in the ingredients list of another,
                 # then add this ingredient's allocation to this qty
@@ -183,6 +182,18 @@ class RecipeEngine:
                         allocation[i.resource] = {}
 
                     allocation[i.resource][j.resource] = j.resource.ingredients[index].qty * j.qty
+
+                if i in resource.ingredients:
+                    index = resource.ingredients.index(i)
+
+                    try:
+                        _ = allocation[i.resource]
+                    except:
+                        allocation[i.resource] = {}
+
+                    allocation[i.resource][resource] = resource.ingredients[index].qty
+
+
         
         return allocation
 
@@ -236,5 +247,5 @@ class RecipeEngine:
             r.ingredient_tree_str = self.generate_resource_tree(r)
             r.ingredients_flat = self.get_flat_ingredients(r)
             r.allocation = self.get_allocations(r)
-        
+
         return resources

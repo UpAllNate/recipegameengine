@@ -38,6 +38,8 @@ for resource in re.resources:
     resource_folder = Path.joinpath(resources_dir, "./", resource.name)
     os.mkdir(resource_folder)
     allocations_file_dir = Path.joinpath(resource_folder, "./" + resource.name + "_allocations.txt")
+    resource_tree_file_dir = Path.joinpath(resource_folder, "./" + resource.name + "_resource_tree.txt")
+    starters_file_dir = Path.joinpath(resource_folder, "./" + resource.name + "_starters.txt")
 
     with open(allocations_file_dir, "w") as f:
         for i in resource.allocation.keys():
@@ -45,5 +47,17 @@ for resource in re.resources:
             for j in resource.allocation[i]:
                 f.write(f"\t{j.name}... {resource.allocation[i][j]}\n")
             f.write("\n")
+    
+    with open(resource_tree_file_dir, "w") as f:
+        f.write(resource.ingredient_tree_str)
+    
+    base_ingredient_count = sum([i.qty for i in resource.ingredients_flat if not i.resource.ingredients])
+
+    with open(starters_file_dir, "w") as f:
+        f.write("Starters needed for period...\n")
+        for i in range(1,30):
+            f.write(f"{i}: {base_ingredient_count / i:.2f}\n")
+
+
 
         
