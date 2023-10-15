@@ -4,13 +4,14 @@ import tomllib
 
 class Resource:
 
-    def __init__(self, name : str, ingredient_depth : int = 0) -> None:
+    def __init__(self, name : str) -> None:
         self.name = name
         self.ingredients : list[Ingredient] = []
-        self.ingredient_depth = ingredient_depth
+        self.ingredient_depth = 0
         self.ingredient_tree_str : str = ""
         self.ingredients_flat : list[Ingredient] = []
         self.allocation : dict = {}
+        self.price = 0
 
     def __str__(self) -> str:
         name = f"[{self.name}]"
@@ -122,26 +123,22 @@ class RecipeEngine:
         ingredients : list[Ingredient] = []
 
         for ingredient in resource.ingredients:
+            ingredients.append(ingredient)
             if ingredient.resource.ingredients:
-                for _ in range(ingredient.qty):
-                    ingredients.append(Ingredient(resource=ingredient.resource, qty=1))
-                for _ in range(ingredient.qty):
-                    ingredients.extend((self._get_flat_ingredient_list(ingredient.resource)))
-            else:
-                for _ in range(ingredient.qty):
-                    ingredients.append(Ingredient(resource=ingredient.resource, qty=1))
-        
+                for ing in self._get_flat_ingredient_list(ingredient.resource):
+                    ingredients.append(Ingredient(resource= ing.resource, qty= ing.qty * ingredient.qty))
+
         return ingredients
 
     def get_flat_ingredients(self, resource : Resource) -> list[Ingredient]:
 
-        uncounted_flat_ingredients = self._get_flat_ingredient_list(resource)
+        unsummed_flat_ingredients = self._get_flat_ingredient_list(resource)
 
         # Count the instance of each 
         ret_ingredients : list[Ingredient] = []    
-        uncounted_resource_set = set(i.resource for i in uncounted_flat_ingredients)
-        for r in uncounted_resource_set:
-            count = [i.resource for i in uncounted_flat_ingredients].count(r)
+        unsummed_resource_set = set(i.resource for i in unsummed_flat_ingredients)
+        for r in unsummed_resource_set:
+            count = sum([i.qty for i in unsummed_flat_ingredients if i.resource == r])
             ret_ingredients.append(Ingredient(resource= r, qty = count))
 
         return sorted(ret_ingredients,key= lambda ing: (-ing.resource.ingredient_depth, ing.resource.name))
@@ -193,12 +190,7 @@ class RecipeEngine:
 
                     allocation[i.resource][resource] = resource.ingredients[index].qty
 
-
-        
         return allocation
-
-    def get_starters_required(self, resource : Resource, interval : float) -> list[Ingredient]:
-        return [Ingredient(resource=i.resource,qty=i.qty / interval) for i in resource.ingredients_flat if not i.resource.ingredients]
 
     def parse_recipes(self, toml_dict : dict) -> list[Resource]:
         resources : list[Resource] = []
@@ -219,7 +211,7 @@ class RecipeEngine:
                 resource_valid = True
 
                 # loop through all ingredients
-                for ingredient_name in toml_dict[resource_name].keys():
+                for ingredient_name in toml_dict[resource_name]["ingredients"].keys():
 
                     # check if it's an ingredient that hasn't been parsed yet
                     if ingredient_name not in [r.name for r in resources]:
@@ -230,13 +222,14 @@ class RecipeEngine:
                     resource_parsed = True
 
                     new_resource = Resource(name= resource_name)
+                    new_resource.price = toml_dict[resource_name]["price"]
 
-                    for ingredient_name in toml_dict[resource_name].keys():
+                    for ingredient_name in toml_dict[resource_name]["ingredients"].keys():
                         ingredient_resource_index = [r.name for r in resources].index(ingredient_name)
                         new_resource.ingredients.append(
                             Ingredient(
                                 resource=resources[ingredient_resource_index],
-                                qty= toml_dict[resource_name][ingredient_name]
+                                qty= toml_dict[resource_name]["ingredients"][ingredient_name]
                             )
                         )
                     
@@ -249,3 +242,6 @@ class RecipeEngine:
             r.allocation = self.get_allocations(r)
 
         return resources
+    
+def get_starters_required(resource : Resource) -> list[Ingredient]:
+    return [Ingredient(resource=i.resource,qty=i.qty) for i in resource.ingredients_flat if not i.resource.ingredients]

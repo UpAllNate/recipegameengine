@@ -1,0 +1,529 @@
+[aluminum]
+price = 80
+
+[aluminum.ingredients]
+
+[copper]
+price = 80
+
+[copper.ingredients]
+
+[diamond]
+price = 80
+
+[diamond.ingredients]
+
+[gold]
+price = 80
+
+[gold.ingredients]
+
+[iron]
+price = 80
+
+[iron.ingredients]
+
+[plutonium]
+price = 4000
+
+[plutonium.ingredients]
+
+[uranium]
+price = 4000
+
+[uranium.ingredients]
+
+[aluminum_wire]
+price = 150
+
+[aluminum_wire.ingredients]
+aluminum = 1
+
+[copper_wire]
+price = 150
+
+[copper_wire.ingredients]
+copper = 1
+
+[diamond_wire]
+price = 150
+
+[diamond_wire.ingredients]
+diamond = 1
+
+[gold_wire]
+price = 150
+
+[gold_wire.ingredients]
+gold = 1
+
+[iron_wire]
+price = 150
+
+[iron_wire.ingredients]
+iron = 1
+
+[aluminum_gear]
+price = 200
+
+[aluminum_gear.ingredients]
+aluminum = 1
+
+[copper_gear]
+price = 200
+
+[copper_gear.ingredients]
+copper = 1
+
+[diamond_gear]
+price = 200
+
+[diamond_gear.ingredients]
+diamond = 1
+
+[gold_gear]
+price = 200
+
+[gold_gear.ingredients]
+gold = 1
+
+[iron_gear]
+price = 200
+
+[iron_gear.ingredients]
+iron = 1
+
+[aluminum_liquid]
+price = 200
+
+[aluminum_liquid.ingredients]
+aluminum = 1
+
+[copper_liquid]
+price = 200
+
+[copper_liquid.ingredients]
+copper = 1
+
+[diamond_liquid]
+price = 200
+
+[diamond_liquid.ingredients]
+diamond = 1
+
+[gold_liquid]
+price = 200
+
+[gold_liquid.ingredients]
+gold = 1
+
+[iron_liquid]
+price = 200
+
+[iron_liquid.ingredients]
+iron = 1
+
+[aluminum_plate]
+price = 350
+
+[aluminum_plate.ingredients]
+aluminum = 1
+
+[copper_plate]
+price = 350
+
+[copper_plate.ingredients]
+copper = 1
+
+[diamond_plate]
+price = 350
+
+[diamond_plate.ingredients]
+diamond = 1
+
+[gold_plate]
+price = 350
+
+[gold_plate.ingredients]
+gold = 1
+
+[iron_plate]
+price = 350
+
+[iron_plate.ingredients]
+iron = 1
+
+[plutonium_wire]
+price = 12000
+
+[plutonium_wire.ingredients]
+plutonium = 1
+
+[uranium_wire]
+price = 12000
+
+[uranium_wire.ingredients]
+uranium = 1
+
+[plutonium_cable]
+price = 12000
+
+[plutonium_cable.ingredients]
+plutonium_wire = 3
+
+[uranium_cable]
+price = 12000
+
+[uranium_cable.ingredients]
+uranium_wire = 3
+
+[aluminum_cable]
+price = 600
+
+[aluminum_cable.ingredients]
+aluminum_wire = 3
+
+[copper_cable]
+price = 600
+
+[copper_cable.ingredients]
+copper_wire = 3
+
+[diamond_cable]
+price = 600
+
+[diamond_cable.ingredients]
+diamond_wire = 3
+
+[gold_cable]
+price = 600
+
+[gold_cable.ingredients]
+gold_wire = 3
+
+[iron_cable]
+price = 600
+
+[iron_cable.ingredients]
+iron_wire = 3
+
+[circuit]
+price = 460
+
+[circuit.ingredients]
+copper_wire = 1
+gold = 1
+
+[fan]
+price = 4620
+
+[fan.ingredients]
+circuit = 1
+diamond_gear = 3
+aluminum = 6
+
+[power_supply]
+price = 4620
+
+[power_supply.ingredients]
+circuit = 1
+diamond = 6
+aluminum_liquid = 3
+
+[processor]
+price = 4530
+
+[processor.ingredients]
+circuit = 1
+gold_liquid = 3
+diamond_wire = 3
+
+[computer]
+price = 41310
+
+[computer.ingredients]
+fan = 1
+power_supply = 1
+processor = 1
+
+[super_computer]
+price = 344480
+
+[super_computer.ingredients]
+computer = 2
+server_rack = 1
+circuit = 3
+gold_cable = 3
+
+[server_rack]
+price = 320
+
+[server_rack.ingredients]
+aluminum = 1
+iron = 1
+
+[AI_processor]
+price = 1410000
+
+[AI_processor.ingredients]
+circuit = 10
+super_computer = 1
+copper_plate = 6
+copper_cable = 4
+
+[AI_robot_head]
+price = 5700000
+
+[AI_robot_head.ingredients]
+AI_processor = 1
+gold_plate = 5
+diamond_cable = 10
+circuit = 10
+
+[battery]
+price = 560
+
+[battery.ingredients]
+copper = 1
+copper_liquid = 1
+
+[engine]
+price = 560
+
+[engine.ingredients]
+iron_gear = 1
+iron = 1
+
+[advanced_engine]
+price = 17700
+
+[advanced_engine.ingredients]
+engine = 5
+circuit = 5
+diamond = 10
+
+[electric_engine]
+price = 156760
+
+[electric_engine.ingredients]
+battery = 2
+advanced_engine = 2
+electric_board = 2
+iron_plate = 5
+
+[solar_cell]
+price = 560
+
+[solar_cell.ingredients]
+diamond_liquid = 1
+gold = 1
+
+[electric_board]
+price = 460
+
+[electric_board.ingredients]
+copper_wire = 1
+aluminum = 1
+
+[solar_panel]
+price = 7500
+
+[solar_panel.ingredients]
+solar_cell = 2
+circuit = 1
+electric_board = 2
+
+[laser]
+price = 18300
+
+[laser.ingredients]
+battery = 5
+heater_plate = 5
+iron_liquid = 5
+
+[heater_plate]
+price = 460
+
+[heater_plate.ingredients]
+iron_wire = 1
+aluminum = 1
+
+[AI_robot_arms]
+price = 158960
+
+[AI_robot_arms.ingredients]
+laser = 2
+aluminum_plate = 2
+aluminum_cable = 3
+iron = 8
+
+[AI_robot_body]
+price = 1330000
+
+[AI_robot_body.ingredients]
+electric_engine = 1
+solar_panel = 2
+AI_robot_arms = 1
+electric_board = 5
+
+[AI_robot]
+price = 28180000
+
+[AI_robot.ingredients]
+AI_robot_head = 1
+AI_robot_body = 1
+iron_plate = 10
+diamond_cable = 5
+
+[plutonium_cell]
+price = 263000
+
+[plutonium_cell.ingredients]
+uranium_refined = 0.1666
+plutonium = 10
+solar_cell = 10
+diamond_liquid = 5
+gold_cable = 5
+copper_cable = 5
+
+[uranium_cell]
+price = 263000
+
+[uranium_cell.ingredients]
+uranium_refined = 0.1666
+uranium = 10
+solar_cell = 10
+diamond_liquid = 5
+gold_cable = 5
+copper_cable = 5
+
+[plutonium_circuit]
+price = 243500
+
+[plutonium_circuit.ingredients]
+uranium_refined = 0.1666
+plutonium = 10
+circuit = 10
+copper = 10
+gold_cable = 3
+diamond_wire = 10
+
+[uranium_circuit]
+price = 243500
+
+[uranium_circuit.ingredients]
+uranium_refined = 0.1666
+uranium = 10
+circuit = 10
+copper = 10
+gold_cable = 3
+diamond_wire = 10
+
+[nuclear_circuit]
+price = 4960000
+
+[nuclear_circuit.ingredients]
+uranium_refined = 0.1666
+uranium_circuit = 2
+plutonium_circuit = 2
+circuit = 5
+gold_cable = 5
+processor = 3
+
+[nuclear_cell]
+price = 5290000
+
+[nuclear_cell.ingredients]
+uranium_refined = 0.1666
+uranium_cell = 2
+plutonium_cell = 2
+solar_cell = 5
+electric_board = 5
+heater_plate = 5
+
+[explosive]
+price = 66800
+
+[explosive.ingredients]
+circuit = 5
+diamond_wire = 10
+copper_cable = 10
+heater_plate = 10
+
+[trigger]
+price = 55600
+
+[trigger.ingredients]
+iron = 40
+diamond_wire = 10
+circuit = 5
+electric_board = 5
+
+[ignition_system]
+price = 13100000
+
+[ignition_system.ingredients]
+trigger = 2
+explosive = 5
+AI_processor = 2
+battery = 5
+
+[nuclear_core]
+price = 111420000
+
+[nuclear_core.ingredients]
+uranium_refined = 0.1666
+nuclear_cell = 3
+uranium_cell = 5
+plutonium_cell = 5
+processor = 10
+diamond_cable = 4
+gold_cable = 4
+
+[nuclear_processor]
+price = 121090000
+
+[nuclear_processor.ingredients]
+uranium_refined = 0.1666
+nuclear_circuit = 3
+uranium_circuit = 5
+plutonium_circuit = 5
+AI_processor = 2
+processor = 5
+diamond_plate = 10
+
+[atomic_bomb]
+price = 3340000000
+
+[atomic_bomb.ingredients]
+uranium_refined = 0.1666
+nuclear_processor = 2
+nuclear_core = 2
+ignition_system = 5
+nuclear_cell = 5
+uranium = 30
+plutonium = 30
+
+[AI_robot_bomber]
+price = 24210000000
+
+[AI_robot_bomber.ingredients]
+uranium_refined = 0.1666
+atomic_bomb = 1
+AI_robot = 1
+AI_processor = 5
+nuclear_cell = 5
+nuclear_processor = 5
+nuclear_circuit = 5
+
+[uranium_refined]
+price = 12000
+
+[uranium_refined.ingredients]
+uranium = 1
+
+[plutonium_refined]
+price = 12000
+
+[plutonium_refined.ingredients]
+plutonium = 1
