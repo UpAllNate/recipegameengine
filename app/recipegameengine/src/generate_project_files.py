@@ -9,6 +9,8 @@ import shutil
 from math import ceil
 
 user_starter_count = int(input("What is your starter limit?\nAnswer: "))
+user_starter_period_standard = float(input("What is your starter rate for standard resources?\nAnswer: "))
+user_starter_period_nuclear = float(input("What is your starter rate for nuclear resources?\nAnswer: "))
 
 py_file_dir = Path(__file__).parent.resolve()
 working_dir = Path().resolve()
@@ -138,21 +140,34 @@ for resource in re.resources:
     with open(resource_tree_file_dir, "w") as f:
         f.write(resource.ingredient_tree_str)
     
-    base_ingredient_count = sum([i.qty for i in resource.ingredients_flat if not i.resource.ingredients])
+    base_ingredients = [i for i in resource.ingredients_flat if not i.resource.ingredients]
+
+    base_ingredient_starters = {}
+    for i in base_ingredients:
+        base_ingredient_starters[i] = {}
+        if i.resource.name in ["plutonium", "uranium"]:
+            base_ingredient_starters[i]["starter qty"] = i.qty * user_starter_period_nuclear
+        else:
+            base_ingredient_starters[i]["starter qty"] = i.qty * user_starter_period_standard
+
+    base_starter_count = sum([i["starter qty"] for i in base_ingredient_starters.values()])
+
+    for i in base_ingredients:
+        base_ingredient_starters[i]["ratio"] = base_ingredient_starters[i]["starter qty"] / base_starter_count
 
     with open(starters_file_dir, "w") as f:
         f.write("Starters needed for period...\n")
         for interval in range(1,601):
-            f.write(f"{interval}: {base_ingredient_count / interval:.2f}\n")
-            for ing in [i for i in resource.ingredients_flat if not i.resource.ingredients]:
-                f.write(f"\t{ing.resource.name}: {ing.qty / interval:.2f}")
+            f.write(f"{interval}: {base_starter_count / interval:.2f}\n")
+            for ing in base_ingredients:
+                f.write(f"\t{ing.resource.name}: {base_starter_count * base_ingredient_starters[ing]['ratio'] / interval:.2f}")
             f.write("\n")
 
             # generated rounded up qty for each and sum
             ceil_str = ""
             rounded_sum = 0
-            for ing in [i for i in resource.ingredients_flat if not i.resource.ingredients]:
-                rounded_qty = ceil(ing.qty / interval)
+            for ing in base_ingredients:
+                rounded_qty = ceil(base_starter_count * base_ingredient_starters[ing]['ratio'] / interval)
                 rounded_sum += rounded_qty
                 ceil_str += f"\t{len(ing.resource.name) * ' '}     {rounded_qty}"
             ceil_str = "rounded:" + ceil_str[len("rounded:") - 3:] + f"\t{rounded_sum}\n\n"
