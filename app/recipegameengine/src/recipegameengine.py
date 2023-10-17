@@ -18,21 +18,21 @@ class Resource:
         ret_str = f"{name:<20}, flat ingredient count: {len(self.ingredients_flat):>3} ... depth: {self.ingredient_depth}"
 
         return ret_str
-    
+
     def str_plus_ingredients(self) -> str:
         ret_str = self.__str__()
         ret_str += "Ingredients\n"
         if self.ingredients:
             for i in self.ingredients:
                 ret_str += f"\t{i.resource.name:<15} {i.qty:<4}... depth: {i.resource.ingredient_depth}\n"
-            
+
             return ret_str[:-1]
         else:
             return ret_str
-    
+
     def str_plus_ingredients_plus_flats(self) -> str:
         ret_str = self.str_plus_ingredients()
-        
+
         ret_str += "\nFlat Ingredients\n"
         for i in self.ingredients_flat:
             ret_str += f"\t{i.resource.name:<15} {i.qty:<4}... depth: {i.resource.ingredient_depth}\n"
@@ -44,7 +44,7 @@ class Resource:
             return True if isinstance(other,Resource) and self.name == other.name else False
         except:
             return False
-        
+
     def __hash__(self) -> int:
         return hash((self.name, tuple(self.ingredients)))
 
@@ -53,17 +53,17 @@ class Ingredient:
     def __init__(self, resource : Resource, qty : int) -> None:
         self.resource = resource
         self.qty = qty
-    
+
     def __str__(self) -> str:
         ret_str = f"{self.resource.name} ... {self.qty:.2f}"
         return ret_str
-    
+
     def __eq__(self, other) -> bool:
         try:
             return True if isinstance(other,Ingredient) and self.resource == other.resource else False
         except:
             return False
-        
+
     def __hash__(self) -> int:
         return hash((self.resource, 80085))
 
@@ -86,7 +86,7 @@ class RecipeEngine:
 
         ret_str = "\t" * tab_level + str(ingredient) + "\n"
         if ingredient.resource.ingredients:
-            
+
             for i in ingredient.resource.ingredients:
                 ret_str += self.generate_ingredient_tree(i, tab_level= tab_level + 1)
 
@@ -107,7 +107,7 @@ class RecipeEngine:
 
         if not resource:
             return None
-        
+
         return self.generate_resource_tree(self, resource= resource)
 
     def _get_flat_ingredient_list_by_name(self, name : str) -> list[Ingredient]:
@@ -115,7 +115,7 @@ class RecipeEngine:
         resource = self.get_resource_by_name(name)
         if not resource:
             return None
-        
+
         return self._get_flat_ingredient_list(resource=resource)
 
     def _get_flat_ingredient_list(self, resource : Resource) -> list[Ingredient]:
@@ -134,8 +134,8 @@ class RecipeEngine:
 
         unsummed_flat_ingredients = self._get_flat_ingredient_list(resource)
 
-        # Count the instance of each 
-        ret_ingredients : list[Ingredient] = []    
+        # Count the instance of each
+        ret_ingredients : list[Ingredient] = []
         unsummed_resource_set = set(i.resource for i in unsummed_flat_ingredients)
         for r in unsummed_resource_set:
             count = sum([i.qty for i in unsummed_flat_ingredients if i.resource == r])
@@ -172,7 +172,7 @@ class RecipeEngine:
                 # then add this ingredient's allocation to this qty
                 if i in j.resource.ingredients:
                     index = j.resource.ingredients.index(i)
-                    
+
                     try:
                         _ = allocation[i.resource]
                     except:
@@ -216,7 +216,7 @@ class RecipeEngine:
                     # check if it's an ingredient that hasn't been parsed yet
                     if ingredient_name not in [r.name for r in resources]:
                         resource_valid = False
-                
+
                 # if all ingredients are valid, it's a good resource to parse
                 if resource_valid:
                     resource_parsed = True
@@ -232,7 +232,7 @@ class RecipeEngine:
                                 qty= toml_dict[resource_name]["ingredients"][ingredient_name]
                             )
                         )
-                    
+
                     resources.append(new_resource)
 
         for r in resources:
@@ -242,6 +242,6 @@ class RecipeEngine:
             r.allocation = self.get_allocations(r)
 
         return resources
-    
+
 def get_starters_required(resource : Resource) -> list[Ingredient]:
     return [Ingredient(resource=i.resource,qty=i.qty) for i in resource.ingredients_flat if not i.resource.ingredients]
