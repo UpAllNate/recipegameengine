@@ -54,7 +54,7 @@ for r in re.resources:
         starter_count = 1
         starters_standard = 1 if r.name not in ["plutonium", "uranium"] else 0
         starters_nuclear = 1 if starters_standard == 0 else 0
-    
+
     profit_list.append((r.name, r.price / starter_count, starter_count, starters_standard, starters_nuclear))
 
 profit_list.sort(key=lambda item: (item[1], item[0]))
@@ -72,8 +72,7 @@ for resource in re.resources:
     starters_file_dir = Path.joinpath(resource_folder, "./" + resource.name + "_starters.txt")
 
     with open(allocations_file_dir, "w") as f:
-        
-        
+
         for i in resource.allocation.keys():
 
             res_list = []
@@ -94,7 +93,7 @@ for resource in re.resources:
                 remaining_alloc = total_build_requirement
                 skip = False
                 for index, (ares, acount) in enumerate(res_list):
-                    
+
                     if not skip:
                         if remaining_alloc > 0:
 
@@ -107,7 +106,7 @@ for resource in re.resources:
                             elif alloc_count - 2 == index:
                                 next_res_name = res_list[index+1][0]
                                 next_res_count = res_list[index+1][1]
-                                
+          
                                 remaining_alloc -= acount
                                 remaining_alloc -= next_res_count
 
@@ -117,12 +116,12 @@ for resource in re.resources:
                                 f.write(f"\t< {left_text:<30} v{remaining_alloc:<6} {right_text:>30} >\n")
 
                                 skip = True
-                            
+      
                             # last two allocations are left and right
                             else:
                                 next_res_name = res_list[index+1][0]
                                 next_res_count = res_list[index+1][1]
-                                
+          
                                 remaining_alloc -= acount
                                 remaining_alloc -= next_res_count
 
@@ -134,12 +133,12 @@ for resource in re.resources:
                                 skip = True
                     else:
                         skip = False
-            
+
                 f.write("\n")
-    
+
     with open(resource_tree_file_dir, "w") as f:
         f.write(resource.ingredient_tree_str)
-    
+
     base_ingredients = [i for i in resource.ingredients_flat if not i.resource.ingredients]
 
     base_ingredient_starters = {}
