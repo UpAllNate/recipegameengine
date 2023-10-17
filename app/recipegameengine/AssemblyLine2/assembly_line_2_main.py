@@ -1,6 +1,7 @@
 from recipegameengine import RecipeEngine
 from recipegameengine import Resource, Ingredient
 from recipegameengine import get_starters_required
+from allocation_file import generate_allocation_file, generate_straight_split_string
 
 from pathlib import Path
 import os
@@ -31,7 +32,7 @@ os.mkdir(resources_dir)
 
 # Find the toml in current working directory
 toml_file_name = None
-for filename in os.listdir(working_dir):
+for filename in os.listdir(py_file_dir):
     if filename[-5:] == ".toml":
         toml_file_name = filename
         break
@@ -39,7 +40,7 @@ for filename in os.listdir(working_dir):
 if toml_file_name is None:
     raise FileNotFoundError("Could not find .toml file to parse as recipe definition")
 
-re = RecipeEngine(toml_file_name)
+re = RecipeEngine(Path.joinpath(py_file_dir, toml_file_name))
 
 profit_list = []
 
@@ -72,69 +73,7 @@ for resource in re.resources:
     starters_file_dir = Path.joinpath(resource_folder, "./" + resource.name + "_starters.txt")
 
     with open(allocations_file_dir, "w") as f:
-
-        for i in resource.allocation.keys():
-
-            res_list = []
-            for j in resource.allocation[i]:
-                res = j.name
-                count = resource.allocation[i][j]
-                res_list.append((res, count))
-
-            total_build_requirement = sum([count for res,count in res_list])
-            alloc_count = len(res_list)
-
-            f.write(f"[{i.name}] {total_build_requirement} total, {alloc_count} resources\n")
-            for (res, count) in res_list:
-                f.write(f"\t{res}... {count:<6}... {count * 100 / total_build_requirement:.2f}%\n")
-            f.write("\n")
-
-            if alloc_count > 2:
-                remaining_alloc = total_build_requirement
-                skip = False
-                for index, (ares, acount) in enumerate(res_list):
-
-                    if not skip:
-                        if remaining_alloc > 0:
-
-                            # last allocation is straight out
-                            if alloc_count - 1 == index:
-                                f.write(f"\tv [{acount}] {ares} \n")
-                                remaining_alloc = 0
-
-                            # last two allocations are left and right
-                            elif alloc_count - 2 == index:
-                                next_res_name = res_list[index+1][0]
-                                next_res_count = res_list[index+1][1]
-          
-                                remaining_alloc -= acount
-                                remaining_alloc -= next_res_count
-
-                                left_text = f"[{acount}] {ares}"
-                                right_text = f"{next_res_name} [{next_res_count}]"
-
-                                f.write(f"\t< {left_text:<30} v{remaining_alloc:<6} {right_text:>30} >\n")
-
-                                skip = True
-      
-                            # last two allocations are left and right
-                            else:
-                                next_res_name = res_list[index+1][0]
-                                next_res_count = res_list[index+1][1]
-          
-                                remaining_alloc -= acount
-                                remaining_alloc -= next_res_count
-
-                                left_text = f"[{acount}] {ares}"
-                                right_text = f"{next_res_name} [{next_res_count}]"
-
-                                f.write(f"\t< {left_text:<30} v{remaining_alloc:<6} {right_text:>30} >\n")
-
-                                skip = True
-                    else:
-                        skip = False
-
-                f.write("\n")
+        f.write(generate_allocation_file(resource=resource))
 
     with open(resource_tree_file_dir, "w") as f:
         f.write(resource.ingredient_tree_str)

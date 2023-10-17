@@ -1,6 +1,7 @@
 from typing import Union
 from pathlib import Path
 import tomllib
+from math import ceil
 
 class Resource:
 
@@ -178,7 +179,7 @@ class RecipeEngine:
                     except:
                         allocation[i.resource] = {}
 
-                    allocation[i.resource][j.resource] = j.resource.ingredients[index].qty * j.qty
+                    allocation[i.resource][j.resource] = ceil(j.resource.ingredients[index].qty * j.qty)
 
                 if i in resource.ingredients:
                     index = resource.ingredients.index(i)
@@ -188,7 +189,7 @@ class RecipeEngine:
                     except:
                         allocation[i.resource] = {}
 
-                    allocation[i.resource][resource] = resource.ingredients[index].qty
+                    allocation[i.resource][resource] = ceil(resource.ingredients[index].qty)
 
         return allocation
 
