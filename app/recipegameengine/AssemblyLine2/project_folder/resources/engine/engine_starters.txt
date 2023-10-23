@@ -1,266 +1,266 @@
 Starters needed for period...
-1: 1.00
-	iron: 1.00
-rounded:     1	1
-
-2: 0.50
+1: 0.50
 	iron: 0.50
 rounded:     1	1
 
-3: 0.33
-	iron: 0.33
-rounded:     1	1
-
-4: 0.25
+2: 0.25
 	iron: 0.25
 rounded:     1	1
 
-5: 0.20
-	iron: 0.20
-rounded:     1	1
-
-6: 0.17
+3: 0.17
 	iron: 0.17
 rounded:     1	1
 
-7: 0.14
-	iron: 0.14
-rounded:     1	1
-
-8: 0.12
+4: 0.12
 	iron: 0.12
 rounded:     1	1
 
-9: 0.11
-	iron: 0.11
-rounded:     1	1
-
-10: 0.10
+5: 0.10
 	iron: 0.10
 rounded:     1	1
 
-11: 0.09
-	iron: 0.09
-rounded:     1	1
-
-12: 0.08
+6: 0.08
 	iron: 0.08
 rounded:     1	1
 
-13: 0.08
-	iron: 0.08
-rounded:     1	1
-
-14: 0.07
+7: 0.07
 	iron: 0.07
 rounded:     1	1
 
-15: 0.07
-	iron: 0.07
-rounded:     1	1
-
-16: 0.06
+8: 0.06
 	iron: 0.06
 rounded:     1	1
 
-17: 0.06
+9: 0.06
 	iron: 0.06
 rounded:     1	1
 
-18: 0.06
-	iron: 0.06
-rounded:     1	1
-
-19: 0.05
+10: 0.05
 	iron: 0.05
 rounded:     1	1
 
-20: 0.05
+11: 0.05
 	iron: 0.05
 rounded:     1	1
 
-21: 0.05
-	iron: 0.05
-rounded:     1	1
-
-22: 0.05
-	iron: 0.05
-rounded:     1	1
-
-23: 0.04
+12: 0.04
 	iron: 0.04
 rounded:     1	1
 
-24: 0.04
+13: 0.04
 	iron: 0.04
 rounded:     1	1
 
-25: 0.04
+14: 0.04
 	iron: 0.04
 rounded:     1	1
 
-26: 0.04
-	iron: 0.04
-rounded:     1	1
-
-27: 0.04
-	iron: 0.04
-rounded:     1	1
-
-28: 0.04
-	iron: 0.04
-rounded:     1	1
-
-29: 0.03
+15: 0.03
 	iron: 0.03
 rounded:     1	1
 
-30: 0.03
+16: 0.03
 	iron: 0.03
 rounded:     1	1
 
-31: 0.03
+17: 0.03
 	iron: 0.03
 rounded:     1	1
 
-32: 0.03
+18: 0.03
 	iron: 0.03
 rounded:     1	1
 
-33: 0.03
+19: 0.03
 	iron: 0.03
 rounded:     1	1
 
-34: 0.03
+20: 0.03
 	iron: 0.03
 rounded:     1	1
 
-35: 0.03
-	iron: 0.03
-rounded:     1	1
-
-36: 0.03
-	iron: 0.03
-rounded:     1	1
-
-37: 0.03
-	iron: 0.03
-rounded:     1	1
-
-38: 0.03
-	iron: 0.03
-rounded:     1	1
-
-39: 0.03
-	iron: 0.03
-rounded:     1	1
-
-40: 0.03
-	iron: 0.03
-rounded:     1	1
-
-41: 0.02
+21: 0.02
 	iron: 0.02
 rounded:     1	1
 
-42: 0.02
+22: 0.02
 	iron: 0.02
 rounded:     1	1
 
-43: 0.02
+23: 0.02
 	iron: 0.02
 rounded:     1	1
 
-44: 0.02
+24: 0.02
 	iron: 0.02
 rounded:     1	1
 
-45: 0.02
+25: 0.02
 	iron: 0.02
 rounded:     1	1
 
-46: 0.02
+26: 0.02
 	iron: 0.02
 rounded:     1	1
 
-47: 0.02
+27: 0.02
 	iron: 0.02
 rounded:     1	1
 
-48: 0.02
+28: 0.02
 	iron: 0.02
 rounded:     1	1
 
-49: 0.02
+29: 0.02
 	iron: 0.02
 rounded:     1	1
 
-50: 0.02
+30: 0.02
 	iron: 0.02
 rounded:     1	1
 
-51: 0.02
+31: 0.02
 	iron: 0.02
 rounded:     1	1
 
-52: 0.02
+32: 0.02
 	iron: 0.02
 rounded:     1	1
 
-53: 0.02
+33: 0.02
 	iron: 0.02
 rounded:     1	1
 
-54: 0.02
-	iron: 0.02
+34: 0.01
+	iron: 0.01
 rounded:     1	1
 
-55: 0.02
-	iron: 0.02
+35: 0.01
+	iron: 0.01
 rounded:     1	1
 
-56: 0.02
-	iron: 0.02
+36: 0.01
+	iron: 0.01
 rounded:     1	1
 
-57: 0.02
-	iron: 0.02
+37: 0.01
+	iron: 0.01
 rounded:     1	1
 
-58: 0.02
-	iron: 0.02
+38: 0.01
+	iron: 0.01
 rounded:     1	1
 
-59: 0.02
-	iron: 0.02
+39: 0.01
+	iron: 0.01
 rounded:     1	1
 
-60: 0.02
-	iron: 0.02
+40: 0.01
+	iron: 0.01
 rounded:     1	1
 
-61: 0.02
-	iron: 0.02
+41: 0.01
+	iron: 0.01
 rounded:     1	1
 
-62: 0.02
-	iron: 0.02
+42: 0.01
+	iron: 0.01
 rounded:     1	1
 
-63: 0.02
-	iron: 0.02
+43: 0.01
+	iron: 0.01
 rounded:     1	1
 
-64: 0.02
-	iron: 0.02
+44: 0.01
+	iron: 0.01
 rounded:     1	1
 
-65: 0.02
-	iron: 0.02
+45: 0.01
+	iron: 0.01
 rounded:     1	1
 
-66: 0.02
-	iron: 0.02
+46: 0.01
+	iron: 0.01
+rounded:     1	1
+
+47: 0.01
+	iron: 0.01
+rounded:     1	1
+
+48: 0.01
+	iron: 0.01
+rounded:     1	1
+
+49: 0.01
+	iron: 0.01
+rounded:     1	1
+
+50: 0.01
+	iron: 0.01
+rounded:     1	1
+
+51: 0.01
+	iron: 0.01
+rounded:     1	1
+
+52: 0.01
+	iron: 0.01
+rounded:     1	1
+
+53: 0.01
+	iron: 0.01
+rounded:     1	1
+
+54: 0.01
+	iron: 0.01
+rounded:     1	1
+
+55: 0.01
+	iron: 0.01
+rounded:     1	1
+
+56: 0.01
+	iron: 0.01
+rounded:     1	1
+
+57: 0.01
+	iron: 0.01
+rounded:     1	1
+
+58: 0.01
+	iron: 0.01
+rounded:     1	1
+
+59: 0.01
+	iron: 0.01
+rounded:     1	1
+
+60: 0.01
+	iron: 0.01
+rounded:     1	1
+
+61: 0.01
+	iron: 0.01
+rounded:     1	1
+
+62: 0.01
+	iron: 0.01
+rounded:     1	1
+
+63: 0.01
+	iron: 0.01
+rounded:     1	1
+
+64: 0.01
+	iron: 0.01
+rounded:     1	1
+
+65: 0.01
+	iron: 0.01
+rounded:     1	1
+
+66: 0.01
+	iron: 0.01
 rounded:     1	1
 
 67: 0.01
@@ -399,404 +399,404 @@ rounded:     1	1
 	iron: 0.01
 rounded:     1	1
 
-101: 0.01
-	iron: 0.01
+101: 0.00
+	iron: 0.00
 rounded:     1	1
 
-102: 0.01
-	iron: 0.01
+102: 0.00
+	iron: 0.00
 rounded:     1	1
 
-103: 0.01
-	iron: 0.01
+103: 0.00
+	iron: 0.00
 rounded:     1	1
 
-104: 0.01
-	iron: 0.01
+104: 0.00
+	iron: 0.00
 rounded:     1	1
 
-105: 0.01
-	iron: 0.01
+105: 0.00
+	iron: 0.00
 rounded:     1	1
 
-106: 0.01
-	iron: 0.01
+106: 0.00
+	iron: 0.00
 rounded:     1	1
 
-107: 0.01
-	iron: 0.01
+107: 0.00
+	iron: 0.00
 rounded:     1	1
 
-108: 0.01
-	iron: 0.01
+108: 0.00
+	iron: 0.00
 rounded:     1	1
 
-109: 0.01
-	iron: 0.01
+109: 0.00
+	iron: 0.00
 rounded:     1	1
 
-110: 0.01
-	iron: 0.01
+110: 0.00
+	iron: 0.00
 rounded:     1	1
 
-111: 0.01
-	iron: 0.01
+111: 0.00
+	iron: 0.00
 rounded:     1	1
 
-112: 0.01
-	iron: 0.01
+112: 0.00
+	iron: 0.00
 rounded:     1	1
 
-113: 0.01
-	iron: 0.01
+113: 0.00
+	iron: 0.00
 rounded:     1	1
 
-114: 0.01
-	iron: 0.01
+114: 0.00
+	iron: 0.00
 rounded:     1	1
 
-115: 0.01
-	iron: 0.01
+115: 0.00
+	iron: 0.00
 rounded:     1	1
 
-116: 0.01
-	iron: 0.01
+116: 0.00
+	iron: 0.00
 rounded:     1	1
 
-117: 0.01
-	iron: 0.01
+117: 0.00
+	iron: 0.00
 rounded:     1	1
 
-118: 0.01
-	iron: 0.01
+118: 0.00
+	iron: 0.00
 rounded:     1	1
 
-119: 0.01
-	iron: 0.01
+119: 0.00
+	iron: 0.00
 rounded:     1	1
 
-120: 0.01
-	iron: 0.01
+120: 0.00
+	iron: 0.00
 rounded:     1	1
 
-121: 0.01
-	iron: 0.01
+121: 0.00
+	iron: 0.00
 rounded:     1	1
 
-122: 0.01
-	iron: 0.01
+122: 0.00
+	iron: 0.00
 rounded:     1	1
 
-123: 0.01
-	iron: 0.01
+123: 0.00
+	iron: 0.00
 rounded:     1	1
 
-124: 0.01
-	iron: 0.01
+124: 0.00
+	iron: 0.00
 rounded:     1	1
 
-125: 0.01
-	iron: 0.01
+125: 0.00
+	iron: 0.00
 rounded:     1	1
 
-126: 0.01
-	iron: 0.01
+126: 0.00
+	iron: 0.00
 rounded:     1	1
 
-127: 0.01
-	iron: 0.01
+127: 0.00
+	iron: 0.00
 rounded:     1	1
 
-128: 0.01
-	iron: 0.01
+128: 0.00
+	iron: 0.00
 rounded:     1	1
 
-129: 0.01
-	iron: 0.01
+129: 0.00
+	iron: 0.00
 rounded:     1	1
 
-130: 0.01
-	iron: 0.01
+130: 0.00
+	iron: 0.00
 rounded:     1	1
 
-131: 0.01
-	iron: 0.01
+131: 0.00
+	iron: 0.00
 rounded:     1	1
 
-132: 0.01
-	iron: 0.01
+132: 0.00
+	iron: 0.00
 rounded:     1	1
 
-133: 0.01
-	iron: 0.01
+133: 0.00
+	iron: 0.00
 rounded:     1	1
 
-134: 0.01
-	iron: 0.01
+134: 0.00
+	iron: 0.00
 rounded:     1	1
 
-135: 0.01
-	iron: 0.01
+135: 0.00
+	iron: 0.00
 rounded:     1	1
 
-136: 0.01
-	iron: 0.01
+136: 0.00
+	iron: 0.00
 rounded:     1	1
 
-137: 0.01
-	iron: 0.01
+137: 0.00
+	iron: 0.00
 rounded:     1	1
 
-138: 0.01
-	iron: 0.01
+138: 0.00
+	iron: 0.00
 rounded:     1	1
 
-139: 0.01
-	iron: 0.01
+139: 0.00
+	iron: 0.00
 rounded:     1	1
 
-140: 0.01
-	iron: 0.01
+140: 0.00
+	iron: 0.00
 rounded:     1	1
 
-141: 0.01
-	iron: 0.01
+141: 0.00
+	iron: 0.00
 rounded:     1	1
 
-142: 0.01
-	iron: 0.01
+142: 0.00
+	iron: 0.00
 rounded:     1	1
 
-143: 0.01
-	iron: 0.01
+143: 0.00
+	iron: 0.00
 rounded:     1	1
 
-144: 0.01
-	iron: 0.01
+144: 0.00
+	iron: 0.00
 rounded:     1	1
 
-145: 0.01
-	iron: 0.01
+145: 0.00
+	iron: 0.00
 rounded:     1	1
 
-146: 0.01
-	iron: 0.01
+146: 0.00
+	iron: 0.00
 rounded:     1	1
 
-147: 0.01
-	iron: 0.01
+147: 0.00
+	iron: 0.00
 rounded:     1	1
 
-148: 0.01
-	iron: 0.01
+148: 0.00
+	iron: 0.00
 rounded:     1	1
 
-149: 0.01
-	iron: 0.01
+149: 0.00
+	iron: 0.00
 rounded:     1	1
 
-150: 0.01
-	iron: 0.01
+150: 0.00
+	iron: 0.00
 rounded:     1	1
 
-151: 0.01
-	iron: 0.01
+151: 0.00
+	iron: 0.00
 rounded:     1	1
 
-152: 0.01
-	iron: 0.01
+152: 0.00
+	iron: 0.00
 rounded:     1	1
 
-153: 0.01
-	iron: 0.01
+153: 0.00
+	iron: 0.00
 rounded:     1	1
 
-154: 0.01
-	iron: 0.01
+154: 0.00
+	iron: 0.00
 rounded:     1	1
 
-155: 0.01
-	iron: 0.01
+155: 0.00
+	iron: 0.00
 rounded:     1	1
 
-156: 0.01
-	iron: 0.01
+156: 0.00
+	iron: 0.00
 rounded:     1	1
 
-157: 0.01
-	iron: 0.01
+157: 0.00
+	iron: 0.00
 rounded:     1	1
 
-158: 0.01
-	iron: 0.01
+158: 0.00
+	iron: 0.00
 rounded:     1	1
 
-159: 0.01
-	iron: 0.01
+159: 0.00
+	iron: 0.00
 rounded:     1	1
 
-160: 0.01
-	iron: 0.01
+160: 0.00
+	iron: 0.00
 rounded:     1	1
 
-161: 0.01
-	iron: 0.01
+161: 0.00
+	iron: 0.00
 rounded:     1	1
 
-162: 0.01
-	iron: 0.01
+162: 0.00
+	iron: 0.00
 rounded:     1	1
 
-163: 0.01
-	iron: 0.01
+163: 0.00
+	iron: 0.00
 rounded:     1	1
 
-164: 0.01
-	iron: 0.01
+164: 0.00
+	iron: 0.00
 rounded:     1	1
 
-165: 0.01
-	iron: 0.01
+165: 0.00
+	iron: 0.00
 rounded:     1	1
 
-166: 0.01
-	iron: 0.01
+166: 0.00
+	iron: 0.00
 rounded:     1	1
 
-167: 0.01
-	iron: 0.01
+167: 0.00
+	iron: 0.00
 rounded:     1	1
 
-168: 0.01
-	iron: 0.01
+168: 0.00
+	iron: 0.00
 rounded:     1	1
 
-169: 0.01
-	iron: 0.01
+169: 0.00
+	iron: 0.00
 rounded:     1	1
 
-170: 0.01
-	iron: 0.01
+170: 0.00
+	iron: 0.00
 rounded:     1	1
 
-171: 0.01
-	iron: 0.01
+171: 0.00
+	iron: 0.00
 rounded:     1	1
 
-172: 0.01
-	iron: 0.01
+172: 0.00
+	iron: 0.00
 rounded:     1	1
 
-173: 0.01
-	iron: 0.01
+173: 0.00
+	iron: 0.00
 rounded:     1	1
 
-174: 0.01
-	iron: 0.01
+174: 0.00
+	iron: 0.00
 rounded:     1	1
 
-175: 0.01
-	iron: 0.01
+175: 0.00
+	iron: 0.00
 rounded:     1	1
 
-176: 0.01
-	iron: 0.01
+176: 0.00
+	iron: 0.00
 rounded:     1	1
 
-177: 0.01
-	iron: 0.01
+177: 0.00
+	iron: 0.00
 rounded:     1	1
 
-178: 0.01
-	iron: 0.01
+178: 0.00
+	iron: 0.00
 rounded:     1	1
 
-179: 0.01
-	iron: 0.01
+179: 0.00
+	iron: 0.00
 rounded:     1	1
 
-180: 0.01
-	iron: 0.01
+180: 0.00
+	iron: 0.00
 rounded:     1	1
 
-181: 0.01
-	iron: 0.01
+181: 0.00
+	iron: 0.00
 rounded:     1	1
 
-182: 0.01
-	iron: 0.01
+182: 0.00
+	iron: 0.00
 rounded:     1	1
 
-183: 0.01
-	iron: 0.01
+183: 0.00
+	iron: 0.00
 rounded:     1	1
 
-184: 0.01
-	iron: 0.01
+184: 0.00
+	iron: 0.00
 rounded:     1	1
 
-185: 0.01
-	iron: 0.01
+185: 0.00
+	iron: 0.00
 rounded:     1	1
 
-186: 0.01
-	iron: 0.01
+186: 0.00
+	iron: 0.00
 rounded:     1	1
 
-187: 0.01
-	iron: 0.01
+187: 0.00
+	iron: 0.00
 rounded:     1	1
 
-188: 0.01
-	iron: 0.01
+188: 0.00
+	iron: 0.00
 rounded:     1	1
 
-189: 0.01
-	iron: 0.01
+189: 0.00
+	iron: 0.00
 rounded:     1	1
 
-190: 0.01
-	iron: 0.01
+190: 0.00
+	iron: 0.00
 rounded:     1	1
 
-191: 0.01
-	iron: 0.01
+191: 0.00
+	iron: 0.00
 rounded:     1	1
 
-192: 0.01
-	iron: 0.01
+192: 0.00
+	iron: 0.00
 rounded:     1	1
 
-193: 0.01
-	iron: 0.01
+193: 0.00
+	iron: 0.00
 rounded:     1	1
 
-194: 0.01
-	iron: 0.01
+194: 0.00
+	iron: 0.00
 rounded:     1	1
 
-195: 0.01
-	iron: 0.01
+195: 0.00
+	iron: 0.00
 rounded:     1	1
 
-196: 0.01
-	iron: 0.01
+196: 0.00
+	iron: 0.00
 rounded:     1	1
 
-197: 0.01
-	iron: 0.01
+197: 0.00
+	iron: 0.00
 rounded:     1	1
 
-198: 0.01
-	iron: 0.01
+198: 0.00
+	iron: 0.00
 rounded:     1	1
 
-199: 0.01
-	iron: 0.01
+199: 0.00
+	iron: 0.00
 rounded:     1	1
 
-200: 0.01
-	iron: 0.01
+200: 0.00
+	iron: 0.00
 rounded:     1	1
 
 201: 0.00

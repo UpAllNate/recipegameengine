@@ -1,2401 +1,2401 @@
 Starters needed for period...
-1: 35.00
-	aluminum: 2.50	copper: 5.00	diamond: 5.00	gold: 2.50	iron: 20.00
-rounded:         3	           5	            5	         3	         20	36
-
-2: 17.50
+1: 17.50
 	aluminum: 1.25	copper: 2.50	diamond: 2.50	gold: 1.25	iron: 10.00
 rounded:         2	           3	            3	         2	         10	20
 
-3: 11.67
-	aluminum: 0.83	copper: 1.67	diamond: 1.67	gold: 0.83	iron: 6.67
-rounded:         1	           2	            2	         1	         7	13
-
-4: 8.75
+2: 8.75
 	aluminum: 0.62	copper: 1.25	diamond: 1.25	gold: 0.62	iron: 5.00
 rounded:         1	           2	            2	         1	         5	11
 
-5: 7.00
-	aluminum: 0.50	copper: 1.00	diamond: 1.00	gold: 0.50	iron: 4.00
-rounded:         1	           1	            1	         1	         4	8
-
-6: 5.83
+3: 5.83
 	aluminum: 0.42	copper: 0.83	diamond: 0.83	gold: 0.42	iron: 3.33
 rounded:         1	           1	            1	         1	         4	8
 
-7: 5.00
-	aluminum: 0.36	copper: 0.71	diamond: 0.71	gold: 0.36	iron: 2.86
-rounded:         1	           1	            1	         1	         3	7
-
-8: 4.38
+4: 4.38
 	aluminum: 0.31	copper: 0.62	diamond: 0.62	gold: 0.31	iron: 2.50
 rounded:         1	           1	            1	         1	         3	7
 
-9: 3.89
-	aluminum: 0.28	copper: 0.56	diamond: 0.56	gold: 0.28	iron: 2.22
-rounded:         1	           1	            1	         1	         3	7
-
-10: 3.50
+5: 3.50
 	aluminum: 0.25	copper: 0.50	diamond: 0.50	gold: 0.25	iron: 2.00
 rounded:         1	           1	            1	         1	         2	6
 
-11: 3.18
-	aluminum: 0.23	copper: 0.45	diamond: 0.45	gold: 0.23	iron: 1.82
-rounded:         1	           1	            1	         1	         2	6
-
-12: 2.92
+6: 2.92
 	aluminum: 0.21	copper: 0.42	diamond: 0.42	gold: 0.21	iron: 1.67
 rounded:         1	           1	            1	         1	         2	6
 
-13: 2.69
-	aluminum: 0.19	copper: 0.38	diamond: 0.38	gold: 0.19	iron: 1.54
-rounded:         1	           1	            1	         1	         2	6
-
-14: 2.50
+7: 2.50
 	aluminum: 0.18	copper: 0.36	diamond: 0.36	gold: 0.18	iron: 1.43
 rounded:         1	           1	            1	         1	         2	6
 
-15: 2.33
-	aluminum: 0.17	copper: 0.33	diamond: 0.33	gold: 0.17	iron: 1.33
-rounded:         1	           1	            1	         1	         2	6
-
-16: 2.19
+8: 2.19
 	aluminum: 0.16	copper: 0.31	diamond: 0.31	gold: 0.16	iron: 1.25
 rounded:         1	           1	            1	         1	         2	6
 
-17: 2.06
-	aluminum: 0.15	copper: 0.29	diamond: 0.29	gold: 0.15	iron: 1.18
-rounded:         1	           1	            1	         1	         2	6
-
-18: 1.94
+9: 1.94
 	aluminum: 0.14	copper: 0.28	diamond: 0.28	gold: 0.14	iron: 1.11
 rounded:         1	           1	            1	         1	         2	6
 
-19: 1.84
-	aluminum: 0.13	copper: 0.26	diamond: 0.26	gold: 0.13	iron: 1.05
-rounded:         1	           1	            1	         1	         2	6
-
-20: 1.75
+10: 1.75
 	aluminum: 0.12	copper: 0.25	diamond: 0.25	gold: 0.12	iron: 1.00
 rounded:         1	           1	            1	         1	         1	5
 
-21: 1.67
-	aluminum: 0.12	copper: 0.24	diamond: 0.24	gold: 0.12	iron: 0.95
-rounded:         1	           1	            1	         1	         1	5
-
-22: 1.59
+11: 1.59
 	aluminum: 0.11	copper: 0.23	diamond: 0.23	gold: 0.11	iron: 0.91
 rounded:         1	           1	            1	         1	         1	5
 
-23: 1.52
-	aluminum: 0.11	copper: 0.22	diamond: 0.22	gold: 0.11	iron: 0.87
-rounded:         1	           1	            1	         1	         1	5
-
-24: 1.46
+12: 1.46
 	aluminum: 0.10	copper: 0.21	diamond: 0.21	gold: 0.10	iron: 0.83
 rounded:         1	           1	            1	         1	         1	5
 
-25: 1.40
-	aluminum: 0.10	copper: 0.20	diamond: 0.20	gold: 0.10	iron: 0.80
-rounded:         1	           1	            1	         1	         1	5
-
-26: 1.35
+13: 1.35
 	aluminum: 0.10	copper: 0.19	diamond: 0.19	gold: 0.10	iron: 0.77
 rounded:         1	           1	            1	         1	         1	5
 
-27: 1.30
-	aluminum: 0.09	copper: 0.19	diamond: 0.19	gold: 0.09	iron: 0.74
-rounded:         1	           1	            1	         1	         1	5
-
-28: 1.25
+14: 1.25
 	aluminum: 0.09	copper: 0.18	diamond: 0.18	gold: 0.09	iron: 0.71
 rounded:         1	           1	            1	         1	         1	5
 
-29: 1.21
-	aluminum: 0.09	copper: 0.17	diamond: 0.17	gold: 0.09	iron: 0.69
-rounded:         1	           1	            1	         1	         1	5
-
-30: 1.17
+15: 1.17
 	aluminum: 0.08	copper: 0.17	diamond: 0.17	gold: 0.08	iron: 0.67
 rounded:         1	           1	            1	         1	         1	5
 
-31: 1.13
-	aluminum: 0.08	copper: 0.16	diamond: 0.16	gold: 0.08	iron: 0.65
-rounded:         1	           1	            1	         1	         1	5
-
-32: 1.09
+16: 1.09
 	aluminum: 0.08	copper: 0.16	diamond: 0.16	gold: 0.08	iron: 0.62
 rounded:         1	           1	            1	         1	         1	5
 
-33: 1.06
-	aluminum: 0.08	copper: 0.15	diamond: 0.15	gold: 0.08	iron: 0.61
-rounded:         1	           1	            1	         1	         1	5
-
-34: 1.03
+17: 1.03
 	aluminum: 0.07	copper: 0.15	diamond: 0.15	gold: 0.07	iron: 0.59
 rounded:         1	           1	            1	         1	         1	5
 
-35: 1.00
-	aluminum: 0.07	copper: 0.14	diamond: 0.14	gold: 0.07	iron: 0.57
-rounded:         1	           1	            1	         1	         1	5
-
-36: 0.97
+18: 0.97
 	aluminum: 0.07	copper: 0.14	diamond: 0.14	gold: 0.07	iron: 0.56
 rounded:         1	           1	            1	         1	         1	5
 
-37: 0.95
-	aluminum: 0.07	copper: 0.14	diamond: 0.14	gold: 0.07	iron: 0.54
-rounded:         1	           1	            1	         1	         1	5
-
-38: 0.92
+19: 0.92
 	aluminum: 0.07	copper: 0.13	diamond: 0.13	gold: 0.07	iron: 0.53
 rounded:         1	           1	            1	         1	         1	5
 
-39: 0.90
-	aluminum: 0.06	copper: 0.13	diamond: 0.13	gold: 0.06	iron: 0.51
-rounded:         1	           1	            1	         1	         1	5
-
-40: 0.88
+20: 0.88
 	aluminum: 0.06	copper: 0.12	diamond: 0.12	gold: 0.06	iron: 0.50
 rounded:         1	           1	            1	         1	         1	5
 
-41: 0.85
-	aluminum: 0.06	copper: 0.12	diamond: 0.12	gold: 0.06	iron: 0.49
-rounded:         1	           1	            1	         1	         1	5
-
-42: 0.83
+21: 0.83
 	aluminum: 0.06	copper: 0.12	diamond: 0.12	gold: 0.06	iron: 0.48
 rounded:         1	           1	            1	         1	         1	5
 
-43: 0.81
-	aluminum: 0.06	copper: 0.12	diamond: 0.12	gold: 0.06	iron: 0.47
-rounded:         1	           1	            1	         1	         1	5
-
-44: 0.80
+22: 0.80
 	aluminum: 0.06	copper: 0.11	diamond: 0.11	gold: 0.06	iron: 0.45
 rounded:         1	           1	            1	         1	         1	5
 
-45: 0.78
-	aluminum: 0.06	copper: 0.11	diamond: 0.11	gold: 0.06	iron: 0.44
-rounded:         1	           1	            1	         1	         1	5
-
-46: 0.76
+23: 0.76
 	aluminum: 0.05	copper: 0.11	diamond: 0.11	gold: 0.05	iron: 0.43
 rounded:         1	           1	            1	         1	         1	5
 
-47: 0.74
-	aluminum: 0.05	copper: 0.11	diamond: 0.11	gold: 0.05	iron: 0.43
-rounded:         1	           1	            1	         1	         1	5
-
-48: 0.73
+24: 0.73
 	aluminum: 0.05	copper: 0.10	diamond: 0.10	gold: 0.05	iron: 0.42
 rounded:         1	           1	            1	         1	         1	5
 
-49: 0.71
-	aluminum: 0.05	copper: 0.10	diamond: 0.10	gold: 0.05	iron: 0.41
-rounded:         1	           1	            1	         1	         1	5
-
-50: 0.70
+25: 0.70
 	aluminum: 0.05	copper: 0.10	diamond: 0.10	gold: 0.05	iron: 0.40
 rounded:         1	           1	            1	         1	         1	5
 
-51: 0.69
-	aluminum: 0.05	copper: 0.10	diamond: 0.10	gold: 0.05	iron: 0.39
-rounded:         1	           1	            1	         1	         1	5
-
-52: 0.67
+26: 0.67
 	aluminum: 0.05	copper: 0.10	diamond: 0.10	gold: 0.05	iron: 0.38
 rounded:         1	           1	            1	         1	         1	5
 
-53: 0.66
-	aluminum: 0.05	copper: 0.09	diamond: 0.09	gold: 0.05	iron: 0.38
-rounded:         1	           1	            1	         1	         1	5
-
-54: 0.65
+27: 0.65
 	aluminum: 0.05	copper: 0.09	diamond: 0.09	gold: 0.05	iron: 0.37
 rounded:         1	           1	            1	         1	         1	5
 
-55: 0.64
-	aluminum: 0.05	copper: 0.09	diamond: 0.09	gold: 0.05	iron: 0.36
-rounded:         1	           1	            1	         1	         1	5
-
-56: 0.62
+28: 0.62
 	aluminum: 0.04	copper: 0.09	diamond: 0.09	gold: 0.04	iron: 0.36
 rounded:         1	           1	            1	         1	         1	5
 
-57: 0.61
-	aluminum: 0.04	copper: 0.09	diamond: 0.09	gold: 0.04	iron: 0.35
-rounded:         1	           1	            1	         1	         1	5
-
-58: 0.60
+29: 0.60
 	aluminum: 0.04	copper: 0.09	diamond: 0.09	gold: 0.04	iron: 0.34
 rounded:         1	           1	            1	         1	         1	5
 
-59: 0.59
-	aluminum: 0.04	copper: 0.08	diamond: 0.08	gold: 0.04	iron: 0.34
-rounded:         1	           1	            1	         1	         1	5
-
-60: 0.58
+30: 0.58
 	aluminum: 0.04	copper: 0.08	diamond: 0.08	gold: 0.04	iron: 0.33
 rounded:         1	           1	            1	         1	         1	5
 
-61: 0.57
-	aluminum: 0.04	copper: 0.08	diamond: 0.08	gold: 0.04	iron: 0.33
-rounded:         1	           1	            1	         1	         1	5
-
-62: 0.56
+31: 0.56
 	aluminum: 0.04	copper: 0.08	diamond: 0.08	gold: 0.04	iron: 0.32
 rounded:         1	           1	            1	         1	         1	5
 
-63: 0.56
-	aluminum: 0.04	copper: 0.08	diamond: 0.08	gold: 0.04	iron: 0.32
-rounded:         1	           1	            1	         1	         1	5
-
-64: 0.55
+32: 0.55
 	aluminum: 0.04	copper: 0.08	diamond: 0.08	gold: 0.04	iron: 0.31
 rounded:         1	           1	            1	         1	         1	5
 
-65: 0.54
-	aluminum: 0.04	copper: 0.08	diamond: 0.08	gold: 0.04	iron: 0.31
-rounded:         1	           1	            1	         1	         1	5
-
-66: 0.53
+33: 0.53
 	aluminum: 0.04	copper: 0.08	diamond: 0.08	gold: 0.04	iron: 0.30
 rounded:         1	           1	            1	         1	         1	5
 
-67: 0.52
-	aluminum: 0.04	copper: 0.07	diamond: 0.07	gold: 0.04	iron: 0.30
-rounded:         1	           1	            1	         1	         1	5
-
-68: 0.51
+34: 0.51
 	aluminum: 0.04	copper: 0.07	diamond: 0.07	gold: 0.04	iron: 0.29
 rounded:         1	           1	            1	         1	         1	5
 
-69: 0.51
+35: 0.50
 	aluminum: 0.04	copper: 0.07	diamond: 0.07	gold: 0.04	iron: 0.29
 rounded:         1	           1	            1	         1	         1	5
 
-70: 0.50
-	aluminum: 0.04	copper: 0.07	diamond: 0.07	gold: 0.04	iron: 0.29
-rounded:         1	           1	            1	         1	         1	5
-
-71: 0.49
-	aluminum: 0.04	copper: 0.07	diamond: 0.07	gold: 0.04	iron: 0.28
-rounded:         1	           1	            1	         1	         1	5
-
-72: 0.49
+36: 0.49
 	aluminum: 0.03	copper: 0.07	diamond: 0.07	gold: 0.03	iron: 0.28
 rounded:         1	           1	            1	         1	         1	5
 
-73: 0.48
+37: 0.47
 	aluminum: 0.03	copper: 0.07	diamond: 0.07	gold: 0.03	iron: 0.27
 rounded:         1	           1	            1	         1	         1	5
 
-74: 0.47
-	aluminum: 0.03	copper: 0.07	diamond: 0.07	gold: 0.03	iron: 0.27
-rounded:         1	           1	            1	         1	         1	5
-
-75: 0.47
-	aluminum: 0.03	copper: 0.07	diamond: 0.07	gold: 0.03	iron: 0.27
-rounded:         1	           1	            1	         1	         1	5
-
-76: 0.46
+38: 0.46
 	aluminum: 0.03	copper: 0.07	diamond: 0.07	gold: 0.03	iron: 0.26
 rounded:         1	           1	            1	         1	         1	5
 
-77: 0.45
+39: 0.45
 	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.26
 rounded:         1	           1	            1	         1	         1	5
 
-78: 0.45
-	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.26
-rounded:         1	           1	            1	         1	         1	5
-
-79: 0.44
+40: 0.44
 	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.25
 rounded:         1	           1	            1	         1	         1	5
 
-80: 0.44
-	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.25
-rounded:         1	           1	            1	         1	         1	5
-
-81: 0.43
-	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.25
-rounded:         1	           1	            1	         1	         1	5
-
-82: 0.43
+41: 0.43
 	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.24
 rounded:         1	           1	            1	         1	         1	5
 
-83: 0.42
+42: 0.42
 	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.24
 rounded:         1	           1	            1	         1	         1	5
 
-84: 0.42
-	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.24
-rounded:         1	           1	            1	         1	         1	5
-
-85: 0.41
-	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.24
-rounded:         1	           1	            1	         1	         1	5
-
-86: 0.41
+43: 0.41
 	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.23
 rounded:         1	           1	            1	         1	         1	5
 
-87: 0.40
+44: 0.40
 	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.23
 rounded:         1	           1	            1	         1	         1	5
 
-88: 0.40
-	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.23
-rounded:         1	           1	            1	         1	         1	5
-
-89: 0.39
+45: 0.39
 	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.22
 rounded:         1	           1	            1	         1	         1	5
 
-90: 0.39
-	aluminum: 0.03	copper: 0.06	diamond: 0.06	gold: 0.03	iron: 0.22
-rounded:         1	           1	            1	         1	         1	5
-
-91: 0.38
+46: 0.38
 	aluminum: 0.03	copper: 0.05	diamond: 0.05	gold: 0.03	iron: 0.22
 rounded:         1	           1	            1	         1	         1	5
 
-92: 0.38
-	aluminum: 0.03	copper: 0.05	diamond: 0.05	gold: 0.03	iron: 0.22
-rounded:         1	           1	            1	         1	         1	5
-
-93: 0.38
-	aluminum: 0.03	copper: 0.05	diamond: 0.05	gold: 0.03	iron: 0.22
-rounded:         1	           1	            1	         1	         1	5
-
-94: 0.37
+47: 0.37
 	aluminum: 0.03	copper: 0.05	diamond: 0.05	gold: 0.03	iron: 0.21
 rounded:         1	           1	            1	         1	         1	5
 
-95: 0.37
+48: 0.36
 	aluminum: 0.03	copper: 0.05	diamond: 0.05	gold: 0.03	iron: 0.21
 rounded:         1	           1	            1	         1	         1	5
 
-96: 0.36
-	aluminum: 0.03	copper: 0.05	diamond: 0.05	gold: 0.03	iron: 0.21
-rounded:         1	           1	            1	         1	         1	5
-
-97: 0.36
-	aluminum: 0.03	copper: 0.05	diamond: 0.05	gold: 0.03	iron: 0.21
-rounded:         1	           1	            1	         1	         1	5
-
-98: 0.36
+49: 0.36
 	aluminum: 0.03	copper: 0.05	diamond: 0.05	gold: 0.03	iron: 0.20
 rounded:         1	           1	            1	         1	         1	5
 
-99: 0.35
+50: 0.35
 	aluminum: 0.03	copper: 0.05	diamond: 0.05	gold: 0.03	iron: 0.20
 rounded:         1	           1	            1	         1	         1	5
 
-100: 0.35
-	aluminum: 0.03	copper: 0.05	diamond: 0.05	gold: 0.03	iron: 0.20
-rounded:         1	           1	            1	         1	         1	5
-
-101: 0.35
+51: 0.34
 	aluminum: 0.02	copper: 0.05	diamond: 0.05	gold: 0.02	iron: 0.20
 rounded:         1	           1	            1	         1	         1	5
 
-102: 0.34
-	aluminum: 0.02	copper: 0.05	diamond: 0.05	gold: 0.02	iron: 0.20
-rounded:         1	           1	            1	         1	         1	5
-
-103: 0.34
+52: 0.34
 	aluminum: 0.02	copper: 0.05	diamond: 0.05	gold: 0.02	iron: 0.19
 rounded:         1	           1	            1	         1	         1	5
 
-104: 0.34
+53: 0.33
 	aluminum: 0.02	copper: 0.05	diamond: 0.05	gold: 0.02	iron: 0.19
 rounded:         1	           1	            1	         1	         1	5
 
-105: 0.33
+54: 0.32
 	aluminum: 0.02	copper: 0.05	diamond: 0.05	gold: 0.02	iron: 0.19
 rounded:         1	           1	            1	         1	         1	5
 
-106: 0.33
-	aluminum: 0.02	copper: 0.05	diamond: 0.05	gold: 0.02	iron: 0.19
-rounded:         1	           1	            1	         1	         1	5
-
-107: 0.33
-	aluminum: 0.02	copper: 0.05	diamond: 0.05	gold: 0.02	iron: 0.19
-rounded:         1	           1	            1	         1	         1	5
-
-108: 0.32
-	aluminum: 0.02	copper: 0.05	diamond: 0.05	gold: 0.02	iron: 0.19
-rounded:         1	           1	            1	         1	         1	5
-
-109: 0.32
+55: 0.32
 	aluminum: 0.02	copper: 0.05	diamond: 0.05	gold: 0.02	iron: 0.18
 rounded:         1	           1	            1	         1	         1	5
 
-110: 0.32
-	aluminum: 0.02	copper: 0.05	diamond: 0.05	gold: 0.02	iron: 0.18
-rounded:         1	           1	            1	         1	         1	5
-
-111: 0.32
-	aluminum: 0.02	copper: 0.05	diamond: 0.05	gold: 0.02	iron: 0.18
-rounded:         1	           1	            1	         1	         1	5
-
-112: 0.31
+56: 0.31
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.18
 rounded:         1	           1	            1	         1	         1	5
 
-113: 0.31
+57: 0.31
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.18
 rounded:         1	           1	            1	         1	         1	5
 
-114: 0.31
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.18
-rounded:         1	           1	            1	         1	         1	5
-
-115: 0.30
+58: 0.30
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.17
 rounded:         1	           1	            1	         1	         1	5
 
-116: 0.30
+59: 0.30
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.17
 rounded:         1	           1	            1	         1	         1	5
 
-117: 0.30
+60: 0.29
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.17
 rounded:         1	           1	            1	         1	         1	5
 
-118: 0.30
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.17
-rounded:         1	           1	            1	         1	         1	5
-
-119: 0.29
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.17
-rounded:         1	           1	            1	         1	         1	5
-
-120: 0.29
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.17
-rounded:         1	           1	            1	         1	         1	5
-
-121: 0.29
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.17
-rounded:         1	           1	            1	         1	         1	5
-
-122: 0.29
+61: 0.29
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.16
 rounded:         1	           1	            1	         1	         1	5
 
-123: 0.28
+62: 0.28
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.16
 rounded:         1	           1	            1	         1	         1	5
 
-124: 0.28
+63: 0.28
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.16
 rounded:         1	           1	            1	         1	         1	5
 
-125: 0.28
+64: 0.27
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.16
 rounded:         1	           1	            1	         1	         1	5
 
-126: 0.28
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.16
-rounded:         1	           1	            1	         1	         1	5
-
-127: 0.28
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.16
-rounded:         1	           1	            1	         1	         1	5
-
-128: 0.27
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.16
-rounded:         1	           1	            1	         1	         1	5
-
-129: 0.27
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.16
-rounded:         1	           1	            1	         1	         1	5
-
-130: 0.27
+65: 0.27
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.15
 rounded:         1	           1	            1	         1	         1	5
 
-131: 0.27
+66: 0.27
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.15
 rounded:         1	           1	            1	         1	         1	5
 
-132: 0.27
+67: 0.26
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.15
 rounded:         1	           1	            1	         1	         1	5
 
-133: 0.26
+68: 0.26
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.15
 rounded:         1	           1	            1	         1	         1	5
 
-134: 0.26
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.15
-rounded:         1	           1	            1	         1	         1	5
-
-135: 0.26
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.15
-rounded:         1	           1	            1	         1	         1	5
-
-136: 0.26
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.15
-rounded:         1	           1	            1	         1	         1	5
-
-137: 0.26
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.15
-rounded:         1	           1	            1	         1	         1	5
-
-138: 0.25
+69: 0.25
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.14
 rounded:         1	           1	            1	         1	         1	5
 
-139: 0.25
+70: 0.25
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.14
 rounded:         1	           1	            1	         1	         1	5
 
-140: 0.25
+71: 0.25
 	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.14
 rounded:         1	           1	            1	         1	         1	5
 
-141: 0.25
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.14
-rounded:         1	           1	            1	         1	         1	5
-
-142: 0.25
-	aluminum: 0.02	copper: 0.04	diamond: 0.04	gold: 0.02	iron: 0.14
-rounded:         1	           1	            1	         1	         1	5
-
-143: 0.24
+72: 0.24
 	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.14
 rounded:         1	           1	            1	         1	         1	5
 
-144: 0.24
+73: 0.24
 	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.14
 rounded:         1	           1	            1	         1	         1	5
 
-145: 0.24
+74: 0.24
 	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.14
 rounded:         1	           1	            1	         1	         1	5
 
-146: 0.24
-	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.14
-rounded:         1	           1	            1	         1	         1	5
-
-147: 0.24
-	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.14
-rounded:         1	           1	            1	         1	         1	5
-
-148: 0.24
-	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.14
-rounded:         1	           1	            1	         1	         1	5
-
-149: 0.23
+75: 0.23
 	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.13
 rounded:         1	           1	            1	         1	         1	5
 
-150: 0.23
+76: 0.23
 	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.13
 rounded:         1	           1	            1	         1	         1	5
 
-151: 0.23
+77: 0.23
 	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.13
 rounded:         1	           1	            1	         1	         1	5
 
-152: 0.23
+78: 0.22
 	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.13
 rounded:         1	           1	            1	         1	         1	5
 
-153: 0.23
+79: 0.22
 	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.13
 rounded:         1	           1	            1	         1	         1	5
 
-154: 0.23
-	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.13
-rounded:         1	           1	            1	         1	         1	5
-
-155: 0.23
-	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.13
-rounded:         1	           1	            1	         1	         1	5
-
-156: 0.22
-	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.13
-rounded:         1	           1	            1	         1	         1	5
-
-157: 0.22
-	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.13
-rounded:         1	           1	            1	         1	         1	5
-
-158: 0.22
-	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.13
-rounded:         1	           1	            1	         1	         1	5
-
-159: 0.22
-	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.13
-rounded:         1	           1	            1	         1	         1	5
-
-160: 0.22
+80: 0.22
 	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.12
 rounded:         1	           1	            1	         1	         1	5
 
-161: 0.22
+81: 0.22
 	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.12
 rounded:         1	           1	            1	         1	         1	5
 
-162: 0.22
+82: 0.21
 	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.12
 rounded:         1	           1	            1	         1	         1	5
 
-163: 0.21
+83: 0.21
 	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.12
 rounded:         1	           1	            1	         1	         1	5
 
-164: 0.21
-	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.12
-rounded:         1	           1	            1	         1	         1	5
-
-165: 0.21
-	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.12
-rounded:         1	           1	            1	         1	         1	5
-
-166: 0.21
-	aluminum: 0.02	copper: 0.03	diamond: 0.03	gold: 0.02	iron: 0.12
-rounded:         1	           1	            1	         1	         1	5
-
-167: 0.21
+84: 0.21
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.12
 rounded:         1	           1	            1	         1	         1	5
 
-168: 0.21
+85: 0.21
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.12
 rounded:         1	           1	            1	         1	         1	5
 
-169: 0.21
+86: 0.20
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.12
 rounded:         1	           1	            1	         1	         1	5
 
-170: 0.21
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.12
-rounded:         1	           1	            1	         1	         1	5
-
-171: 0.20
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.12
-rounded:         1	           1	            1	         1	         1	5
-
-172: 0.20
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.12
-rounded:         1	           1	            1	         1	         1	5
-
-173: 0.20
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.12
-rounded:         1	           1	            1	         1	         1	5
-
-174: 0.20
+87: 0.20
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
 rounded:         1	           1	            1	         1	         1	5
 
-175: 0.20
+88: 0.20
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
 rounded:         1	           1	            1	         1	         1	5
 
-176: 0.20
+89: 0.20
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
 rounded:         1	           1	            1	         1	         1	5
 
-177: 0.20
+90: 0.19
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
 rounded:         1	           1	            1	         1	         1	5
 
-178: 0.20
+91: 0.19
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
 rounded:         1	           1	            1	         1	         1	5
 
-179: 0.20
+92: 0.19
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
 rounded:         1	           1	            1	         1	         1	5
 
-180: 0.19
+93: 0.19
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
 rounded:         1	           1	            1	         1	         1	5
 
-181: 0.19
+94: 0.19
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
 rounded:         1	           1	            1	         1	         1	5
 
-182: 0.19
+95: 0.18
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
 rounded:         1	           1	            1	         1	         1	5
 
-183: 0.19
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
-rounded:         1	           1	            1	         1	         1	5
-
-184: 0.19
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
-rounded:         1	           1	            1	         1	         1	5
-
-185: 0.19
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
-rounded:         1	           1	            1	         1	         1	5
-
-186: 0.19
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
-rounded:         1	           1	            1	         1	         1	5
-
-187: 0.19
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
-rounded:         1	           1	            1	         1	         1	5
-
-188: 0.19
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
-rounded:         1	           1	            1	         1	         1	5
-
-189: 0.19
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
-rounded:         1	           1	            1	         1	         1	5
-
-190: 0.18
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.11
-rounded:         1	           1	            1	         1	         1	5
-
-191: 0.18
+96: 0.18
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.10
 rounded:         1	           1	            1	         1	         1	5
 
-192: 0.18
+97: 0.18
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.10
 rounded:         1	           1	            1	         1	         1	5
 
-193: 0.18
+98: 0.18
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.10
 rounded:         1	           1	            1	         1	         1	5
 
-194: 0.18
+99: 0.18
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.10
 rounded:         1	           1	            1	         1	         1	5
 
-195: 0.18
+100: 0.17
 	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.10
 rounded:         1	           1	            1	         1	         1	5
 
-196: 0.18
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.10
-rounded:         1	           1	            1	         1	         1	5
-
-197: 0.18
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.10
-rounded:         1	           1	            1	         1	         1	5
-
-198: 0.18
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.10
-rounded:         1	           1	            1	         1	         1	5
-
-199: 0.18
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.10
-rounded:         1	           1	            1	         1	         1	5
-
-200: 0.17
-	aluminum: 0.01	copper: 0.03	diamond: 0.03	gold: 0.01	iron: 0.10
-rounded:         1	           1	            1	         1	         1	5
-
-201: 0.17
+101: 0.17
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.10
 rounded:         1	           1	            1	         1	         1	5
 
-202: 0.17
+102: 0.17
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.10
 rounded:         1	           1	            1	         1	         1	5
 
-203: 0.17
+103: 0.17
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.10
 rounded:         1	           1	            1	         1	         1	5
 
-204: 0.17
+104: 0.17
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.10
 rounded:         1	           1	            1	         1	         1	5
 
-205: 0.17
+105: 0.17
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.10
 rounded:         1	           1	            1	         1	         1	5
 
-206: 0.17
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.10
-rounded:         1	           1	            1	         1	         1	5
-
-207: 0.17
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.10
-rounded:         1	           1	            1	         1	         1	5
-
-208: 0.17
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.10
-rounded:         1	           1	            1	         1	         1	5
-
-209: 0.17
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.10
-rounded:         1	           1	            1	         1	         1	5
-
-210: 0.17
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.10
-rounded:         1	           1	            1	         1	         1	5
-
-211: 0.17
+106: 0.17
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
 rounded:         1	           1	            1	         1	         1	5
 
-212: 0.17
+107: 0.16
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
 rounded:         1	           1	            1	         1	         1	5
 
-213: 0.16
+108: 0.16
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
 rounded:         1	           1	            1	         1	         1	5
 
-214: 0.16
+109: 0.16
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
 rounded:         1	           1	            1	         1	         1	5
 
-215: 0.16
+110: 0.16
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
 rounded:         1	           1	            1	         1	         1	5
 
-216: 0.16
+111: 0.16
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
 rounded:         1	           1	            1	         1	         1	5
 
-217: 0.16
+112: 0.16
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
 rounded:         1	           1	            1	         1	         1	5
 
-218: 0.16
+113: 0.15
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
 rounded:         1	           1	            1	         1	         1	5
 
-219: 0.16
+114: 0.15
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
 rounded:         1	           1	            1	         1	         1	5
 
-220: 0.16
+115: 0.15
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
 rounded:         1	           1	            1	         1	         1	5
 
-221: 0.16
+116: 0.15
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
 rounded:         1	           1	            1	         1	         1	5
 
-222: 0.16
+117: 0.15
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
 rounded:         1	           1	            1	         1	         1	5
 
-223: 0.16
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-224: 0.16
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-225: 0.16
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-226: 0.15
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-227: 0.15
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-228: 0.15
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-229: 0.15
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-230: 0.15
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-231: 0.15
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-232: 0.15
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-233: 0.15
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-234: 0.15
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-235: 0.15
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.09
-rounded:         1	           1	            1	         1	         1	5
-
-236: 0.15
+118: 0.15
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-237: 0.15
+119: 0.15
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-238: 0.15
+120: 0.15
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-239: 0.15
+121: 0.14
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-240: 0.15
+122: 0.14
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-241: 0.15
+123: 0.14
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-242: 0.14
+124: 0.14
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-243: 0.14
+125: 0.14
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-244: 0.14
+126: 0.14
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-245: 0.14
+127: 0.14
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-246: 0.14
+128: 0.14
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-247: 0.14
+129: 0.14
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-248: 0.14
+130: 0.13
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-249: 0.14
+131: 0.13
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-250: 0.14
+132: 0.13
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-251: 0.14
+133: 0.13
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
 rounded:         1	           1	            1	         1	         1	5
 
-252: 0.14
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-253: 0.14
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-254: 0.14
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-255: 0.14
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-256: 0.14
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-257: 0.14
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-258: 0.14
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-259: 0.14
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-260: 0.13
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-261: 0.13
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-262: 0.13
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-263: 0.13
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-264: 0.13
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-265: 0.13
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-266: 0.13
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.08
-rounded:         1	           1	            1	         1	         1	5
-
-267: 0.13
+134: 0.13
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-268: 0.13
+135: 0.13
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-269: 0.13
+136: 0.13
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-270: 0.13
+137: 0.13
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-271: 0.13
+138: 0.13
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-272: 0.13
+139: 0.13
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-273: 0.13
+140: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-274: 0.13
+141: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-275: 0.13
+142: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-276: 0.13
+143: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-277: 0.13
+144: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-278: 0.13
+145: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-279: 0.13
+146: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-280: 0.12
+147: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-281: 0.12
+148: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-282: 0.12
+149: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-283: 0.12
+150: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-284: 0.12
+151: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-285: 0.12
+152: 0.12
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-286: 0.12
+153: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
 rounded:         1	           1	            1	         1	         1	5
 
-287: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-288: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-289: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-290: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-291: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-292: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-293: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-294: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-295: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-296: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-297: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-298: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-299: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-300: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-301: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-302: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-303: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-304: 0.12
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-305: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-306: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-307: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.07
-rounded:         1	           1	            1	         1	         1	5
-
-308: 0.11
+154: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-309: 0.11
+155: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-310: 0.11
+156: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-311: 0.11
+157: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-312: 0.11
+158: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-313: 0.11
+159: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-314: 0.11
+160: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-315: 0.11
+161: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-316: 0.11
+162: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-317: 0.11
+163: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-318: 0.11
+164: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-319: 0.11
+165: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-320: 0.11
+166: 0.11
 	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-321: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-322: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-323: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-324: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-325: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-326: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-327: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-328: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-329: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-330: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-331: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-332: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-333: 0.11
-	aluminum: 0.01	copper: 0.02	diamond: 0.02	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-334: 0.10
+167: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-335: 0.10
+168: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-336: 0.10
+169: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-337: 0.10
+170: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-338: 0.10
+171: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-339: 0.10
+172: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-340: 0.10
+173: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-341: 0.10
+174: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-342: 0.10
+175: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-343: 0.10
+176: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-344: 0.10
+177: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-345: 0.10
+178: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-346: 0.10
+179: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-347: 0.10
+180: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-348: 0.10
+181: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
 rounded:         1	           1	            1	         1	         1	5
 
-349: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-350: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-351: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-352: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-353: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-354: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-355: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-356: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-357: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-358: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-359: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-360: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-361: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-362: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-363: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.06
-rounded:         1	           1	            1	         1	         1	5
-
-364: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-365: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-366: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-367: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-368: 0.10
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-369: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-370: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-371: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-372: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-373: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-374: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-375: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-376: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-377: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-378: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-379: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-380: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-381: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-382: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-383: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-384: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-385: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-386: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-387: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-388: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-389: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-390: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-391: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-392: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-393: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-394: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-395: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-396: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-397: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-398: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-399: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-400: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-401: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-402: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-403: 0.09
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
-rounded:         1	           1	            1	         1	         1	5
-
-404: 0.09
+182: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-405: 0.09
+183: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-406: 0.09
+184: 0.10
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-407: 0.09
+185: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-408: 0.09
+186: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-409: 0.09
+187: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-410: 0.09
+188: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-411: 0.09
+189: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-412: 0.08
+190: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-413: 0.08
+191: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-414: 0.08
+192: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-415: 0.08
+193: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-416: 0.08
+194: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-417: 0.08
+195: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-418: 0.08
+196: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-419: 0.08
+197: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-420: 0.08
+198: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-421: 0.08
+199: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-422: 0.08
+200: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-423: 0.08
+201: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-424: 0.08
+202: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-425: 0.08
+203: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-426: 0.08
+204: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-427: 0.08
+205: 0.09
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-428: 0.08
+206: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-429: 0.08
+207: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-430: 0.08
+208: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-431: 0.08
+209: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-432: 0.08
+210: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-433: 0.08
+211: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-434: 0.08
+212: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-435: 0.08
+213: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-436: 0.08
+214: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-437: 0.08
+215: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-438: 0.08
+216: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-439: 0.08
+217: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-440: 0.08
+218: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-441: 0.08
+219: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-442: 0.08
+220: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-443: 0.08
+221: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-444: 0.08
+222: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.05
 rounded:         1	           1	            1	         1	         1	5
 
-445: 0.08
+223: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-446: 0.08
+224: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-447: 0.08
+225: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-448: 0.08
+226: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-449: 0.08
+227: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-450: 0.08
+228: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-451: 0.08
+229: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-452: 0.08
+230: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-453: 0.08
+231: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-454: 0.08
+232: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-455: 0.08
+233: 0.08
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-456: 0.08
+234: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-457: 0.08
+235: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-458: 0.08
+236: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-459: 0.08
+237: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-460: 0.08
+238: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-461: 0.08
+239: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-462: 0.08
+240: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-463: 0.08
+241: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-464: 0.08
+242: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-465: 0.08
+243: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-466: 0.08
+244: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-467: 0.07
+245: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-468: 0.07
+246: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-469: 0.07
+247: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-470: 0.07
+248: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-471: 0.07
+249: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-472: 0.07
+250: 0.07
 	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-473: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-474: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-475: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-476: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-477: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-478: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-479: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-480: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-481: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-482: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-483: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-484: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-485: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-486: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-487: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-488: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-489: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-490: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-491: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-492: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-493: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-494: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-495: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-496: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-497: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-498: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-499: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-500: 0.07
-	aluminum: 0.01	copper: 0.01	diamond: 0.01	gold: 0.01	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-501: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-502: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-503: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-504: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-505: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-506: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-507: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-508: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-509: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-510: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-511: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-512: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-513: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-514: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-515: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-516: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-517: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-518: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-519: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-520: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-521: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-522: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-523: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-524: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-525: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-526: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-527: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-528: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-529: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-530: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-531: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-532: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-533: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-534: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-535: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-536: 0.07
-	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
-rounded:         1	           1	            1	         1	         1	5
-
-537: 0.07
+251: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-538: 0.07
+252: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-539: 0.06
+253: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-540: 0.06
+254: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-541: 0.06
+255: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-542: 0.06
+256: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-543: 0.06
+257: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-544: 0.06
+258: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-545: 0.06
+259: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-546: 0.06
+260: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-547: 0.06
+261: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-548: 0.06
+262: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-549: 0.06
+263: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-550: 0.06
+264: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-551: 0.06
+265: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-552: 0.06
+266: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-553: 0.06
+267: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-554: 0.06
+268: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-555: 0.06
+269: 0.07
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-556: 0.06
+270: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-557: 0.06
+271: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-558: 0.06
+272: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-559: 0.06
+273: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-560: 0.06
+274: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-561: 0.06
+275: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-562: 0.06
+276: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-563: 0.06
+277: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-564: 0.06
+278: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-565: 0.06
+279: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-566: 0.06
+280: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-567: 0.06
+281: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-568: 0.06
+282: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-569: 0.06
+283: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-570: 0.06
+284: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-571: 0.06
+285: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.04
 rounded:         1	           1	            1	         1	         1	5
 
-572: 0.06
+286: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-573: 0.06
+287: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-574: 0.06
+288: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-575: 0.06
+289: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-576: 0.06
+290: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-577: 0.06
+291: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-578: 0.06
+292: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-579: 0.06
+293: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-580: 0.06
+294: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-581: 0.06
+295: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-582: 0.06
+296: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-583: 0.06
+297: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-584: 0.06
+298: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-585: 0.06
+299: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-586: 0.06
+300: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-587: 0.06
+301: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-588: 0.06
+302: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-589: 0.06
+303: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-590: 0.06
+304: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-591: 0.06
+305: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-592: 0.06
+306: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-593: 0.06
+307: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-594: 0.06
+308: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-595: 0.06
+309: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-596: 0.06
+310: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-597: 0.06
+311: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-598: 0.06
+312: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-599: 0.06
+313: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
 rounded:         1	           1	            1	         1	         1	5
 
-600: 0.06
+314: 0.06
 	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+315: 0.06
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+316: 0.06
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+317: 0.06
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+318: 0.06
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+319: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+320: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+321: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+322: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+323: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+324: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+325: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+326: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+327: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+328: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+329: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+330: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+331: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+332: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+333: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+334: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+335: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+336: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+337: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+338: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+339: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+340: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+341: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+342: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+343: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+344: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+345: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+346: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+347: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+348: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+349: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+350: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+351: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+352: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+353: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+354: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+355: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+356: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+357: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+358: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+359: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+360: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+361: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+362: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+363: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+364: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+365: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+366: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+367: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+368: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+369: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+370: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+371: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+372: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+373: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+374: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+375: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+376: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+377: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+378: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+379: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+380: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+381: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+382: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+383: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+384: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+385: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+386: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+387: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+388: 0.05
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+389: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+390: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+391: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+392: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+393: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+394: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+395: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+396: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+397: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+398: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+399: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+400: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.03
+rounded:         1	           1	            1	         1	         1	5
+
+401: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+402: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+403: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+404: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+405: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+406: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+407: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+408: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+409: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+410: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+411: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+412: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+413: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+414: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+415: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+416: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+417: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+418: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+419: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+420: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+421: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+422: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+423: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+424: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+425: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+426: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+427: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+428: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+429: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+430: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+431: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+432: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+433: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+434: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+435: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+436: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+437: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+438: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+439: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+440: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+441: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+442: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+443: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+444: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+445: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+446: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+447: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+448: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+449: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+450: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+451: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+452: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+453: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+454: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+455: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+456: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+457: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+458: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+459: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+460: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+461: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+462: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+463: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+464: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+465: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+466: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+467: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+468: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+469: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+470: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+471: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+472: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+473: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+474: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+475: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+476: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+477: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+478: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+479: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+480: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+481: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+482: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+483: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+484: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+485: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+486: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+487: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+488: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+489: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+490: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+491: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+492: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+493: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+494: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+495: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+496: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+497: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+498: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+499: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+500: 0.04
+	aluminum: 0.00	copper: 0.01	diamond: 0.01	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+501: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+502: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+503: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+504: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+505: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+506: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+507: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+508: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+509: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+510: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+511: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+512: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+513: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+514: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+515: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+516: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+517: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+518: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+519: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+520: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+521: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+522: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+523: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+524: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+525: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+526: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+527: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+528: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+529: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+530: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+531: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+532: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+533: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+534: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+535: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+536: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+537: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+538: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+539: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+540: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+541: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+542: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+543: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+544: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+545: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+546: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+547: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+548: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+549: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+550: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+551: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+552: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+553: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+554: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+555: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+556: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+557: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+558: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+559: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+560: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+561: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+562: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+563: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+564: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+565: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+566: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+567: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+568: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+569: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+570: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+571: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+572: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+573: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+574: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+575: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+576: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+577: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+578: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+579: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+580: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+581: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+582: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+583: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+584: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+585: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+586: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+587: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+588: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+589: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+590: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+591: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+592: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+593: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+594: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+595: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+596: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+597: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+598: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+599: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
+rounded:         1	           1	            1	         1	         1	5
+
+600: 0.03
+	aluminum: 0.00	copper: 0.00	diamond: 0.00	gold: 0.00	iron: 0.02
 rounded:         1	           1	            1	         1	         1	5
 

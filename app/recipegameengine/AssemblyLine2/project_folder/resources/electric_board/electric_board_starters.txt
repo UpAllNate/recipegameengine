@@ -1,801 +1,801 @@
 Starters needed for period...
-1: 1.00
-	aluminum: 0.50	copper: 0.50
-rounded:         1	           1	2
-
-2: 0.50
+1: 0.50
 	aluminum: 0.25	copper: 0.25
 rounded:         1	           1	2
 
-3: 0.33
-	aluminum: 0.17	copper: 0.17
-rounded:         1	           1	2
-
-4: 0.25
+2: 0.25
 	aluminum: 0.12	copper: 0.12
 rounded:         1	           1	2
 
-5: 0.20
-	aluminum: 0.10	copper: 0.10
-rounded:         1	           1	2
-
-6: 0.17
+3: 0.17
 	aluminum: 0.08	copper: 0.08
 rounded:         1	           1	2
 
-7: 0.14
-	aluminum: 0.07	copper: 0.07
-rounded:         1	           1	2
-
-8: 0.12
+4: 0.12
 	aluminum: 0.06	copper: 0.06
 rounded:         1	           1	2
 
-9: 0.11
-	aluminum: 0.06	copper: 0.06
-rounded:         1	           1	2
-
-10: 0.10
+5: 0.10
 	aluminum: 0.05	copper: 0.05
 rounded:         1	           1	2
 
-11: 0.09
-	aluminum: 0.05	copper: 0.05
-rounded:         1	           1	2
-
-12: 0.08
+6: 0.08
 	aluminum: 0.04	copper: 0.04
 rounded:         1	           1	2
 
-13: 0.08
+7: 0.07
 	aluminum: 0.04	copper: 0.04
 rounded:         1	           1	2
 
-14: 0.07
-	aluminum: 0.04	copper: 0.04
-rounded:         1	           1	2
-
-15: 0.07
+8: 0.06
 	aluminum: 0.03	copper: 0.03
 rounded:         1	           1	2
 
-16: 0.06
+9: 0.06
 	aluminum: 0.03	copper: 0.03
 rounded:         1	           1	2
 
-17: 0.06
+10: 0.05
 	aluminum: 0.03	copper: 0.03
 rounded:         1	           1	2
 
-18: 0.06
-	aluminum: 0.03	copper: 0.03
-rounded:         1	           1	2
-
-19: 0.05
-	aluminum: 0.03	copper: 0.03
-rounded:         1	           1	2
-
-20: 0.05
-	aluminum: 0.03	copper: 0.03
-rounded:         1	           1	2
-
-21: 0.05
+11: 0.05
 	aluminum: 0.02	copper: 0.02
 rounded:         1	           1	2
 
-22: 0.05
+12: 0.04
 	aluminum: 0.02	copper: 0.02
 rounded:         1	           1	2
 
-23: 0.04
+13: 0.04
 	aluminum: 0.02	copper: 0.02
 rounded:         1	           1	2
 
-24: 0.04
+14: 0.04
 	aluminum: 0.02	copper: 0.02
 rounded:         1	           1	2
 
-25: 0.04
+15: 0.03
 	aluminum: 0.02	copper: 0.02
 rounded:         1	           1	2
 
-26: 0.04
+16: 0.03
 	aluminum: 0.02	copper: 0.02
 rounded:         1	           1	2
 
-27: 0.04
-	aluminum: 0.02	copper: 0.02
-rounded:         1	           1	2
-
-28: 0.04
-	aluminum: 0.02	copper: 0.02
-rounded:         1	           1	2
-
-29: 0.03
-	aluminum: 0.02	copper: 0.02
-rounded:         1	           1	2
-
-30: 0.03
-	aluminum: 0.02	copper: 0.02
-rounded:         1	           1	2
-
-31: 0.03
-	aluminum: 0.02	copper: 0.02
-rounded:         1	           1	2
-
-32: 0.03
-	aluminum: 0.02	copper: 0.02
-rounded:         1	           1	2
-
-33: 0.03
-	aluminum: 0.02	copper: 0.02
-rounded:         1	           1	2
-
-34: 0.03
+17: 0.03
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-35: 0.03
+18: 0.03
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-36: 0.03
+19: 0.03
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-37: 0.03
+20: 0.03
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-38: 0.03
+21: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-39: 0.03
+22: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-40: 0.03
+23: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-41: 0.02
+24: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-42: 0.02
+25: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-43: 0.02
+26: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-44: 0.02
+27: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-45: 0.02
+28: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-46: 0.02
+29: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-47: 0.02
+30: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-48: 0.02
+31: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-49: 0.02
+32: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-50: 0.02
+33: 0.02
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-51: 0.02
+34: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-52: 0.02
+35: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-53: 0.02
+36: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-54: 0.02
+37: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-55: 0.02
+38: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-56: 0.02
+39: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-57: 0.02
+40: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-58: 0.02
+41: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-59: 0.02
+42: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-60: 0.02
+43: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-61: 0.02
+44: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-62: 0.02
+45: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-63: 0.02
+46: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-64: 0.02
+47: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-65: 0.02
+48: 0.01
 	aluminum: 0.01	copper: 0.01
 rounded:         1	           1	2
 
-66: 0.02
+49: 0.01
 	aluminum: 0.01	copper: 0.01
+rounded:         1	           1	2
+
+50: 0.01
+	aluminum: 0.01	copper: 0.01
+rounded:         1	           1	2
+
+51: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+52: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+53: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+54: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+55: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+56: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+57: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+58: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+59: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+60: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+61: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+62: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+63: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+64: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+65: 0.01
+	aluminum: 0.00	copper: 0.00
+rounded:         1	           1	2
+
+66: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 67: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 68: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 69: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 70: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 71: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 72: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 73: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 74: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 75: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 76: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 77: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 78: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 79: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 80: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 81: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 82: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 83: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 84: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 85: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 86: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 87: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 88: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 89: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 90: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 91: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 92: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 93: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 94: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 95: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 96: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 97: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 98: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 99: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
 100: 0.01
-	aluminum: 0.01	copper: 0.01
+	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-101: 0.01
+101: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-102: 0.01
+102: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-103: 0.01
+103: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-104: 0.01
+104: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-105: 0.01
+105: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-106: 0.01
+106: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-107: 0.01
+107: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-108: 0.01
+108: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-109: 0.01
+109: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-110: 0.01
+110: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-111: 0.01
+111: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-112: 0.01
+112: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-113: 0.01
+113: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-114: 0.01
+114: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-115: 0.01
+115: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-116: 0.01
+116: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-117: 0.01
+117: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-118: 0.01
+118: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-119: 0.01
+119: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-120: 0.01
+120: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-121: 0.01
+121: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-122: 0.01
+122: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-123: 0.01
+123: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-124: 0.01
+124: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-125: 0.01
+125: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-126: 0.01
+126: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-127: 0.01
+127: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-128: 0.01
+128: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-129: 0.01
+129: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-130: 0.01
+130: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-131: 0.01
+131: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-132: 0.01
+132: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-133: 0.01
+133: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-134: 0.01
+134: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-135: 0.01
+135: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-136: 0.01
+136: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-137: 0.01
+137: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-138: 0.01
+138: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-139: 0.01
+139: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-140: 0.01
+140: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-141: 0.01
+141: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-142: 0.01
+142: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-143: 0.01
+143: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-144: 0.01
+144: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-145: 0.01
+145: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-146: 0.01
+146: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-147: 0.01
+147: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-148: 0.01
+148: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-149: 0.01
+149: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-150: 0.01
+150: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-151: 0.01
+151: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-152: 0.01
+152: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-153: 0.01
+153: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-154: 0.01
+154: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-155: 0.01
+155: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-156: 0.01
+156: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-157: 0.01
+157: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-158: 0.01
+158: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-159: 0.01
+159: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-160: 0.01
+160: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-161: 0.01
+161: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-162: 0.01
+162: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-163: 0.01
+163: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-164: 0.01
+164: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-165: 0.01
+165: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-166: 0.01
+166: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-167: 0.01
+167: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-168: 0.01
+168: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-169: 0.01
+169: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-170: 0.01
+170: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-171: 0.01
+171: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-172: 0.01
+172: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-173: 0.01
+173: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-174: 0.01
+174: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-175: 0.01
+175: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-176: 0.01
+176: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-177: 0.01
+177: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-178: 0.01
+178: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-179: 0.01
+179: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-180: 0.01
+180: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-181: 0.01
+181: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-182: 0.01
+182: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-183: 0.01
+183: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-184: 0.01
+184: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-185: 0.01
+185: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-186: 0.01
+186: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-187: 0.01
+187: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-188: 0.01
+188: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-189: 0.01
+189: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-190: 0.01
+190: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-191: 0.01
+191: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-192: 0.01
+192: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-193: 0.01
+193: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-194: 0.01
+194: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-195: 0.01
+195: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-196: 0.01
+196: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-197: 0.01
+197: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-198: 0.01
+198: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-199: 0.01
+199: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
-200: 0.01
+200: 0.00
 	aluminum: 0.00	copper: 0.00
 rounded:         1	           1	2
 
