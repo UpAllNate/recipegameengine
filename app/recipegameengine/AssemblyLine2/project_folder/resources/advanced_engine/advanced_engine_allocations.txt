@@ -1,0 +1,25 @@
+[circuit] 5 total, 1 resources
+	advanced_engine          ...     5...100.00%
+
+[engine] 5 total, 1 resources
+	advanced_engine          ...     5...100.00%
+
+[copper_wire] 5 total, 1 resources
+	circuit                  ...     5...100.00%
+
+[iron_gear] 5 total, 1 resources
+	engine                   ...     5...100.00%
+
+[copper] 5 total, 1 resources
+	copper_wire              ...     5...100.00%
+
+[diamond] 10 total, 1 resources
+	advanced_engine          ...    10...100.00%
+
+[gold] 5 total, 1 resources
+	circuit                  ...     5...100.00%
+
+[iron] 10 total, 2 resources
+	engine                   ...     5... 50.00%
+	iron_gear                ...     5... 50.00%
+

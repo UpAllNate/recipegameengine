@@ -1,0 +1,4 @@
+[circuit]           , flat ingredient count:   0 ... depth: 2
+	copper_wire ... 1.00
+		copper ... 1.00
+	gold ... 1.00

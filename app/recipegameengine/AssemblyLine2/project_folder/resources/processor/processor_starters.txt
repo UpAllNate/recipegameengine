@@ -1,0 +1,2401 @@
+Starters needed for period...
+1: 4.00
+	copper: 0.50	diamond: 1.50	gold: 2.00
+rounded:       1	            2	         2	5
+
+2: 2.00
+	copper: 0.25	diamond: 0.75	gold: 1.00
+rounded:       1	            1	         1	3
+
+3: 1.33
+	copper: 0.17	diamond: 0.50	gold: 0.67
+rounded:       1	            1	         1	3
+
+4: 1.00
+	copper: 0.12	diamond: 0.38	gold: 0.50
+rounded:       1	            1	         1	3
+
+5: 0.80
+	copper: 0.10	diamond: 0.30	gold: 0.40
+rounded:       1	            1	         1	3
+
+6: 0.67
+	copper: 0.08	diamond: 0.25	gold: 0.33
+rounded:       1	            1	         1	3
+
+7: 0.57
+	copper: 0.07	diamond: 0.21	gold: 0.29
+rounded:       1	            1	         1	3
+
+8: 0.50
+	copper: 0.06	diamond: 0.19	gold: 0.25
+rounded:       1	            1	         1	3
+
+9: 0.44
+	copper: 0.06	diamond: 0.17	gold: 0.22
+rounded:       1	            1	         1	3
+
+10: 0.40
+	copper: 0.05	diamond: 0.15	gold: 0.20
+rounded:       1	            1	         1	3
+
+11: 0.36
+	copper: 0.05	diamond: 0.14	gold: 0.18
+rounded:       1	            1	         1	3
+
+12: 0.33
+	copper: 0.04	diamond: 0.12	gold: 0.17
+rounded:       1	            1	         1	3
+
+13: 0.31
+	copper: 0.04	diamond: 0.12	gold: 0.15
+rounded:       1	            1	         1	3
+
+14: 0.29
+	copper: 0.04	diamond: 0.11	gold: 0.14
+rounded:       1	            1	         1	3
+
+15: 0.27
+	copper: 0.03	diamond: 0.10	gold: 0.13
+rounded:       1	            1	         1	3
+
+16: 0.25
+	copper: 0.03	diamond: 0.09	gold: 0.12
+rounded:       1	            1	         1	3
+
+17: 0.24
+	copper: 0.03	diamond: 0.09	gold: 0.12
+rounded:       1	            1	         1	3
+
+18: 0.22
+	copper: 0.03	diamond: 0.08	gold: 0.11
+rounded:       1	            1	         1	3
+
+19: 0.21
+	copper: 0.03	diamond: 0.08	gold: 0.11
+rounded:       1	            1	         1	3
+
+20: 0.20
+	copper: 0.03	diamond: 0.07	gold: 0.10
+rounded:       1	            1	         1	3
+
+21: 0.19
+	copper: 0.02	diamond: 0.07	gold: 0.10
+rounded:       1	            1	         1	3
+
+22: 0.18
+	copper: 0.02	diamond: 0.07	gold: 0.09
+rounded:       1	            1	         1	3
+
+23: 0.17
+	copper: 0.02	diamond: 0.07	gold: 0.09
+rounded:       1	            1	         1	3
+
+24: 0.17
+	copper: 0.02	diamond: 0.06	gold: 0.08
+rounded:       1	            1	         1	3
+
+25: 0.16
+	copper: 0.02	diamond: 0.06	gold: 0.08
+rounded:       1	            1	         1	3
+
+26: 0.15
+	copper: 0.02	diamond: 0.06	gold: 0.08
+rounded:       1	            1	         1	3
+
+27: 0.15
+	copper: 0.02	diamond: 0.06	gold: 0.07
+rounded:       1	            1	         1	3
+
+28: 0.14
+	copper: 0.02	diamond: 0.05	gold: 0.07
+rounded:       1	            1	         1	3
+
+29: 0.14
+	copper: 0.02	diamond: 0.05	gold: 0.07
+rounded:       1	            1	         1	3
+
+30: 0.13
+	copper: 0.02	diamond: 0.05	gold: 0.07
+rounded:       1	            1	         1	3
+
+31: 0.13
+	copper: 0.02	diamond: 0.05	gold: 0.06
+rounded:       1	            1	         1	3
+
+32: 0.12
+	copper: 0.02	diamond: 0.05	gold: 0.06
+rounded:       1	            1	         1	3
+
+33: 0.12
+	copper: 0.02	diamond: 0.05	gold: 0.06
+rounded:       1	            1	         1	3
+
+34: 0.12
+	copper: 0.01	diamond: 0.04	gold: 0.06
+rounded:       1	            1	         1	3
+
+35: 0.11
+	copper: 0.01	diamond: 0.04	gold: 0.06
+rounded:       1	            1	         1	3
+
+36: 0.11
+	copper: 0.01	diamond: 0.04	gold: 0.06
+rounded:       1	            1	         1	3
+
+37: 0.11
+	copper: 0.01	diamond: 0.04	gold: 0.05
+rounded:       1	            1	         1	3
+
+38: 0.11
+	copper: 0.01	diamond: 0.04	gold: 0.05
+rounded:       1	            1	         1	3
+
+39: 0.10
+	copper: 0.01	diamond: 0.04	gold: 0.05
+rounded:       1	            1	         1	3
+
+40: 0.10
+	copper: 0.01	diamond: 0.04	gold: 0.05
+rounded:       1	            1	         1	3
+
+41: 0.10
+	copper: 0.01	diamond: 0.04	gold: 0.05
+rounded:       1	            1	         1	3
+
+42: 0.10
+	copper: 0.01	diamond: 0.04	gold: 0.05
+rounded:       1	            1	         1	3
+
+43: 0.09
+	copper: 0.01	diamond: 0.03	gold: 0.05
+rounded:       1	            1	         1	3
+
+44: 0.09
+	copper: 0.01	diamond: 0.03	gold: 0.05
+rounded:       1	            1	         1	3
+
+45: 0.09
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+46: 0.09
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+47: 0.09
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+48: 0.08
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+49: 0.08
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+50: 0.08
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+51: 0.08
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+52: 0.08
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+53: 0.08
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+54: 0.07
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+55: 0.07
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+56: 0.07
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+57: 0.07
+	copper: 0.01	diamond: 0.03	gold: 0.04
+rounded:       1	            1	         1	3
+
+58: 0.07
+	copper: 0.01	diamond: 0.03	gold: 0.03
+rounded:       1	            1	         1	3
+
+59: 0.07
+	copper: 0.01	diamond: 0.03	gold: 0.03
+rounded:       1	            1	         1	3
+
+60: 0.07
+	copper: 0.01	diamond: 0.03	gold: 0.03
+rounded:       1	            1	         1	3
+
+61: 0.07
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+62: 0.06
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+63: 0.06
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+64: 0.06
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+65: 0.06
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+66: 0.06
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+67: 0.06
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+68: 0.06
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+69: 0.06
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+70: 0.06
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+71: 0.06
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+72: 0.06
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+73: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+74: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+75: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+76: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+77: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+78: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+79: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+80: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.03
+rounded:       1	            1	         1	3
+
+81: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+82: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+83: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+84: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+85: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+86: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+87: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+88: 0.05
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+89: 0.04
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+90: 0.04
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+91: 0.04
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+92: 0.04
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+93: 0.04
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+94: 0.04
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+95: 0.04
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+96: 0.04
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+97: 0.04
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+98: 0.04
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+99: 0.04
+	copper: 0.01	diamond: 0.02	gold: 0.02
+rounded:       1	            1	         1	3
+
+100: 0.04
+	copper: 0.01	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+101: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+102: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+103: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+104: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+105: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+106: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+107: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+108: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+109: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+110: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+111: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+112: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+113: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+114: 0.04
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+115: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+116: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+117: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+118: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+119: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+120: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+121: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+122: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+123: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+124: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+125: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+126: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+127: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+128: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+129: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+130: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+131: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+132: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+133: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.02
+rounded:       1	            1	         1	3
+
+134: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+135: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+136: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+137: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+138: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+139: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+140: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+141: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+142: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+143: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+144: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+145: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+146: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+147: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+148: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+149: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+150: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+151: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+152: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+153: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+154: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+155: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+156: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+157: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+158: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+159: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+160: 0.03
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+161: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+162: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+163: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+164: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+165: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+166: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+167: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+168: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+169: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+170: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+171: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+172: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+173: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+174: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+175: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+176: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+177: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+178: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+179: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+180: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+181: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+182: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+183: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+184: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+185: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+186: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+187: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+188: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+189: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+190: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+191: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+192: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+193: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+194: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+195: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+196: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+197: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+198: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+199: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+200: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+201: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+202: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+203: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+204: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+205: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+206: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+207: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+208: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+209: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+210: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+211: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+212: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+213: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+214: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+215: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+216: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+217: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+218: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+219: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+220: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+221: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+222: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+223: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+224: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+225: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+226: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+227: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+228: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+229: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+230: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+231: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+232: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+233: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+234: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+235: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+236: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+237: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+238: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+239: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+240: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+241: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+242: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+243: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+244: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+245: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+246: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+247: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+248: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+249: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+250: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+251: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+252: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+253: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+254: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+255: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+256: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+257: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+258: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+259: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+260: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+261: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+262: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+263: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+264: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+265: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+266: 0.02
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+267: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+268: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+269: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+270: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+271: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+272: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+273: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+274: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+275: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+276: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+277: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+278: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+279: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+280: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+281: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+282: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+283: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+284: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+285: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+286: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+287: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+288: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+289: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+290: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+291: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+292: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+293: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+294: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+295: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+296: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+297: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+298: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+299: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+300: 0.01
+	copper: 0.00	diamond: 0.01	gold: 0.01
+rounded:       1	            1	         1	3
+
+301: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+302: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+303: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+304: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+305: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+306: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+307: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+308: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+309: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+310: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+311: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+312: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+313: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+314: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+315: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+316: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+317: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+318: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+319: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+320: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+321: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+322: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+323: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+324: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+325: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+326: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+327: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+328: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+329: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+330: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+331: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+332: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+333: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+334: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+335: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+336: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+337: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+338: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+339: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+340: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+341: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+342: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+343: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+344: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+345: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+346: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+347: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+348: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+349: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+350: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+351: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+352: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+353: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+354: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+355: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+356: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+357: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+358: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+359: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+360: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+361: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+362: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+363: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+364: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+365: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+366: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+367: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+368: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+369: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+370: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+371: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+372: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+373: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+374: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+375: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+376: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+377: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+378: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+379: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+380: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+381: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+382: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+383: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+384: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+385: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+386: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+387: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+388: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+389: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+390: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+391: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+392: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+393: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+394: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+395: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+396: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+397: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+398: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+399: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+400: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.01
+rounded:       1	            1	         1	3
+
+401: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+402: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+403: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+404: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+405: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+406: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+407: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+408: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+409: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+410: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+411: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+412: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+413: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+414: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+415: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+416: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+417: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+418: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+419: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+420: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+421: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+422: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+423: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+424: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+425: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+426: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+427: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+428: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+429: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+430: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+431: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+432: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+433: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+434: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+435: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+436: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+437: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+438: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+439: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+440: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+441: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+442: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+443: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+444: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+445: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+446: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+447: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+448: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+449: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+450: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+451: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+452: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+453: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+454: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+455: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+456: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+457: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+458: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+459: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+460: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+461: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+462: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+463: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+464: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+465: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+466: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+467: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+468: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+469: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+470: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+471: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+472: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+473: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+474: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+475: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+476: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+477: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+478: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+479: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+480: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+481: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+482: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+483: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+484: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+485: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+486: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+487: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+488: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+489: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+490: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+491: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+492: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+493: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+494: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+495: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+496: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+497: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+498: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+499: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+500: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+501: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+502: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+503: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+504: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+505: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+506: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+507: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+508: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+509: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+510: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+511: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+512: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+513: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+514: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+515: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+516: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+517: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+518: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+519: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+520: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+521: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+522: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+523: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+524: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+525: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+526: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+527: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+528: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+529: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+530: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+531: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+532: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+533: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+534: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+535: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+536: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+537: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+538: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+539: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+540: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+541: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+542: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+543: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+544: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+545: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+546: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+547: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+548: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+549: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+550: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+551: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+552: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+553: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+554: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+555: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+556: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+557: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+558: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+559: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+560: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+561: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+562: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+563: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+564: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+565: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+566: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+567: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+568: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+569: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+570: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+571: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+572: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+573: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+574: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+575: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+576: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+577: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+578: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+579: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+580: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+581: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+582: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+583: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+584: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+585: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+586: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+587: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+588: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+589: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+590: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+591: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+592: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+593: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+594: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+595: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+596: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+597: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+598: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+599: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+
+600: 0.01
+	copper: 0.00	diamond: 0.00	gold: 0.00
+rounded:       1	            1	         1	3
+

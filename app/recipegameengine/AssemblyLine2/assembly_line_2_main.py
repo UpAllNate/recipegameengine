@@ -1,7 +1,7 @@
 from recipegameengine import RecipeEngine
 from recipegameengine import Resource, Ingredient
 from recipegameengine import get_starters_required
-from allocation_file import generate_allocation_file, generate_straight_split_string
+from allocation_file import generate_allocation_file, generate_straight_split_string, generate_RSD_split_string
 
 from pathlib import Path
 import os

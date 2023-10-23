@@ -1,0 +1,2 @@
+[copper_liquid]     , flat ingredient count:   0 ... depth: 1
+	copper ... 1.00

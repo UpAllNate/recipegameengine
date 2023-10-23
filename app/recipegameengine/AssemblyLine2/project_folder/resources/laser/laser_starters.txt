@@ -1,0 +1,2401 @@
+Starters needed for period...
+1: 12.50
+	aluminum: 2.50	copper: 5.00	iron: 5.00
+rounded:         3	           5	         5	13
+
+2: 6.25
+	aluminum: 1.25	copper: 2.50	iron: 2.50
+rounded:         2	           3	         3	8
+
+3: 4.17
+	aluminum: 0.83	copper: 1.67	iron: 1.67
+rounded:         1	           2	         2	5
+
+4: 3.12
+	aluminum: 0.62	copper: 1.25	iron: 1.25
+rounded:         1	           2	         2	5
+
+5: 2.50
+	aluminum: 0.50	copper: 1.00	iron: 1.00
+rounded:         1	           1	         1	3
+
+6: 2.08
+	aluminum: 0.42	copper: 0.83	iron: 0.83
+rounded:         1	           1	         1	3
+
+7: 1.79
+	aluminum: 0.36	copper: 0.71	iron: 0.71
+rounded:         1	           1	         1	3
+
+8: 1.56
+	aluminum: 0.31	copper: 0.62	iron: 0.62
+rounded:         1	           1	         1	3
+
+9: 1.39
+	aluminum: 0.28	copper: 0.56	iron: 0.56
+rounded:         1	           1	         1	3
+
+10: 1.25
+	aluminum: 0.25	copper: 0.50	iron: 0.50
+rounded:         1	           1	         1	3
+
+11: 1.14
+	aluminum: 0.23	copper: 0.45	iron: 0.45
+rounded:         1	           1	         1	3
+
+12: 1.04
+	aluminum: 0.21	copper: 0.42	iron: 0.42
+rounded:         1	           1	         1	3
+
+13: 0.96
+	aluminum: 0.19	copper: 0.38	iron: 0.38
+rounded:         1	           1	         1	3
+
+14: 0.89
+	aluminum: 0.18	copper: 0.36	iron: 0.36
+rounded:         1	           1	         1	3
+
+15: 0.83
+	aluminum: 0.17	copper: 0.33	iron: 0.33
+rounded:         1	           1	         1	3
+
+16: 0.78
+	aluminum: 0.16	copper: 0.31	iron: 0.31
+rounded:         1	           1	         1	3
+
+17: 0.74
+	aluminum: 0.15	copper: 0.29	iron: 0.29
+rounded:         1	           1	         1	3
+
+18: 0.69
+	aluminum: 0.14	copper: 0.28	iron: 0.28
+rounded:         1	           1	         1	3
+
+19: 0.66
+	aluminum: 0.13	copper: 0.26	iron: 0.26
+rounded:         1	           1	         1	3
+
+20: 0.62
+	aluminum: 0.12	copper: 0.25	iron: 0.25
+rounded:         1	           1	         1	3
+
+21: 0.60
+	aluminum: 0.12	copper: 0.24	iron: 0.24
+rounded:         1	           1	         1	3
+
+22: 0.57
+	aluminum: 0.11	copper: 0.23	iron: 0.23
+rounded:         1	           1	         1	3
+
+23: 0.54
+	aluminum: 0.11	copper: 0.22	iron: 0.22
+rounded:         1	           1	         1	3
+
+24: 0.52
+	aluminum: 0.10	copper: 0.21	iron: 0.21
+rounded:         1	           1	         1	3
+
+25: 0.50
+	aluminum: 0.10	copper: 0.20	iron: 0.20
+rounded:         1	           1	         1	3
+
+26: 0.48
+	aluminum: 0.10	copper: 0.19	iron: 0.19
+rounded:         1	           1	         1	3
+
+27: 0.46
+	aluminum: 0.09	copper: 0.19	iron: 0.19
+rounded:         1	           1	         1	3
+
+28: 0.45
+	aluminum: 0.09	copper: 0.18	iron: 0.18
+rounded:         1	           1	         1	3
+
+29: 0.43
+	aluminum: 0.09	copper: 0.17	iron: 0.17
+rounded:         1	           1	         1	3
+
+30: 0.42
+	aluminum: 0.08	copper: 0.17	iron: 0.17
+rounded:         1	           1	         1	3
+
+31: 0.40
+	aluminum: 0.08	copper: 0.16	iron: 0.16
+rounded:         1	           1	         1	3
+
+32: 0.39
+	aluminum: 0.08	copper: 0.16	iron: 0.16
+rounded:         1	           1	         1	3
+
+33: 0.38
+	aluminum: 0.08	copper: 0.15	iron: 0.15
+rounded:         1	           1	         1	3
+
+34: 0.37
+	aluminum: 0.07	copper: 0.15	iron: 0.15
+rounded:         1	           1	         1	3
+
+35: 0.36
+	aluminum: 0.07	copper: 0.14	iron: 0.14
+rounded:         1	           1	         1	3
+
+36: 0.35
+	aluminum: 0.07	copper: 0.14	iron: 0.14
+rounded:         1	           1	         1	3
+
+37: 0.34
+	aluminum: 0.07	copper: 0.14	iron: 0.14
+rounded:         1	           1	         1	3
+
+38: 0.33
+	aluminum: 0.07	copper: 0.13	iron: 0.13
+rounded:         1	           1	         1	3
+
+39: 0.32
+	aluminum: 0.06	copper: 0.13	iron: 0.13
+rounded:         1	           1	         1	3
+
+40: 0.31
+	aluminum: 0.06	copper: 0.12	iron: 0.12
+rounded:         1	           1	         1	3
+
+41: 0.30
+	aluminum: 0.06	copper: 0.12	iron: 0.12
+rounded:         1	           1	         1	3
+
+42: 0.30
+	aluminum: 0.06	copper: 0.12	iron: 0.12
+rounded:         1	           1	         1	3
+
+43: 0.29
+	aluminum: 0.06	copper: 0.12	iron: 0.12
+rounded:         1	           1	         1	3
+
+44: 0.28
+	aluminum: 0.06	copper: 0.11	iron: 0.11
+rounded:         1	           1	         1	3
+
+45: 0.28
+	aluminum: 0.06	copper: 0.11	iron: 0.11
+rounded:         1	           1	         1	3
+
+46: 0.27
+	aluminum: 0.05	copper: 0.11	iron: 0.11
+rounded:         1	           1	         1	3
+
+47: 0.27
+	aluminum: 0.05	copper: 0.11	iron: 0.11
+rounded:         1	           1	         1	3
+
+48: 0.26
+	aluminum: 0.05	copper: 0.10	iron: 0.10
+rounded:         1	           1	         1	3
+
+49: 0.26
+	aluminum: 0.05	copper: 0.10	iron: 0.10
+rounded:         1	           1	         1	3
+
+50: 0.25
+	aluminum: 0.05	copper: 0.10	iron: 0.10
+rounded:         1	           1	         1	3
+
+51: 0.25
+	aluminum: 0.05	copper: 0.10	iron: 0.10
+rounded:         1	           1	         1	3
+
+52: 0.24
+	aluminum: 0.05	copper: 0.10	iron: 0.10
+rounded:         1	           1	         1	3
+
+53: 0.24
+	aluminum: 0.05	copper: 0.09	iron: 0.09
+rounded:         1	           1	         1	3
+
+54: 0.23
+	aluminum: 0.05	copper: 0.09	iron: 0.09
+rounded:         1	           1	         1	3
+
+55: 0.23
+	aluminum: 0.05	copper: 0.09	iron: 0.09
+rounded:         1	           1	         1	3
+
+56: 0.22
+	aluminum: 0.04	copper: 0.09	iron: 0.09
+rounded:         1	           1	         1	3
+
+57: 0.22
+	aluminum: 0.04	copper: 0.09	iron: 0.09
+rounded:         1	           1	         1	3
+
+58: 0.22
+	aluminum: 0.04	copper: 0.09	iron: 0.09
+rounded:         1	           1	         1	3
+
+59: 0.21
+	aluminum: 0.04	copper: 0.08	iron: 0.08
+rounded:         1	           1	         1	3
+
+60: 0.21
+	aluminum: 0.04	copper: 0.08	iron: 0.08
+rounded:         1	           1	         1	3
+
+61: 0.20
+	aluminum: 0.04	copper: 0.08	iron: 0.08
+rounded:         1	           1	         1	3
+
+62: 0.20
+	aluminum: 0.04	copper: 0.08	iron: 0.08
+rounded:         1	           1	         1	3
+
+63: 0.20
+	aluminum: 0.04	copper: 0.08	iron: 0.08
+rounded:         1	           1	         1	3
+
+64: 0.20
+	aluminum: 0.04	copper: 0.08	iron: 0.08
+rounded:         1	           1	         1	3
+
+65: 0.19
+	aluminum: 0.04	copper: 0.08	iron: 0.08
+rounded:         1	           1	         1	3
+
+66: 0.19
+	aluminum: 0.04	copper: 0.08	iron: 0.08
+rounded:         1	           1	         1	3
+
+67: 0.19
+	aluminum: 0.04	copper: 0.07	iron: 0.07
+rounded:         1	           1	         1	3
+
+68: 0.18
+	aluminum: 0.04	copper: 0.07	iron: 0.07
+rounded:         1	           1	         1	3
+
+69: 0.18
+	aluminum: 0.04	copper: 0.07	iron: 0.07
+rounded:         1	           1	         1	3
+
+70: 0.18
+	aluminum: 0.04	copper: 0.07	iron: 0.07
+rounded:         1	           1	         1	3
+
+71: 0.18
+	aluminum: 0.04	copper: 0.07	iron: 0.07
+rounded:         1	           1	         1	3
+
+72: 0.17
+	aluminum: 0.03	copper: 0.07	iron: 0.07
+rounded:         1	           1	         1	3
+
+73: 0.17
+	aluminum: 0.03	copper: 0.07	iron: 0.07
+rounded:         1	           1	         1	3
+
+74: 0.17
+	aluminum: 0.03	copper: 0.07	iron: 0.07
+rounded:         1	           1	         1	3
+
+75: 0.17
+	aluminum: 0.03	copper: 0.07	iron: 0.07
+rounded:         1	           1	         1	3
+
+76: 0.16
+	aluminum: 0.03	copper: 0.07	iron: 0.07
+rounded:         1	           1	         1	3
+
+77: 0.16
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+78: 0.16
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+79: 0.16
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+80: 0.16
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+81: 0.15
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+82: 0.15
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+83: 0.15
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+84: 0.15
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+85: 0.15
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+86: 0.15
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+87: 0.14
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+88: 0.14
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+89: 0.14
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+90: 0.14
+	aluminum: 0.03	copper: 0.06	iron: 0.06
+rounded:         1	           1	         1	3
+
+91: 0.14
+	aluminum: 0.03	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+92: 0.14
+	aluminum: 0.03	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+93: 0.13
+	aluminum: 0.03	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+94: 0.13
+	aluminum: 0.03	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+95: 0.13
+	aluminum: 0.03	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+96: 0.13
+	aluminum: 0.03	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+97: 0.13
+	aluminum: 0.03	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+98: 0.13
+	aluminum: 0.03	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+99: 0.13
+	aluminum: 0.03	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+100: 0.12
+	aluminum: 0.03	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+101: 0.12
+	aluminum: 0.02	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+102: 0.12
+	aluminum: 0.02	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+103: 0.12
+	aluminum: 0.02	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+104: 0.12
+	aluminum: 0.02	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+105: 0.12
+	aluminum: 0.02	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+106: 0.12
+	aluminum: 0.02	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+107: 0.12
+	aluminum: 0.02	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+108: 0.12
+	aluminum: 0.02	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+109: 0.11
+	aluminum: 0.02	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+110: 0.11
+	aluminum: 0.02	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+111: 0.11
+	aluminum: 0.02	copper: 0.05	iron: 0.05
+rounded:         1	           1	         1	3
+
+112: 0.11
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+113: 0.11
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+114: 0.11
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+115: 0.11
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+116: 0.11
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+117: 0.11
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+118: 0.11
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+119: 0.11
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+120: 0.10
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+121: 0.10
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+122: 0.10
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+123: 0.10
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+124: 0.10
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+125: 0.10
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+126: 0.10
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+127: 0.10
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+128: 0.10
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+129: 0.10
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+130: 0.10
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+131: 0.10
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+132: 0.09
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+133: 0.09
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+134: 0.09
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+135: 0.09
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+136: 0.09
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+137: 0.09
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+138: 0.09
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+139: 0.09
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+140: 0.09
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+141: 0.09
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+142: 0.09
+	aluminum: 0.02	copper: 0.04	iron: 0.04
+rounded:         1	           1	         1	3
+
+143: 0.09
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+144: 0.09
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+145: 0.09
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+146: 0.09
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+147: 0.09
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+148: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+149: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+150: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+151: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+152: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+153: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+154: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+155: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+156: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+157: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+158: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+159: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+160: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+161: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+162: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+163: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+164: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+165: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+166: 0.08
+	aluminum: 0.02	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+167: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+168: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+169: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+170: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+171: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+172: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+173: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+174: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+175: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+176: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+177: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+178: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+179: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+180: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+181: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+182: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+183: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+184: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+185: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+186: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+187: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+188: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+189: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+190: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+191: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+192: 0.07
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+193: 0.06
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+194: 0.06
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+195: 0.06
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+196: 0.06
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+197: 0.06
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+198: 0.06
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+199: 0.06
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+200: 0.06
+	aluminum: 0.01	copper: 0.03	iron: 0.03
+rounded:         1	           1	         1	3
+
+201: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+202: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+203: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+204: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+205: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+206: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+207: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+208: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+209: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+210: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+211: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+212: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+213: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+214: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+215: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+216: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+217: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+218: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+219: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+220: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+221: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+222: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+223: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+224: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+225: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+226: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+227: 0.06
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+228: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+229: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+230: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+231: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+232: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+233: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+234: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+235: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+236: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+237: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+238: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+239: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+240: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+241: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+242: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+243: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+244: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+245: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+246: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+247: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+248: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+249: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+250: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+251: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+252: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+253: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+254: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+255: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+256: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+257: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+258: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+259: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+260: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+261: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+262: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+263: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+264: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+265: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+266: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+267: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+268: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+269: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+270: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+271: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+272: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+273: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+274: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+275: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+276: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+277: 0.05
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+278: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+279: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+280: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+281: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+282: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+283: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+284: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+285: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+286: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+287: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+288: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+289: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+290: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+291: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+292: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+293: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+294: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+295: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+296: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+297: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+298: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+299: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+300: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+301: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+302: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+303: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+304: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+305: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+306: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+307: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+308: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+309: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+310: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+311: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+312: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+313: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+314: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+315: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+316: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+317: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+318: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+319: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+320: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+321: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+322: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+323: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+324: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+325: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+326: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+327: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+328: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+329: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+330: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+331: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+332: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+333: 0.04
+	aluminum: 0.01	copper: 0.02	iron: 0.02
+rounded:         1	           1	         1	3
+
+334: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+335: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+336: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+337: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+338: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+339: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+340: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+341: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+342: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+343: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+344: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+345: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+346: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+347: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+348: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+349: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+350: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+351: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+352: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+353: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+354: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+355: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+356: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+357: 0.04
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+358: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+359: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+360: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+361: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+362: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+363: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+364: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+365: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+366: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+367: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+368: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+369: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+370: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+371: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+372: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+373: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+374: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+375: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+376: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+377: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+378: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+379: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+380: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+381: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+382: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+383: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+384: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+385: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+386: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+387: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+388: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+389: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+390: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+391: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+392: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+393: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+394: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+395: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+396: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+397: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+398: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+399: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+400: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+401: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+402: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+403: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+404: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+405: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+406: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+407: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+408: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+409: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+410: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+411: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+412: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+413: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+414: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+415: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+416: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+417: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+418: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+419: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+420: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+421: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+422: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+423: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+424: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+425: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+426: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+427: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+428: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+429: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+430: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+431: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+432: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+433: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+434: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+435: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+436: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+437: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+438: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+439: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+440: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+441: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+442: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+443: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+444: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+445: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+446: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+447: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+448: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+449: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+450: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+451: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+452: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+453: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+454: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+455: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+456: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+457: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+458: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+459: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+460: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+461: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+462: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+463: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+464: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+465: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+466: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+467: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+468: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+469: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+470: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+471: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+472: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+473: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+474: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+475: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+476: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+477: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+478: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+479: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+480: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+481: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+482: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+483: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+484: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+485: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+486: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+487: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+488: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+489: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+490: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+491: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+492: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+493: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+494: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+495: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+496: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+497: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+498: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+499: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+500: 0.03
+	aluminum: 0.01	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+501: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+502: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+503: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+504: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+505: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+506: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+507: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+508: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+509: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+510: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+511: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+512: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+513: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+514: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+515: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+516: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+517: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+518: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+519: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+520: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+521: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+522: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+523: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+524: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+525: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+526: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+527: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+528: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+529: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+530: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+531: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+532: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+533: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+534: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+535: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+536: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+537: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+538: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+539: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+540: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+541: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+542: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+543: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+544: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+545: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+546: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+547: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+548: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+549: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+550: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+551: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+552: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+553: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+554: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+555: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+556: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+557: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+558: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+559: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+560: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+561: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+562: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+563: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+564: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+565: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+566: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+567: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+568: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+569: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+570: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+571: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+572: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+573: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+574: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+575: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+576: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+577: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+578: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+579: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+580: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+581: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+582: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+583: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+584: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+585: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+586: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+587: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+588: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+589: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+590: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+591: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+592: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+593: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+594: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+595: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+596: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+597: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+598: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+599: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+
+600: 0.02
+	aluminum: 0.00	copper: 0.01	iron: 0.01
+rounded:         1	           1	         1	3
+

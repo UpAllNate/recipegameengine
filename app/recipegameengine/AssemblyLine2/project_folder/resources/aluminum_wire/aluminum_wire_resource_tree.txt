@@ -1,0 +1,2 @@
+[aluminum_wire]     , flat ingredient count:   0 ... depth: 1
+	aluminum ... 1.00

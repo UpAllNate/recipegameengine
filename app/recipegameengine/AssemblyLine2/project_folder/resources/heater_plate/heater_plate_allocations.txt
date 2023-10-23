@@ -1,0 +1,9 @@
+[iron_wire] 1 total, 1 resources
+	heater_plate             ...     1...100.00%
+
+[aluminum] 1 total, 1 resources
+	heater_plate             ...     1...100.00%
+
+[iron] 1 total, 1 resources
+	iron_wire                ...     1...100.00%
+

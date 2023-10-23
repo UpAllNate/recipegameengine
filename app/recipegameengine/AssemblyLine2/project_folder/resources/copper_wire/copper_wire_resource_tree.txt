@@ -1,0 +1,2 @@
+[copper_wire]       , flat ingredient count:   0 ... depth: 1
+	copper ... 1.00

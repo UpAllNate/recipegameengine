@@ -1,0 +1,12 @@
+[trigger]           , flat ingredient count:   0 ... depth: 3
+	iron ... 40.00
+	diamond_wire ... 10.00
+		diamond ... 1.00
+	circuit ... 5.00
+		copper_wire ... 1.00
+			copper ... 1.00
+		gold ... 1.00
+	electric_board ... 5.00
+		copper_wire ... 1.00
+			copper ... 1.00
+		aluminum ... 1.00

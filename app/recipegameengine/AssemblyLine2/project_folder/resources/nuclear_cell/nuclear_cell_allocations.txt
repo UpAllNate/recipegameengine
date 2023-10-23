@@ -1,0 +1,112 @@
+[plutonium_cell] 2 total, 1 resources
+	nuclear_cell             ...     2...100.00%
+
+[uranium_cell] 2 total, 1 resources
+	nuclear_cell             ...     2...100.00%
+
+[copper_cable] 20 total, 2 resources
+	plutonium_cell           ...    10... 50.00%
+	uranium_cell             ...    10... 50.00%
+
+[electric_board] 5 total, 1 resources
+	nuclear_cell             ...     5...100.00%
+
+[gold_cable] 20 total, 2 resources
+	plutonium_cell           ...    10... 50.00%
+	uranium_cell             ...    10... 50.00%
+
+[heater_plate] 5 total, 1 resources
+	nuclear_cell             ...     5...100.00%
+
+[solar_cell] 45 total, 3 resources
+	plutonium_cell           ...    20... 44.44%
+	nuclear_cell             ...     5... 11.11%
+	uranium_cell             ...    20... 44.44%
+
+__ RSD splits (10) __
+	< [5] nuclear_cell         v40     
+	< [2] plutonium_cell       v0              uranium_cell [2] >
+
+__ RSD splits (2) __
+	< [1] nuclear_cell         v44     
+	< [1] plutonium_cell       v9              nuclear_cell [1] >
+	< [1] uranium_cell         v8      
+	< [1] plutonium_cell       v0              uranium_cell [1] >
+
+__ straight split __
+	< [20] plutonium_cell      v20             nuclear_cell [5] >
+	< [20] uranium_cell        v0      
+
+[copper_wire] 65 total, 2 resources
+	copper_cable             ...    60... 92.31%
+	electric_board           ...     5...  7.69%
+
+[diamond_liquid] 65 total, 3 resources
+	plutonium_cell           ...    10... 15.38%
+	uranium_cell             ...    10... 15.38%
+	solar_cell               ...    45... 69.23%
+
+__ RSD splits (10) __
+	< [5] solar_cell           v60     
+	< [1] plutonium_cell       v4              uranium_cell [1] >
+	< [4] solar_cell           v0      
+
+__ RSD splits (2) __
+	< [1] solar_cell           v64     
+	< [1] plutonium_cell       v30             uranium_cell [1] >
+	< [1] solar_cell           v14     
+	< [1] plutonium_cell       v5              uranium_cell [1] >
+	< [1] solar_cell           v4      
+	< [1] solar_cell           v0      
+
+__ straight split __
+	< [10] plutonium_cell      v45            uranium_cell [10] >
+	< [45] solar_cell          v0      
+
+[gold_wire] 60 total, 1 resources
+	gold_cable               ...    60...100.00%
+
+[iron_wire] 5 total, 1 resources
+	heater_plate             ...     5...100.00%
+
+[uranium_refined] 3 total, 3 resources
+	plutonium_cell           ...     1... 33.33%
+	nuclear_cell             ...     1... 33.33%
+	uranium_cell             ...     1... 33.33%
+
+__ RSD splits (10) __
+	< [1] plutonium_cell       v1              nuclear_cell [1] >
+	< [1] uranium_cell         v0      
+
+__ RSD splits (2) __
+	< [1] plutonium_cell       v1              nuclear_cell [1] >
+	< [1] uranium_cell         v0      
+
+__ straight split __
+	< [1] plutonium_cell       v1              nuclear_cell [1] >
+	< [1] uranium_cell         v0      
+
+[aluminum] 10 total, 2 resources
+	electric_board           ...     5... 50.00%
+	heater_plate             ...     5... 50.00%
+
+[copper] 65 total, 1 resources
+	copper_wire              ...    65...100.00%
+
+[diamond] 65 total, 1 resources
+	diamond_liquid           ...    65...100.00%
+
+[gold] 105 total, 2 resources
+	solar_cell               ...    45... 42.86%
+	gold_wire                ...    60... 57.14%
+
+[iron] 5 total, 1 resources
+	iron_wire                ...     5...100.00%
+
+[plutonium] 20 total, 1 resources
+	plutonium_cell           ...    20...100.00%
+
+[uranium] 21 total, 2 resources
+	uranium_cell             ...    20... 95.24%
+	uranium_refined          ...     1...  4.76%
+

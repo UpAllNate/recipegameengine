@@ -1,0 +1,38 @@
+[copper_cable] 5 total, 1 resources
+	plutonium_cell           ...     5...100.00%
+
+[gold_cable] 5 total, 1 resources
+	plutonium_cell           ...     5...100.00%
+
+[solar_cell] 10 total, 1 resources
+	plutonium_cell           ...    10...100.00%
+
+[copper_wire] 15 total, 1 resources
+	copper_cable             ...    15...100.00%
+
+[diamond_liquid] 15 total, 2 resources
+	plutonium_cell           ...     5... 33.33%
+	solar_cell               ...    10... 66.67%
+
+[gold_wire] 15 total, 1 resources
+	gold_cable               ...    15...100.00%
+
+[uranium_refined] 1 total, 1 resources
+	plutonium_cell           ...     1...100.00%
+
+[copper] 15 total, 1 resources
+	copper_wire              ...    15...100.00%
+
+[diamond] 15 total, 1 resources
+	diamond_liquid           ...    15...100.00%
+
+[gold] 25 total, 2 resources
+	solar_cell               ...    10... 40.00%
+	gold_wire                ...    15... 60.00%
+
+[plutonium] 10 total, 1 resources
+	plutonium_cell           ...    10...100.00%
+
+[uranium] 1 total, 1 resources
+	uranium_refined          ...     1...100.00%
+

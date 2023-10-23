@@ -1,0 +1,28 @@
+[circuit] 5 total, 1 resources
+	trigger                  ...     5...100.00%
+
+[electric_board] 5 total, 1 resources
+	trigger                  ...     5...100.00%
+
+[copper_wire] 10 total, 2 resources
+	circuit                  ...     5... 50.00%
+	electric_board           ...     5... 50.00%
+
+[diamond_wire] 10 total, 1 resources
+	trigger                  ...    10...100.00%
+
+[aluminum] 5 total, 1 resources
+	electric_board           ...     5...100.00%
+
+[copper] 10 total, 1 resources
+	copper_wire              ...    10...100.00%
+
+[diamond] 10 total, 1 resources
+	diamond_wire             ...    10...100.00%
+
+[gold] 5 total, 1 resources
+	circuit                  ...     5...100.00%
+
+[iron] 40 total, 1 resources
+	trigger                  ...    40...100.00%
+

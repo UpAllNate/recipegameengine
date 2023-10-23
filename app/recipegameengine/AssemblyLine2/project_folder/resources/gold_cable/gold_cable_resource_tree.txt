@@ -1,0 +1,3 @@
+[gold_cable]        , flat ingredient count:   0 ... depth: 2
+	gold_wire ... 3.00
+		gold ... 1.00

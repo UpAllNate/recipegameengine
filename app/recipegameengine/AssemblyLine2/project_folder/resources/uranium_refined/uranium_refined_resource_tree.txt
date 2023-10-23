@@ -1,0 +1,2 @@
+[uranium_refined]   , flat ingredient count:   0 ... depth: 1
+	uranium ... 1.00

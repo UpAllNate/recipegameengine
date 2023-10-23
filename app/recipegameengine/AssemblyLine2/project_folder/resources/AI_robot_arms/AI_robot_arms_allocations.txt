@@ -1,0 +1,67 @@
+[laser] 2 total, 1 resources
+	AI_robot_arms            ...     2...100.00%
+
+[aluminum_cable] 3 total, 1 resources
+	AI_robot_arms            ...     3...100.00%
+
+[battery] 10 total, 1 resources
+	laser                    ...    10...100.00%
+
+[heater_plate] 10 total, 1 resources
+	laser                    ...    10...100.00%
+
+[aluminum_plate] 2 total, 1 resources
+	AI_robot_arms            ...     2...100.00%
+
+[aluminum_wire] 9 total, 1 resources
+	aluminum_cable           ...     9...100.00%
+
+[copper_liquid] 10 total, 1 resources
+	battery                  ...    10...100.00%
+
+[iron_liquid] 10 total, 1 resources
+	laser                    ...    10...100.00%
+
+[iron_wire] 10 total, 1 resources
+	heater_plate             ...    10...100.00%
+
+[aluminum] 21 total, 3 resources
+	heater_plate             ...    10... 47.62%
+	aluminum_plate           ...     2...  9.52%
+	aluminum_wire            ...     9... 42.86%
+
+__ RSD splits (10) __
+	< [2] aluminum_plate       v10            aluminum_wire [9] >
+	< [1] heater_plate         v0      
+
+__ RSD splits (2) __
+	< [1] aluminum_wire        v20     
+	< [1] heater_plate         v8            aluminum_plate [1] >
+	< [1] heater_plate         v0             aluminum_wire [1] >
+
+__ straight split __
+	< [10] heater_plate        v9            aluminum_plate [2] >
+	< [9] aluminum_wire        v0      
+
+[copper] 20 total, 2 resources
+	battery                  ...    10... 50.00%
+	copper_liquid            ...    10... 50.00%
+
+[iron] 28 total, 3 resources
+	AI_robot_arms            ...     8... 28.57%
+	iron_liquid              ...    10... 35.71%
+	iron_wire                ...    10... 35.71%
+
+__ RSD splits (10) __
+	< [8] AI_robot_arms        v20     
+	< [1] iron_liquid          v0                 iron_wire [1] >
+
+__ RSD splits (2) __
+	< [1] iron_liquid          v12                iron_wire [1] >
+	< [1] AI_robot_arms        v1               iron_liquid [1] >
+	< [1] iron_wire            v0      
+
+__ straight split __
+	< [8] AI_robot_arms        v10             iron_liquid [10] >
+	< [10] iron_wire           v0      
+

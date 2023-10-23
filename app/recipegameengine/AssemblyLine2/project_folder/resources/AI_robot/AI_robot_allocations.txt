@@ -1,0 +1,328 @@
+[AI_robot_head] 1 total, 1 resources
+	AI_robot                 ...     1...100.00%
+
+[AI_processor] 1 total, 1 resources
+	AI_robot_head            ...     1...100.00%
+
+[AI_robot_body] 1 total, 1 resources
+	AI_robot                 ...     1...100.00%
+
+[super_computer] 1 total, 1 resources
+	AI_processor             ...     1...100.00%
+
+[AI_robot_arms] 1 total, 1 resources
+	AI_robot_body            ...     1...100.00%
+
+[computer] 2 total, 1 resources
+	super_computer           ...     2...100.00%
+
+[electric_engine] 1 total, 1 resources
+	AI_robot_body            ...     1...100.00%
+
+[advanced_engine] 2 total, 1 resources
+	electric_engine          ...     2...100.00%
+
+[fan] 2 total, 1 resources
+	computer                 ...     2...100.00%
+
+[laser] 2 total, 1 resources
+	AI_robot_arms            ...     2...100.00%
+
+[power_supply] 2 total, 1 resources
+	computer                 ...     2...100.00%
+
+[processor] 2 total, 1 resources
+	computer                 ...     2...100.00%
+
+[solar_panel] 2 total, 1 resources
+	AI_robot_body            ...     2...100.00%
+
+[aluminum_cable] 3 total, 1 resources
+	AI_robot_arms            ...     3...100.00%
+
+[battery] 12 total, 2 resources
+	electric_engine          ...     2... 16.67%
+	laser                    ...    10... 83.33%
+
+[circuit] 41 total, 8 resources
+	AI_robot_head            ...    10... 24.39%
+	AI_processor             ...    10... 24.39%
+	super_computer           ...     3...  7.32%
+	advanced_engine          ...    10... 24.39%
+	fan                      ...     2...  4.88%
+	power_supply             ...     2...  4.88%
+	processor                ...     2...  4.88%
+	solar_panel              ...     2...  4.88%
+
+__ RSD splits (10) __
+	< [3] super_computer       v36                      fan [2] >
+	< [2] power_supply         v32                processor [2] >
+	< [2] solar_panel          v30     
+	< [1] AI_robot_head        v1              AI_processor [1] >
+	< [1] advanced_engine      v0      
+
+__ RSD splits (2) __
+	< [1] super_computer       v40     
+	< [1] AI_robot_head        v18             AI_processor [1] >
+	< [1] super_computer       v16          advanced_engine [1] >
+	< [1] fan                  v14             power_supply [1] >
+	< [1] processor            v12              solar_panel [1] >
+	< [1] AI_robot_head        v1              AI_processor [1] >
+	< [1] advanced_engine      v0      
+
+__ straight split __
+	< [10] AI_robot_head       v21            AI_processor [10] >
+	< [3] super_computer       v8          advanced_engine [10] >
+	< [2] fan                  v4              power_supply [2] >
+	< [2] processor            v0               solar_panel [2] >
+
+[copper_cable] 4 total, 1 resources
+	AI_processor             ...     4...100.00%
+
+[diamond_cable] 15 total, 2 resources
+	AI_robot_head            ...    10... 66.67%
+	AI_robot                 ...     5... 33.33%
+
+[electric_board] 11 total, 3 resources
+	AI_robot_body            ...     5... 45.45%
+	electric_engine          ...     2... 18.18%
+	solar_panel              ...     4... 36.36%
+
+__ RSD splits (10) __
+	< [5] AI_robot_body        v4           electric_engine [2] >
+	< [4] solar_panel          v0      
+
+__ RSD splits (2) __
+	< [1] AI_robot_body        v10     
+	< [1] electric_engine      v4      
+	< [1] AI_robot_body        v0               solar_panel [1] >
+
+__ straight split __
+	< [5] AI_robot_body        v4           electric_engine [2] >
+	< [4] solar_panel          v0      
+
+[engine] 10 total, 1 resources
+	advanced_engine          ...    10...100.00%
+
+[gold_cable] 3 total, 1 resources
+	super_computer           ...     3...100.00%
+
+[heater_plate] 10 total, 1 resources
+	laser                    ...    10...100.00%
+
+[solar_cell] 4 total, 1 resources
+	solar_panel              ...     4...100.00%
+
+[aluminum_liquid] 6 total, 1 resources
+	power_supply             ...     6...100.00%
+
+[aluminum_plate] 2 total, 1 resources
+	AI_robot_arms            ...     2...100.00%
+
+[aluminum_wire] 9 total, 1 resources
+	aluminum_cable           ...     9...100.00%
+
+[copper_liquid] 12 total, 1 resources
+	battery                  ...    12...100.00%
+
+[copper_plate] 6 total, 1 resources
+	AI_processor             ...     6...100.00%
+
+[copper_wire] 64 total, 3 resources
+	circuit                  ...    41... 64.06%
+	copper_cable             ...    12... 18.75%
+	electric_board           ...    11... 17.19%
+
+__ RSD splits (10) __
+	< [1] circuit              v61             copper_cable [2] >
+	< [1] electric_board       v60     
+	< [4] circuit              v1              copper_cable [1] >
+	< [1] electric_board       v0      
+
+__ RSD splits (2) __
+	< [1] circuit              v62           electric_board [1] >
+	< [1] electric_board       v30     
+	< [1] copper_cable         v14     
+	< [1] circuit              v5              copper_cable [1] >
+	< [1] electric_board       v4      
+	< [1] circuit              v0      
+
+__ straight split __
+	< [41] circuit             v11            copper_cable [12] >
+	< [11] electric_board      v0      
+
+[diamond_gear] 6 total, 1 resources
+	fan                      ...     6...100.00%
+
+[diamond_liquid] 4 total, 1 resources
+	solar_cell               ...     4...100.00%
+
+[diamond_wire] 51 total, 2 resources
+	processor                ...     6... 11.76%
+	diamond_cable            ...    45... 88.24%
+
+[gold_liquid] 6 total, 1 resources
+	processor                ...     6...100.00%
+
+[gold_plate] 5 total, 1 resources
+	AI_robot_head            ...     5...100.00%
+
+[gold_wire] 9 total, 1 resources
+	gold_cable               ...     9...100.00%
+
+[iron_gear] 10 total, 1 resources
+	engine                   ...    10...100.00%
+
+[iron_liquid] 10 total, 1 resources
+	laser                    ...    10...100.00%
+
+[iron_plate] 15 total, 2 resources
+	AI_robot                 ...    10... 66.67%
+	electric_engine          ...     5... 33.33%
+
+[iron_wire] 10 total, 1 resources
+	heater_plate             ...    10...100.00%
+
+[server_rack] 1 total, 1 resources
+	super_computer           ...     1...100.00%
+
+[aluminum] 51 total, 7 resources
+	fan                      ...    12... 23.53%
+	electric_board           ...    11... 21.57%
+	heater_plate             ...    10... 19.61%
+	aluminum_liquid          ...     6... 11.76%
+	aluminum_plate           ...     2...  3.92%
+	aluminum_wire            ...     9... 17.65%
+	server_rack              ...     1...  1.96%
+
+__ RSD splits (10) __
+	< [2] fan                  v48           electric_board [1] >
+	< [6] aluminum_liquid      v40           aluminum_plate [2] >
+	< [9] aluminum_wire        v30              server_rack [1] >
+	< [1] fan                  v1            electric_board [1] >
+	< [1] heater_plate         v0      
+
+__ RSD splits (2) __
+	< [1] electric_board       v49            aluminum_wire [1] >
+	< [1] server_rack          v48     
+	< [1] electric_board       v22             heater_plate [1] >
+	< [1] aluminum_liquid      v20           aluminum_plate [1] >
+	< [1] fan                  v8           aluminum_liquid [1] >
+	< [1] fan                  v2            electric_board [1] >
+	< [1] heater_plate         v0             aluminum_wire [1] >
+
+__ straight split __
+	< [12] fan                 v28          electric_board [11] >
+	< [10] heater_plate        v12          aluminum_liquid [6] >
+	< [2] aluminum_plate       v1             aluminum_wire [9] >
+	< [1] server_rack          v0      
+
+[copper] 94 total, 4 resources
+	battery                  ...    12... 12.77%
+	copper_liquid            ...    12... 12.77%
+	copper_plate             ...     6...  6.38%
+	copper_wire              ...    64... 68.09%
+
+__ RSD splits (10) __
+	< [2] battery              v90            copper_liquid [2] >
+	< [6] copper_plate         v80              copper_wire [4] >
+	< [1] battery              v6             copper_liquid [1] >
+	< [6] copper_wire          v0      
+
+__ RSD splits (2) __
+	< [1] copper_plate         v46     
+	< [1] battery              v21            copper_liquid [1] >
+	< [1] copper_plate         v20     
+	< [1] battery              v8             copper_liquid [1] >
+	< [1] copper_wire          v0      
+
+__ straight split __
+	< [12] battery             v70           copper_liquid [12] >
+	< [6] copper_plate         v0              copper_wire [64] >
+
+[diamond] 93 total, 5 resources
+	advanced_engine          ...    20... 21.51%
+	power_supply             ...    12... 12.90%
+	diamond_gear             ...     6...  6.45%
+	diamond_liquid           ...     4...  4.30%
+	diamond_wire             ...    51... 54.84%
+
+__ RSD splits (10) __
+	< [2] power_supply         v85             diamond_gear [6] >
+	< [4] diamond_liquid       v80             diamond_wire [1] >
+	< [2] advanced_engine      v5              power_supply [1] >
+	< [5] diamond_wire         v0      
+
+__ RSD splits (2) __
+	< [1] diamond_wire         v92     
+	< [1] diamond_gear         v44             diamond_wire [1] >
+	< [1] advanced_engine      v20             power_supply [1] >
+	< [1] diamond_gear         v18           diamond_liquid [1] >
+	< [1] power_supply         v8      
+	< [1] advanced_engine      v2              diamond_wire [1] >
+	< [1] diamond_wire         v0      
+
+__ straight split __
+	< [20] advanced_engine     v61            power_supply [12] >
+	< [6] diamond_gear         v51           diamond_liquid [4] >
+	< [51] diamond_wire        v0      
+
+[gold] 65 total, 5 resources
+	circuit                  ...    41... 63.08%
+	solar_cell               ...     4...  6.15%
+	gold_liquid              ...     6...  9.23%
+	gold_plate               ...     5...  7.69%
+	gold_wire                ...     9... 13.85%
+
+__ RSD splits (10) __
+	< [1] circuit              v60               solar_cell [4] >
+	< [6] gold_liquid          v49               gold_plate [5] >
+	< [9] gold_wire            v40     
+	< [4] circuit              v0      
+
+__ RSD splits (2) __
+	< [1] circuit              v63               gold_plate [1] >
+	< [1] gold_wire            v62     
+	< [1] gold_liquid          v30     
+	< [1] solar_cell           v13              gold_liquid [1] >
+	< [1] gold_plate           v12     
+	< [1] circuit              v4                 gold_wire [1] >
+	< [1] circuit              v0      
+
+__ straight split __
+	< [41] circuit             v20               solar_cell [4] >
+	< [6] gold_liquid          v9                gold_plate [5] >
+	< [9] gold_wire            v0      
+
+[iron] 64 total, 7 resources
+	AI_robot_arms            ...     8... 12.50%
+	engine                   ...    10... 15.62%
+	iron_gear                ...    10... 15.62%
+	iron_liquid              ...    10... 15.62%
+	iron_plate               ...    15... 23.44%
+	iron_wire                ...    10... 15.62%
+	server_rack              ...     1...  1.56%
+
+__ RSD splits (10) __
+	< [8] AI_robot_arms        v51               iron_plate [5] >
+	< [1] server_rack          v50     
+	< [1] engine               v3                 iron_gear [1] >
+	< [1] iron_liquid          v1                iron_plate [1] >
+	< [1] iron_wire            v0      
+
+__ RSD splits (2) __
+	< [1] iron_plate           v62              server_rack [1] >
+	< [1] engine               v29                iron_gear [1] >
+	< [1] iron_liquid          v27               iron_plate [1] >
+	< [1] iron_wire            v26     
+	< [1] iron_plate           v12     
+	< [1] AI_robot_arms        v4                    engine [1] >
+	< [1] iron_gear            v2               iron_liquid [1] >
+	< [1] iron_plate           v0                 iron_wire [1] >
+
+__ straight split __
+	< [8] AI_robot_arms        v46                  engine [10] >
+	< [10] iron_gear           v26             iron_liquid [10] >
+	< [15] iron_plate          v1                iron_wire [10] >
+	< [1] server_rack          v0      
+

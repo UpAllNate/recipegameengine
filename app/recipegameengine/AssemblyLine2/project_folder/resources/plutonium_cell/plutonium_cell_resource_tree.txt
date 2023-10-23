@@ -1,0 +1,16 @@
+[plutonium_cell]    , flat ingredient count:   0 ... depth: 3
+	uranium_refined ... 0.17
+		uranium ... 1.00
+	plutonium ... 10.00
+	solar_cell ... 10.00
+		diamond_liquid ... 1.00
+			diamond ... 1.00
+		gold ... 1.00
+	diamond_liquid ... 5.00
+		diamond ... 1.00
+	gold_cable ... 5.00
+		gold_wire ... 3.00
+			gold ... 1.00
+	copper_cable ... 5.00
+		copper_wire ... 3.00
+			copper ... 1.00

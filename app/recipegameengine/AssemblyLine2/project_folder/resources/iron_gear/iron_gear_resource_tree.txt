@@ -1,0 +1,2 @@
+[iron_gear]         , flat ingredient count:   0 ... depth: 1
+	iron ... 1.00

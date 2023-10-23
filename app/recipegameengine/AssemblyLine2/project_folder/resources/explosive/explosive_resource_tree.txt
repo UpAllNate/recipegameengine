@@ -1,0 +1,14 @@
+[explosive]         , flat ingredient count:   0 ... depth: 3
+	circuit ... 5.00
+		copper_wire ... 1.00
+			copper ... 1.00
+		gold ... 1.00
+	diamond_wire ... 10.00
+		diamond ... 1.00
+	copper_cable ... 10.00
+		copper_wire ... 3.00
+			copper ... 1.00
+	heater_plate ... 10.00
+		iron_wire ... 1.00
+			iron ... 1.00
+		aluminum ... 1.00

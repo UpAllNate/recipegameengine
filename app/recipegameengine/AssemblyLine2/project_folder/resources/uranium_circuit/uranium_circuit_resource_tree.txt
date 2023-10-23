@@ -1,0 +1,14 @@
+[uranium_circuit]   , flat ingredient count:   0 ... depth: 3
+	uranium_refined ... 0.17
+		uranium ... 1.00
+	uranium ... 10.00
+	circuit ... 10.00
+		copper_wire ... 1.00
+			copper ... 1.00
+		gold ... 1.00
+	copper ... 10.00
+	gold_cable ... 3.00
+		gold_wire ... 3.00
+			gold ... 1.00
+	diamond_wire ... 10.00
+		diamond ... 1.00

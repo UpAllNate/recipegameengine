@@ -1,0 +1,34 @@
+[circuit] 5 total, 1 resources
+	explosive                ...     5...100.00%
+
+[copper_cable] 10 total, 1 resources
+	explosive                ...    10...100.00%
+
+[heater_plate] 10 total, 1 resources
+	explosive                ...    10...100.00%
+
+[copper_wire] 35 total, 2 resources
+	circuit                  ...     5... 14.29%
+	copper_cable             ...    30... 85.71%
+
+[diamond_wire] 10 total, 1 resources
+	explosive                ...    10...100.00%
+
+[iron_wire] 10 total, 1 resources
+	heater_plate             ...    10...100.00%
+
+[aluminum] 10 total, 1 resources
+	heater_plate             ...    10...100.00%
+
+[copper] 35 total, 1 resources
+	copper_wire              ...    35...100.00%
+
+[diamond] 10 total, 1 resources
+	diamond_wire             ...    10...100.00%
+
+[gold] 5 total, 1 resources
+	circuit                  ...     5...100.00%
+
+[iron] 10 total, 1 resources
+	iron_wire                ...    10...100.00%
+

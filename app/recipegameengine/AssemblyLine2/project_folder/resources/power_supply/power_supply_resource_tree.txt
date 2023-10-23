@@ -1,0 +1,8 @@
+[power_supply]      , flat ingredient count:   0 ... depth: 3
+	circuit ... 1.00
+		copper_wire ... 1.00
+			copper ... 1.00
+		gold ... 1.00
+	diamond ... 6.00
+	aluminum_liquid ... 3.00
+		aluminum ... 1.00

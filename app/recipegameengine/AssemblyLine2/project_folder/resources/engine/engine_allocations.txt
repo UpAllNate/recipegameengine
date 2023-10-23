@@ -1,0 +1,7 @@
+[iron_gear] 1 total, 1 resources
+	engine                   ...     1...100.00%
+
+[iron] 2 total, 2 resources
+	iron_gear                ...     1... 50.00%
+	engine                   ...     1... 50.00%
+

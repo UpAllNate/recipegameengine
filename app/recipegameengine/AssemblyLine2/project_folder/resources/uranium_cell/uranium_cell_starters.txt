@@ -1,0 +1,2401 @@
+Starters needed for period...
+1: 78.33
+	copper: 7.50	diamond: 7.50	gold: 12.50	uranium: 50.83
+rounded:       8	            8	         13	            51	80
+
+2: 39.17
+	copper: 3.75	diamond: 3.75	gold: 6.25	uranium: 25.42
+rounded:       4	            4	         7	            26	41
+
+3: 26.11
+	copper: 2.50	diamond: 2.50	gold: 4.17	uranium: 16.94
+rounded:       3	            3	         5	            17	28
+
+4: 19.58
+	copper: 1.88	diamond: 1.88	gold: 3.12	uranium: 12.71
+rounded:       2	            2	         4	            13	21
+
+5: 15.67
+	copper: 1.50	diamond: 1.50	gold: 2.50	uranium: 10.17
+rounded:       2	            2	         3	            11	18
+
+6: 13.06
+	copper: 1.25	diamond: 1.25	gold: 2.08	uranium: 8.47
+rounded:       2	            2	         3	            9	16
+
+7: 11.19
+	copper: 1.07	diamond: 1.07	gold: 1.79	uranium: 7.26
+rounded:       2	            2	         2	            8	14
+
+8: 9.79
+	copper: 0.94	diamond: 0.94	gold: 1.56	uranium: 6.35
+rounded:       1	            1	         2	            7	11
+
+9: 8.70
+	copper: 0.83	diamond: 0.83	gold: 1.39	uranium: 5.65
+rounded:       1	            1	         2	            6	10
+
+10: 7.83
+	copper: 0.75	diamond: 0.75	gold: 1.25	uranium: 5.08
+rounded:       1	            1	         2	            6	10
+
+11: 7.12
+	copper: 0.68	diamond: 0.68	gold: 1.14	uranium: 4.62
+rounded:       1	            1	         2	            5	9
+
+12: 6.53
+	copper: 0.62	diamond: 0.62	gold: 1.04	uranium: 4.24
+rounded:       1	            1	         2	            5	9
+
+13: 6.03
+	copper: 0.58	diamond: 0.58	gold: 0.96	uranium: 3.91
+rounded:       1	            1	         1	            4	7
+
+14: 5.60
+	copper: 0.54	diamond: 0.54	gold: 0.89	uranium: 3.63
+rounded:       1	            1	         1	            4	7
+
+15: 5.22
+	copper: 0.50	diamond: 0.50	gold: 0.83	uranium: 3.39
+rounded:       1	            1	         1	            4	7
+
+16: 4.90
+	copper: 0.47	diamond: 0.47	gold: 0.78	uranium: 3.18
+rounded:       1	            1	         1	            4	7
+
+17: 4.61
+	copper: 0.44	diamond: 0.44	gold: 0.74	uranium: 2.99
+rounded:       1	            1	         1	            3	6
+
+18: 4.35
+	copper: 0.42	diamond: 0.42	gold: 0.69	uranium: 2.82
+rounded:       1	            1	         1	            3	6
+
+19: 4.12
+	copper: 0.39	diamond: 0.39	gold: 0.66	uranium: 2.68
+rounded:       1	            1	         1	            3	6
+
+20: 3.92
+	copper: 0.38	diamond: 0.38	gold: 0.62	uranium: 2.54
+rounded:       1	            1	         1	            3	6
+
+21: 3.73
+	copper: 0.36	diamond: 0.36	gold: 0.60	uranium: 2.42
+rounded:       1	            1	         1	            3	6
+
+22: 3.56
+	copper: 0.34	diamond: 0.34	gold: 0.57	uranium: 2.31
+rounded:       1	            1	         1	            3	6
+
+23: 3.41
+	copper: 0.33	diamond: 0.33	gold: 0.54	uranium: 2.21
+rounded:       1	            1	         1	            3	6
+
+24: 3.26
+	copper: 0.31	diamond: 0.31	gold: 0.52	uranium: 2.12
+rounded:       1	            1	         1	            3	6
+
+25: 3.13
+	copper: 0.30	diamond: 0.30	gold: 0.50	uranium: 2.03
+rounded:       1	            1	         1	            3	6
+
+26: 3.01
+	copper: 0.29	diamond: 0.29	gold: 0.48	uranium: 1.96
+rounded:       1	            1	         1	            2	5
+
+27: 2.90
+	copper: 0.28	diamond: 0.28	gold: 0.46	uranium: 1.88
+rounded:       1	            1	         1	            2	5
+
+28: 2.80
+	copper: 0.27	diamond: 0.27	gold: 0.45	uranium: 1.82
+rounded:       1	            1	         1	            2	5
+
+29: 2.70
+	copper: 0.26	diamond: 0.26	gold: 0.43	uranium: 1.75
+rounded:       1	            1	         1	            2	5
+
+30: 2.61
+	copper: 0.25	diamond: 0.25	gold: 0.42	uranium: 1.69
+rounded:       1	            1	         1	            2	5
+
+31: 2.53
+	copper: 0.24	diamond: 0.24	gold: 0.40	uranium: 1.64
+rounded:       1	            1	         1	            2	5
+
+32: 2.45
+	copper: 0.23	diamond: 0.23	gold: 0.39	uranium: 1.59
+rounded:       1	            1	         1	            2	5
+
+33: 2.37
+	copper: 0.23	diamond: 0.23	gold: 0.38	uranium: 1.54
+rounded:       1	            1	         1	            2	5
+
+34: 2.30
+	copper: 0.22	diamond: 0.22	gold: 0.37	uranium: 1.50
+rounded:       1	            1	         1	            2	5
+
+35: 2.24
+	copper: 0.21	diamond: 0.21	gold: 0.36	uranium: 1.45
+rounded:       1	            1	         1	            2	5
+
+36: 2.18
+	copper: 0.21	diamond: 0.21	gold: 0.35	uranium: 1.41
+rounded:       1	            1	         1	            2	5
+
+37: 2.12
+	copper: 0.20	diamond: 0.20	gold: 0.34	uranium: 1.37
+rounded:       1	            1	         1	            2	5
+
+38: 2.06
+	copper: 0.20	diamond: 0.20	gold: 0.33	uranium: 1.34
+rounded:       1	            1	         1	            2	5
+
+39: 2.01
+	copper: 0.19	diamond: 0.19	gold: 0.32	uranium: 1.30
+rounded:       1	            1	         1	            2	5
+
+40: 1.96
+	copper: 0.19	diamond: 0.19	gold: 0.31	uranium: 1.27
+rounded:       1	            1	         1	            2	5
+
+41: 1.91
+	copper: 0.18	diamond: 0.18	gold: 0.30	uranium: 1.24
+rounded:       1	            1	         1	            2	5
+
+42: 1.87
+	copper: 0.18	diamond: 0.18	gold: 0.30	uranium: 1.21
+rounded:       1	            1	         1	            2	5
+
+43: 1.82
+	copper: 0.17	diamond: 0.17	gold: 0.29	uranium: 1.18
+rounded:       1	            1	         1	            2	5
+
+44: 1.78
+	copper: 0.17	diamond: 0.17	gold: 0.28	uranium: 1.16
+rounded:       1	            1	         1	            2	5
+
+45: 1.74
+	copper: 0.17	diamond: 0.17	gold: 0.28	uranium: 1.13
+rounded:       1	            1	         1	            2	5
+
+46: 1.70
+	copper: 0.16	diamond: 0.16	gold: 0.27	uranium: 1.11
+rounded:       1	            1	         1	            2	5
+
+47: 1.67
+	copper: 0.16	diamond: 0.16	gold: 0.27	uranium: 1.08
+rounded:       1	            1	         1	            2	5
+
+48: 1.63
+	copper: 0.16	diamond: 0.16	gold: 0.26	uranium: 1.06
+rounded:       1	            1	         1	            2	5
+
+49: 1.60
+	copper: 0.15	diamond: 0.15	gold: 0.26	uranium: 1.04
+rounded:       1	            1	         1	            2	5
+
+50: 1.57
+	copper: 0.15	diamond: 0.15	gold: 0.25	uranium: 1.02
+rounded:       1	            1	         1	            2	5
+
+51: 1.54
+	copper: 0.15	diamond: 0.15	gold: 0.25	uranium: 1.00
+rounded:       1	            1	         1	            1	4
+
+52: 1.51
+	copper: 0.14	diamond: 0.14	gold: 0.24	uranium: 0.98
+rounded:       1	            1	         1	            1	4
+
+53: 1.48
+	copper: 0.14	diamond: 0.14	gold: 0.24	uranium: 0.96
+rounded:       1	            1	         1	            1	4
+
+54: 1.45
+	copper: 0.14	diamond: 0.14	gold: 0.23	uranium: 0.94
+rounded:       1	            1	         1	            1	4
+
+55: 1.42
+	copper: 0.14	diamond: 0.14	gold: 0.23	uranium: 0.92
+rounded:       1	            1	         1	            1	4
+
+56: 1.40
+	copper: 0.13	diamond: 0.13	gold: 0.22	uranium: 0.91
+rounded:       1	            1	         1	            1	4
+
+57: 1.37
+	copper: 0.13	diamond: 0.13	gold: 0.22	uranium: 0.89
+rounded:       1	            1	         1	            1	4
+
+58: 1.35
+	copper: 0.13	diamond: 0.13	gold: 0.22	uranium: 0.88
+rounded:       1	            1	         1	            1	4
+
+59: 1.33
+	copper: 0.13	diamond: 0.13	gold: 0.21	uranium: 0.86
+rounded:       1	            1	         1	            1	4
+
+60: 1.31
+	copper: 0.12	diamond: 0.12	gold: 0.21	uranium: 0.85
+rounded:       1	            1	         1	            1	4
+
+61: 1.28
+	copper: 0.12	diamond: 0.12	gold: 0.20	uranium: 0.83
+rounded:       1	            1	         1	            1	4
+
+62: 1.26
+	copper: 0.12	diamond: 0.12	gold: 0.20	uranium: 0.82
+rounded:       1	            1	         1	            1	4
+
+63: 1.24
+	copper: 0.12	diamond: 0.12	gold: 0.20	uranium: 0.81
+rounded:       1	            1	         1	            1	4
+
+64: 1.22
+	copper: 0.12	diamond: 0.12	gold: 0.20	uranium: 0.79
+rounded:       1	            1	         1	            1	4
+
+65: 1.21
+	copper: 0.12	diamond: 0.12	gold: 0.19	uranium: 0.78
+rounded:       1	            1	         1	            1	4
+
+66: 1.19
+	copper: 0.11	diamond: 0.11	gold: 0.19	uranium: 0.77
+rounded:       1	            1	         1	            1	4
+
+67: 1.17
+	copper: 0.11	diamond: 0.11	gold: 0.19	uranium: 0.76
+rounded:       1	            1	         1	            1	4
+
+68: 1.15
+	copper: 0.11	diamond: 0.11	gold: 0.18	uranium: 0.75
+rounded:       1	            1	         1	            1	4
+
+69: 1.14
+	copper: 0.11	diamond: 0.11	gold: 0.18	uranium: 0.74
+rounded:       1	            1	         1	            1	4
+
+70: 1.12
+	copper: 0.11	diamond: 0.11	gold: 0.18	uranium: 0.73
+rounded:       1	            1	         1	            1	4
+
+71: 1.10
+	copper: 0.11	diamond: 0.11	gold: 0.18	uranium: 0.72
+rounded:       1	            1	         1	            1	4
+
+72: 1.09
+	copper: 0.10	diamond: 0.10	gold: 0.17	uranium: 0.71
+rounded:       1	            1	         1	            1	4
+
+73: 1.07
+	copper: 0.10	diamond: 0.10	gold: 0.17	uranium: 0.70
+rounded:       1	            1	         1	            1	4
+
+74: 1.06
+	copper: 0.10	diamond: 0.10	gold: 0.17	uranium: 0.69
+rounded:       1	            1	         1	            1	4
+
+75: 1.04
+	copper: 0.10	diamond: 0.10	gold: 0.17	uranium: 0.68
+rounded:       1	            1	         1	            1	4
+
+76: 1.03
+	copper: 0.10	diamond: 0.10	gold: 0.16	uranium: 0.67
+rounded:       1	            1	         1	            1	4
+
+77: 1.02
+	copper: 0.10	diamond: 0.10	gold: 0.16	uranium: 0.66
+rounded:       1	            1	         1	            1	4
+
+78: 1.00
+	copper: 0.10	diamond: 0.10	gold: 0.16	uranium: 0.65
+rounded:       1	            1	         1	            1	4
+
+79: 0.99
+	copper: 0.09	diamond: 0.09	gold: 0.16	uranium: 0.64
+rounded:       1	            1	         1	            1	4
+
+80: 0.98
+	copper: 0.09	diamond: 0.09	gold: 0.16	uranium: 0.64
+rounded:       1	            1	         1	            1	4
+
+81: 0.97
+	copper: 0.09	diamond: 0.09	gold: 0.15	uranium: 0.63
+rounded:       1	            1	         1	            1	4
+
+82: 0.96
+	copper: 0.09	diamond: 0.09	gold: 0.15	uranium: 0.62
+rounded:       1	            1	         1	            1	4
+
+83: 0.94
+	copper: 0.09	diamond: 0.09	gold: 0.15	uranium: 0.61
+rounded:       1	            1	         1	            1	4
+
+84: 0.93
+	copper: 0.09	diamond: 0.09	gold: 0.15	uranium: 0.61
+rounded:       1	            1	         1	            1	4
+
+85: 0.92
+	copper: 0.09	diamond: 0.09	gold: 0.15	uranium: 0.60
+rounded:       1	            1	         1	            1	4
+
+86: 0.91
+	copper: 0.09	diamond: 0.09	gold: 0.15	uranium: 0.59
+rounded:       1	            1	         1	            1	4
+
+87: 0.90
+	copper: 0.09	diamond: 0.09	gold: 0.14	uranium: 0.58
+rounded:       1	            1	         1	            1	4
+
+88: 0.89
+	copper: 0.09	diamond: 0.09	gold: 0.14	uranium: 0.58
+rounded:       1	            1	         1	            1	4
+
+89: 0.88
+	copper: 0.08	diamond: 0.08	gold: 0.14	uranium: 0.57
+rounded:       1	            1	         1	            1	4
+
+90: 0.87
+	copper: 0.08	diamond: 0.08	gold: 0.14	uranium: 0.56
+rounded:       1	            1	         1	            1	4
+
+91: 0.86
+	copper: 0.08	diamond: 0.08	gold: 0.14	uranium: 0.56
+rounded:       1	            1	         1	            1	4
+
+92: 0.85
+	copper: 0.08	diamond: 0.08	gold: 0.14	uranium: 0.55
+rounded:       1	            1	         1	            1	4
+
+93: 0.84
+	copper: 0.08	diamond: 0.08	gold: 0.13	uranium: 0.55
+rounded:       1	            1	         1	            1	4
+
+94: 0.83
+	copper: 0.08	diamond: 0.08	gold: 0.13	uranium: 0.54
+rounded:       1	            1	         1	            1	4
+
+95: 0.82
+	copper: 0.08	diamond: 0.08	gold: 0.13	uranium: 0.54
+rounded:       1	            1	         1	            1	4
+
+96: 0.82
+	copper: 0.08	diamond: 0.08	gold: 0.13	uranium: 0.53
+rounded:       1	            1	         1	            1	4
+
+97: 0.81
+	copper: 0.08	diamond: 0.08	gold: 0.13	uranium: 0.52
+rounded:       1	            1	         1	            1	4
+
+98: 0.80
+	copper: 0.08	diamond: 0.08	gold: 0.13	uranium: 0.52
+rounded:       1	            1	         1	            1	4
+
+99: 0.79
+	copper: 0.08	diamond: 0.08	gold: 0.13	uranium: 0.51
+rounded:       1	            1	         1	            1	4
+
+100: 0.78
+	copper: 0.07	diamond: 0.07	gold: 0.12	uranium: 0.51
+rounded:       1	            1	         1	            1	4
+
+101: 0.78
+	copper: 0.07	diamond: 0.07	gold: 0.12	uranium: 0.50
+rounded:       1	            1	         1	            1	4
+
+102: 0.77
+	copper: 0.07	diamond: 0.07	gold: 0.12	uranium: 0.50
+rounded:       1	            1	         1	            1	4
+
+103: 0.76
+	copper: 0.07	diamond: 0.07	gold: 0.12	uranium: 0.49
+rounded:       1	            1	         1	            1	4
+
+104: 0.75
+	copper: 0.07	diamond: 0.07	gold: 0.12	uranium: 0.49
+rounded:       1	            1	         1	            1	4
+
+105: 0.75
+	copper: 0.07	diamond: 0.07	gold: 0.12	uranium: 0.48
+rounded:       1	            1	         1	            1	4
+
+106: 0.74
+	copper: 0.07	diamond: 0.07	gold: 0.12	uranium: 0.48
+rounded:       1	            1	         1	            1	4
+
+107: 0.73
+	copper: 0.07	diamond: 0.07	gold: 0.12	uranium: 0.48
+rounded:       1	            1	         1	            1	4
+
+108: 0.73
+	copper: 0.07	diamond: 0.07	gold: 0.12	uranium: 0.47
+rounded:       1	            1	         1	            1	4
+
+109: 0.72
+	copper: 0.07	diamond: 0.07	gold: 0.11	uranium: 0.47
+rounded:       1	            1	         1	            1	4
+
+110: 0.71
+	copper: 0.07	diamond: 0.07	gold: 0.11	uranium: 0.46
+rounded:       1	            1	         1	            1	4
+
+111: 0.71
+	copper: 0.07	diamond: 0.07	gold: 0.11	uranium: 0.46
+rounded:       1	            1	         1	            1	4
+
+112: 0.70
+	copper: 0.07	diamond: 0.07	gold: 0.11	uranium: 0.45
+rounded:       1	            1	         1	            1	4
+
+113: 0.69
+	copper: 0.07	diamond: 0.07	gold: 0.11	uranium: 0.45
+rounded:       1	            1	         1	            1	4
+
+114: 0.69
+	copper: 0.07	diamond: 0.07	gold: 0.11	uranium: 0.45
+rounded:       1	            1	         1	            1	4
+
+115: 0.68
+	copper: 0.07	diamond: 0.07	gold: 0.11	uranium: 0.44
+rounded:       1	            1	         1	            1	4
+
+116: 0.68
+	copper: 0.06	diamond: 0.06	gold: 0.11	uranium: 0.44
+rounded:       1	            1	         1	            1	4
+
+117: 0.67
+	copper: 0.06	diamond: 0.06	gold: 0.11	uranium: 0.43
+rounded:       1	            1	         1	            1	4
+
+118: 0.66
+	copper: 0.06	diamond: 0.06	gold: 0.11	uranium: 0.43
+rounded:       1	            1	         1	            1	4
+
+119: 0.66
+	copper: 0.06	diamond: 0.06	gold: 0.11	uranium: 0.43
+rounded:       1	            1	         1	            1	4
+
+120: 0.65
+	copper: 0.06	diamond: 0.06	gold: 0.10	uranium: 0.42
+rounded:       1	            1	         1	            1	4
+
+121: 0.65
+	copper: 0.06	diamond: 0.06	gold: 0.10	uranium: 0.42
+rounded:       1	            1	         1	            1	4
+
+122: 0.64
+	copper: 0.06	diamond: 0.06	gold: 0.10	uranium: 0.42
+rounded:       1	            1	         1	            1	4
+
+123: 0.64
+	copper: 0.06	diamond: 0.06	gold: 0.10	uranium: 0.41
+rounded:       1	            1	         1	            1	4
+
+124: 0.63
+	copper: 0.06	diamond: 0.06	gold: 0.10	uranium: 0.41
+rounded:       1	            1	         1	            1	4
+
+125: 0.63
+	copper: 0.06	diamond: 0.06	gold: 0.10	uranium: 0.41
+rounded:       1	            1	         1	            1	4
+
+126: 0.62
+	copper: 0.06	diamond: 0.06	gold: 0.10	uranium: 0.40
+rounded:       1	            1	         1	            1	4
+
+127: 0.62
+	copper: 0.06	diamond: 0.06	gold: 0.10	uranium: 0.40
+rounded:       1	            1	         1	            1	4
+
+128: 0.61
+	copper: 0.06	diamond: 0.06	gold: 0.10	uranium: 0.40
+rounded:       1	            1	         1	            1	4
+
+129: 0.61
+	copper: 0.06	diamond: 0.06	gold: 0.10	uranium: 0.39
+rounded:       1	            1	         1	            1	4
+
+130: 0.60
+	copper: 0.06	diamond: 0.06	gold: 0.10	uranium: 0.39
+rounded:       1	            1	         1	            1	4
+
+131: 0.60
+	copper: 0.06	diamond: 0.06	gold: 0.10	uranium: 0.39
+rounded:       1	            1	         1	            1	4
+
+132: 0.59
+	copper: 0.06	diamond: 0.06	gold: 0.09	uranium: 0.39
+rounded:       1	            1	         1	            1	4
+
+133: 0.59
+	copper: 0.06	diamond: 0.06	gold: 0.09	uranium: 0.38
+rounded:       1	            1	         1	            1	4
+
+134: 0.58
+	copper: 0.06	diamond: 0.06	gold: 0.09	uranium: 0.38
+rounded:       1	            1	         1	            1	4
+
+135: 0.58
+	copper: 0.06	diamond: 0.06	gold: 0.09	uranium: 0.38
+rounded:       1	            1	         1	            1	4
+
+136: 0.58
+	copper: 0.06	diamond: 0.06	gold: 0.09	uranium: 0.37
+rounded:       1	            1	         1	            1	4
+
+137: 0.57
+	copper: 0.05	diamond: 0.05	gold: 0.09	uranium: 0.37
+rounded:       1	            1	         1	            1	4
+
+138: 0.57
+	copper: 0.05	diamond: 0.05	gold: 0.09	uranium: 0.37
+rounded:       1	            1	         1	            1	4
+
+139: 0.56
+	copper: 0.05	diamond: 0.05	gold: 0.09	uranium: 0.37
+rounded:       1	            1	         1	            1	4
+
+140: 0.56
+	copper: 0.05	diamond: 0.05	gold: 0.09	uranium: 0.36
+rounded:       1	            1	         1	            1	4
+
+141: 0.56
+	copper: 0.05	diamond: 0.05	gold: 0.09	uranium: 0.36
+rounded:       1	            1	         1	            1	4
+
+142: 0.55
+	copper: 0.05	diamond: 0.05	gold: 0.09	uranium: 0.36
+rounded:       1	            1	         1	            1	4
+
+143: 0.55
+	copper: 0.05	diamond: 0.05	gold: 0.09	uranium: 0.36
+rounded:       1	            1	         1	            1	4
+
+144: 0.54
+	copper: 0.05	diamond: 0.05	gold: 0.09	uranium: 0.35
+rounded:       1	            1	         1	            1	4
+
+145: 0.54
+	copper: 0.05	diamond: 0.05	gold: 0.09	uranium: 0.35
+rounded:       1	            1	         1	            1	4
+
+146: 0.54
+	copper: 0.05	diamond: 0.05	gold: 0.09	uranium: 0.35
+rounded:       1	            1	         1	            1	4
+
+147: 0.53
+	copper: 0.05	diamond: 0.05	gold: 0.09	uranium: 0.35
+rounded:       1	            1	         1	            1	4
+
+148: 0.53
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.34
+rounded:       1	            1	         1	            1	4
+
+149: 0.53
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.34
+rounded:       1	            1	         1	            1	4
+
+150: 0.52
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.34
+rounded:       1	            1	         1	            1	4
+
+151: 0.52
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.34
+rounded:       1	            1	         1	            1	4
+
+152: 0.52
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.33
+rounded:       1	            1	         1	            1	4
+
+153: 0.51
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.33
+rounded:       1	            1	         1	            1	4
+
+154: 0.51
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.33
+rounded:       1	            1	         1	            1	4
+
+155: 0.51
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.33
+rounded:       1	            1	         1	            1	4
+
+156: 0.50
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.33
+rounded:       1	            1	         1	            1	4
+
+157: 0.50
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.32
+rounded:       1	            1	         1	            1	4
+
+158: 0.50
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.32
+rounded:       1	            1	         1	            1	4
+
+159: 0.49
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.32
+rounded:       1	            1	         1	            1	4
+
+160: 0.49
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.32
+rounded:       1	            1	         1	            1	4
+
+161: 0.49
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.32
+rounded:       1	            1	         1	            1	4
+
+162: 0.48
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.31
+rounded:       1	            1	         1	            1	4
+
+163: 0.48
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.31
+rounded:       1	            1	         1	            1	4
+
+164: 0.48
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.31
+rounded:       1	            1	         1	            1	4
+
+165: 0.47
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.31
+rounded:       1	            1	         1	            1	4
+
+166: 0.47
+	copper: 0.05	diamond: 0.05	gold: 0.08	uranium: 0.31
+rounded:       1	            1	         1	            1	4
+
+167: 0.47
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.30
+rounded:       1	            1	         1	            1	4
+
+168: 0.47
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.30
+rounded:       1	            1	         1	            1	4
+
+169: 0.46
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.30
+rounded:       1	            1	         1	            1	4
+
+170: 0.46
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.30
+rounded:       1	            1	         1	            1	4
+
+171: 0.46
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.30
+rounded:       1	            1	         1	            1	4
+
+172: 0.46
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.30
+rounded:       1	            1	         1	            1	4
+
+173: 0.45
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.29
+rounded:       1	            1	         1	            1	4
+
+174: 0.45
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.29
+rounded:       1	            1	         1	            1	4
+
+175: 0.45
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.29
+rounded:       1	            1	         1	            1	4
+
+176: 0.45
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.29
+rounded:       1	            1	         1	            1	4
+
+177: 0.44
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.29
+rounded:       1	            1	         1	            1	4
+
+178: 0.44
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.29
+rounded:       1	            1	         1	            1	4
+
+179: 0.44
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.28
+rounded:       1	            1	         1	            1	4
+
+180: 0.44
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.28
+rounded:       1	            1	         1	            1	4
+
+181: 0.43
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.28
+rounded:       1	            1	         1	            1	4
+
+182: 0.43
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.28
+rounded:       1	            1	         1	            1	4
+
+183: 0.43
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.28
+rounded:       1	            1	         1	            1	4
+
+184: 0.43
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.28
+rounded:       1	            1	         1	            1	4
+
+185: 0.42
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.27
+rounded:       1	            1	         1	            1	4
+
+186: 0.42
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.27
+rounded:       1	            1	         1	            1	4
+
+187: 0.42
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.27
+rounded:       1	            1	         1	            1	4
+
+188: 0.42
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.27
+rounded:       1	            1	         1	            1	4
+
+189: 0.41
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.27
+rounded:       1	            1	         1	            1	4
+
+190: 0.41
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.27
+rounded:       1	            1	         1	            1	4
+
+191: 0.41
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.27
+rounded:       1	            1	         1	            1	4
+
+192: 0.41
+	copper: 0.04	diamond: 0.04	gold: 0.07	uranium: 0.26
+rounded:       1	            1	         1	            1	4
+
+193: 0.41
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.26
+rounded:       1	            1	         1	            1	4
+
+194: 0.40
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.26
+rounded:       1	            1	         1	            1	4
+
+195: 0.40
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.26
+rounded:       1	            1	         1	            1	4
+
+196: 0.40
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.26
+rounded:       1	            1	         1	            1	4
+
+197: 0.40
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.26
+rounded:       1	            1	         1	            1	4
+
+198: 0.40
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.26
+rounded:       1	            1	         1	            1	4
+
+199: 0.39
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.26
+rounded:       1	            1	         1	            1	4
+
+200: 0.39
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.25
+rounded:       1	            1	         1	            1	4
+
+201: 0.39
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.25
+rounded:       1	            1	         1	            1	4
+
+202: 0.39
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.25
+rounded:       1	            1	         1	            1	4
+
+203: 0.39
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.25
+rounded:       1	            1	         1	            1	4
+
+204: 0.38
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.25
+rounded:       1	            1	         1	            1	4
+
+205: 0.38
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.25
+rounded:       1	            1	         1	            1	4
+
+206: 0.38
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.25
+rounded:       1	            1	         1	            1	4
+
+207: 0.38
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.25
+rounded:       1	            1	         1	            1	4
+
+208: 0.38
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.24
+rounded:       1	            1	         1	            1	4
+
+209: 0.37
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.24
+rounded:       1	            1	         1	            1	4
+
+210: 0.37
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.24
+rounded:       1	            1	         1	            1	4
+
+211: 0.37
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.24
+rounded:       1	            1	         1	            1	4
+
+212: 0.37
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.24
+rounded:       1	            1	         1	            1	4
+
+213: 0.37
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.24
+rounded:       1	            1	         1	            1	4
+
+214: 0.37
+	copper: 0.04	diamond: 0.04	gold: 0.06	uranium: 0.24
+rounded:       1	            1	         1	            1	4
+
+215: 0.36
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.24
+rounded:       1	            1	         1	            1	4
+
+216: 0.36
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.24
+rounded:       1	            1	         1	            1	4
+
+217: 0.36
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.23
+rounded:       1	            1	         1	            1	4
+
+218: 0.36
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.23
+rounded:       1	            1	         1	            1	4
+
+219: 0.36
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.23
+rounded:       1	            1	         1	            1	4
+
+220: 0.36
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.23
+rounded:       1	            1	         1	            1	4
+
+221: 0.35
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.23
+rounded:       1	            1	         1	            1	4
+
+222: 0.35
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.23
+rounded:       1	            1	         1	            1	4
+
+223: 0.35
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.23
+rounded:       1	            1	         1	            1	4
+
+224: 0.35
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.23
+rounded:       1	            1	         1	            1	4
+
+225: 0.35
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.23
+rounded:       1	            1	         1	            1	4
+
+226: 0.35
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.22
+rounded:       1	            1	         1	            1	4
+
+227: 0.35
+	copper: 0.03	diamond: 0.03	gold: 0.06	uranium: 0.22
+rounded:       1	            1	         1	            1	4
+
+228: 0.34
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.22
+rounded:       1	            1	         1	            1	4
+
+229: 0.34
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.22
+rounded:       1	            1	         1	            1	4
+
+230: 0.34
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.22
+rounded:       1	            1	         1	            1	4
+
+231: 0.34
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.22
+rounded:       1	            1	         1	            1	4
+
+232: 0.34
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.22
+rounded:       1	            1	         1	            1	4
+
+233: 0.34
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.22
+rounded:       1	            1	         1	            1	4
+
+234: 0.33
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.22
+rounded:       1	            1	         1	            1	4
+
+235: 0.33
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.22
+rounded:       1	            1	         1	            1	4
+
+236: 0.33
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.22
+rounded:       1	            1	         1	            1	4
+
+237: 0.33
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.21
+rounded:       1	            1	         1	            1	4
+
+238: 0.33
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.21
+rounded:       1	            1	         1	            1	4
+
+239: 0.33
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.21
+rounded:       1	            1	         1	            1	4
+
+240: 0.33
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.21
+rounded:       1	            1	         1	            1	4
+
+241: 0.33
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.21
+rounded:       1	            1	         1	            1	4
+
+242: 0.32
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.21
+rounded:       1	            1	         1	            1	4
+
+243: 0.32
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.21
+rounded:       1	            1	         1	            1	4
+
+244: 0.32
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.21
+rounded:       1	            1	         1	            1	4
+
+245: 0.32
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.21
+rounded:       1	            1	         1	            1	4
+
+246: 0.32
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.21
+rounded:       1	            1	         1	            1	4
+
+247: 0.32
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.21
+rounded:       1	            1	         1	            1	4
+
+248: 0.32
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+249: 0.31
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+250: 0.31
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+251: 0.31
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+252: 0.31
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+253: 0.31
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+254: 0.31
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+255: 0.31
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+256: 0.31
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+257: 0.30
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+258: 0.30
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+259: 0.30
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+260: 0.30
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.20
+rounded:       1	            1	         1	            1	4
+
+261: 0.30
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+262: 0.30
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+263: 0.30
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+264: 0.30
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+265: 0.30
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+266: 0.29
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+267: 0.29
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+268: 0.29
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+269: 0.29
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+270: 0.29
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+271: 0.29
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+272: 0.29
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+273: 0.29
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+274: 0.29
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.19
+rounded:       1	            1	         1	            1	4
+
+275: 0.28
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+276: 0.28
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+277: 0.28
+	copper: 0.03	diamond: 0.03	gold: 0.05	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+278: 0.28
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+279: 0.28
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+280: 0.28
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+281: 0.28
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+282: 0.28
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+283: 0.28
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+284: 0.28
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+285: 0.27
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+286: 0.27
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+287: 0.27
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+288: 0.27
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+289: 0.27
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+290: 0.27
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.18
+rounded:       1	            1	         1	            1	4
+
+291: 0.27
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+292: 0.27
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+293: 0.27
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+294: 0.27
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+295: 0.27
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+296: 0.26
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+297: 0.26
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+298: 0.26
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+299: 0.26
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+300: 0.26
+	copper: 0.03	diamond: 0.03	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+301: 0.26
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+302: 0.26
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+303: 0.26
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+304: 0.26
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+305: 0.26
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+306: 0.26
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+307: 0.26
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+308: 0.25
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.17
+rounded:       1	            1	         1	            1	4
+
+309: 0.25
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+310: 0.25
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+311: 0.25
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+312: 0.25
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+313: 0.25
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+314: 0.25
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+315: 0.25
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+316: 0.25
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+317: 0.25
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+318: 0.25
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+319: 0.25
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+320: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+321: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+322: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+323: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+324: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+325: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+326: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+327: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.16
+rounded:       1	            1	         1	            1	4
+
+328: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+329: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+330: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+331: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+332: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+333: 0.24
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+334: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+335: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+336: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+337: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+338: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+339: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+340: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+341: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+342: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+343: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+344: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+345: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+346: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+347: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+348: 0.23
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+349: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+350: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.15
+rounded:       1	            1	         1	            1	4
+
+351: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+352: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+353: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+354: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+355: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+356: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+357: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.04	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+358: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+359: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+360: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+361: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+362: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+363: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+364: 0.22
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+365: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+366: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+367: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+368: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+369: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+370: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+371: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+372: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+373: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+374: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+375: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+376: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.14
+rounded:       1	            1	         1	            1	4
+
+377: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+378: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+379: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+380: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+381: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+382: 0.21
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+383: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+384: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+385: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+386: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+387: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+388: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+389: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+390: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+391: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+392: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+393: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+394: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+395: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+396: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+397: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+398: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+399: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+400: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+401: 0.20
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+402: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+403: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+404: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+405: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+406: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.13
+rounded:       1	            1	         1	            1	4
+
+407: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+408: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+409: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+410: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+411: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+412: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+413: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+414: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+415: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+416: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+417: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+418: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+419: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+420: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+421: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+422: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+423: 0.19
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+424: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+425: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+426: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+427: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+428: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+429: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+430: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+431: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+432: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+433: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+434: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+435: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+436: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+437: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+438: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+439: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+440: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+441: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+442: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.12
+rounded:       1	            1	         1	            1	4
+
+443: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+444: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+445: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+446: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+447: 0.18
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+448: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+449: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+450: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+451: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+452: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+453: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+454: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+455: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+456: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+457: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+458: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+459: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+460: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+461: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+462: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+463: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+464: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+465: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+466: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+467: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+468: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+469: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+470: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+471: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+472: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+473: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+474: 0.17
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+475: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+476: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+477: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+478: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+479: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+480: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+481: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+482: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+483: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+484: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.11
+rounded:       1	            1	         1	            1	4
+
+485: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+486: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+487: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+488: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+489: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+490: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+491: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+492: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+493: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+494: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+495: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+496: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+497: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+498: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+499: 0.16
+	copper: 0.02	diamond: 0.02	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+500: 0.16
+	copper: 0.01	diamond: 0.01	gold: 0.03	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+501: 0.16
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+502: 0.16
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+503: 0.16
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+504: 0.16
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+505: 0.16
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+506: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+507: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+508: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+509: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+510: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+511: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+512: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+513: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+514: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+515: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+516: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+517: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+518: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+519: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+520: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+521: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+522: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+523: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+524: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+525: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+526: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+527: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+528: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+529: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+530: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+531: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+532: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+533: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+534: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+535: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.10
+rounded:       1	            1	         1	            1	4
+
+536: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+537: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+538: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+539: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+540: 0.15
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+541: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+542: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+543: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+544: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+545: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+546: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+547: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+548: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+549: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+550: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+551: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+552: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+553: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+554: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+555: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+556: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+557: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+558: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+559: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+560: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+561: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+562: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+563: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+564: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+565: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+566: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+567: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+568: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+569: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+570: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+571: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+572: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+573: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+574: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+575: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+576: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+577: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+578: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+579: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+580: 0.14
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+581: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+582: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+583: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+584: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+585: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+586: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+587: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+588: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+589: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+590: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+591: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+592: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+593: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+594: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+595: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+596: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+597: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+598: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.09
+rounded:       1	            1	         1	            1	4
+
+599: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.08
+rounded:       1	            1	         1	            1	4
+
+600: 0.13
+	copper: 0.01	diamond: 0.01	gold: 0.02	uranium: 0.08
+rounded:       1	            1	         1	            1	4
+

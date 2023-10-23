@@ -1,0 +1,292 @@
+[AI_processor] 2 total, 1 resources
+	nuclear_processor        ...     2...100.00%
+
+[super_computer] 2 total, 1 resources
+	AI_processor             ...     2...100.00%
+
+[computer] 4 total, 1 resources
+	super_computer           ...     4...100.00%
+
+[nuclear_circuit] 3 total, 1 resources
+	nuclear_processor        ...     3...100.00%
+
+[fan] 4 total, 1 resources
+	computer                 ...     4...100.00%
+
+[plutonium_circuit] 11 total, 2 resources
+	nuclear_processor        ...     5... 45.45%
+	nuclear_circuit          ...     6... 54.55%
+
+[power_supply] 4 total, 1 resources
+	computer                 ...     4...100.00%
+
+[processor] 18 total, 3 resources
+	nuclear_processor        ...     5... 27.78%
+	computer                 ...     4... 22.22%
+	nuclear_circuit          ...     9... 50.00%
+
+__ RSD splits (10) __
+	< [5] nuclear_processor    v9                  computer [4] >
+	< [9] nuclear_circuit      v0      
+
+__ RSD splits (2) __
+	< [1] nuclear_processor    v16          nuclear_circuit [1] >
+	< [1] nuclear_processor    v2                  computer [1] >
+	< [1] nuclear_circuit      v0      
+
+__ straight split __
+	< [5] nuclear_processor    v9                  computer [4] >
+	< [9] nuclear_circuit      v0      
+
+[uranium_circuit] 11 total, 2 resources
+	nuclear_processor        ...     5... 45.45%
+	nuclear_circuit          ...     6... 54.55%
+
+[circuit] 287 total, 8 resources
+	AI_processor             ...    20...  6.97%
+	super_computer           ...     6...  2.09%
+	nuclear_circuit          ...    15...  5.23%
+	fan                      ...     4...  1.39%
+	plutonium_circuit        ...   110... 38.33%
+	power_supply             ...     4...  1.39%
+	processor                ...    18...  6.27%
+	uranium_circuit          ...   110... 38.33%
+
+__ RSD splits (10) __
+	< [6] super_computer       v276         nuclear_circuit [5] >
+	< [4] fan                  v268            power_supply [4] >
+	< [8] processor            v260    
+	< [2] AI_processor         v23          nuclear_circuit [1] >
+	< [1] plutonium_circuit    v21                processor [1] >
+	< [1] uranium_circuit      v20     
+	< [1] plutonium_circuit    v0           uranium_circuit [1] >
+
+__ RSD splits (2) __
+	< [1] nuclear_circuit      v286    
+	< [1] super_computer       v141         nuclear_circuit [1] >
+	< [1] plutonium_circuit    v139               processor [1] >
+	< [1] uranium_circuit      v138    
+	< [1] AI_processor         v67           super_computer [1] >
+	< [1] nuclear_circuit      v65                      fan [1] >
+	< [1] plutonium_circuit    v63             power_supply [1] >
+	< [1] uranium_circuit      v62     
+	< [1] nuclear_circuit      v29        plutonium_circuit [1] >
+	< [1] uranium_circuit      v28     
+	< [1] AI_processor         v12                processor [1] >
+	< [1] plutonium_circuit    v4           uranium_circuit [1] >
+	< [1] plutonium_circuit    v0           uranium_circuit [1] >
+
+__ straight split __
+	< [20] AI_processor        v261          super_computer [6] >
+	< [15] nuclear_circuit     v242                     fan [4] >
+	< [110] plutonium_circuit  v128            power_supply [4] >
+	< [18] processor           v0         uranium_circuit [110] >
+
+[copper_cable] 8 total, 1 resources
+	AI_processor             ...     8...100.00%
+
+[gold_cable] 87 total, 4 resources
+	super_computer           ...     6...  6.90%
+	nuclear_circuit          ...    15... 17.24%
+	plutonium_circuit        ...    33... 37.93%
+	uranium_circuit          ...    33... 37.93%
+
+__ RSD splits (10) __
+	< [6] super_computer       v76          nuclear_circuit [5] >
+	< [3] plutonium_circuit    v70          uranium_circuit [3] >
+	< [1] nuclear_circuit      v3         plutonium_circuit [3] >
+	< [3] uranium_circuit      v0      
+
+__ RSD splits (2) __
+	< [1] nuclear_circuit      v85        plutonium_circuit [1] >
+	< [1] uranium_circuit      v84     
+	< [1] super_computer       v40          nuclear_circuit [1] >
+	< [1] super_computer       v18          nuclear_circuit [1] >
+	< [1] nuclear_circuit      v8      
+	< [1] plutonium_circuit    v0           uranium_circuit [1] >
+
+__ straight split __
+	< [6] super_computer       v66         nuclear_circuit [15] >
+	< [33] plutonium_circuit   v0          uranium_circuit [33] >
+
+[aluminum_liquid] 12 total, 1 resources
+	power_supply             ...    12...100.00%
+
+[copper_plate] 12 total, 1 resources
+	AI_processor             ...    12...100.00%
+
+[copper_wire] 311 total, 2 resources
+	circuit                  ...   287... 92.28%
+	copper_cable             ...    24...  7.72%
+
+[diamond_gear] 12 total, 1 resources
+	fan                      ...    12...100.00%
+
+[diamond_plate] 10 total, 1 resources
+	nuclear_processor        ...    10...100.00%
+
+[diamond_wire] 274 total, 3 resources
+	plutonium_circuit        ...   110... 40.15%
+	processor                ...    54... 19.71%
+	uranium_circuit          ...   110... 40.15%
+
+__ RSD splits (10) __
+	< [4] processor            v270    
+	< [1] plutonium_circuit    v21                processor [5] >
+	< [1] uranium_circuit      v20     
+	< [1] plutonium_circuit    v0           uranium_circuit [1] >
+
+__ RSD splits (2) __
+	< [1] plutonium_circuit    v135               processor [1] >
+	< [1] uranium_circuit      v134    
+	< [1] plutonium_circuit    v65                processor [1] >
+	< [1] uranium_circuit      v64     
+	< [1] plutonium_circuit    v30          uranium_circuit [1] >
+	< [1] processor            v14     
+	< [1] plutonium_circuit    v5                 processor [1] >
+	< [1] uranium_circuit      v4      
+	< [1] plutonium_circuit    v0           uranium_circuit [1] >
+
+__ straight split __
+	< [110] plutonium_circuit  v110              processor [54] >
+	< [110] uranium_circuit    v0      
+
+[gold_liquid] 54 total, 1 resources
+	processor                ...    54...100.00%
+
+[gold_wire] 261 total, 1 resources
+	gold_cable               ...   261...100.00%
+
+[server_rack] 2 total, 1 resources
+	super_computer           ...     2...100.00%
+
+[uranium_refined] 6 total, 4 resources
+	nuclear_processor        ...     1... 16.67%
+	nuclear_circuit          ...     1... 16.67%
+	plutonium_circuit        ...     2... 33.33%
+	uranium_circuit          ...     2... 33.33%
+
+__ RSD splits (10) __
+	< [1] nuclear_processor    v4           nuclear_circuit [1] >
+	< [2] plutonium_circuit    v0           uranium_circuit [2] >
+
+__ RSD splits (2) __
+	< [1] nuclear_processor    v4           nuclear_circuit [1] >
+	< [1] plutonium_circuit    v0           uranium_circuit [1] >
+
+__ straight split __
+	< [1] nuclear_processor    v4           nuclear_circuit [1] >
+	< [2] plutonium_circuit    v0           uranium_circuit [2] >
+
+[aluminum] 38 total, 3 resources
+	fan                      ...    24... 63.16%
+	aluminum_liquid          ...    12... 31.58%
+	server_rack              ...     2...  5.26%
+
+__ RSD splits (10) __
+	< [4] fan                  v32          aluminum_liquid [2] >
+	< [2] server_rack          v30     
+	< [2] fan                  v0           aluminum_liquid [1] >
+
+__ RSD splits (2) __
+	< [1] server_rack          v18     
+	< [1] aluminum_liquid      v8      
+	< [1] fan                  v2           aluminum_liquid [1] >
+	< [1] fan                  v0      
+
+__ straight split __
+	< [24] fan                 v2          aluminum_liquid [12] >
+	< [2] server_rack          v0      
+
+[copper] 543 total, 4 resources
+	plutonium_circuit        ...   110... 20.26%
+	uranium_circuit          ...   110... 20.26%
+	copper_plate             ...    12...  2.21%
+	copper_wire              ...   311... 57.27%
+
+__ RSD splits (10) __
+	< [2] copper_plate         v540             copper_wire [1] >
+	< [1] plutonium_circuit    v52          uranium_circuit [1] >
+	< [1] copper_plate         v50              copper_wire [1] >
+	< [1] plutonium_circuit    v3           uranium_circuit [1] >
+	< [3] copper_wire          v0      
+
+__ RSD splits (2) __
+	< [1] copper_wire          v542    
+	< [1] plutonium_circuit    v269         uranium_circuit [1] >
+	< [1] copper_wire          v268    
+	< [1] plutonium_circuit    v132         uranium_circuit [1] >
+	< [1] copper_plate         v130             copper_wire [1] >
+	< [1] plutonium_circuit    v63          uranium_circuit [1] >
+	< [1] copper_plate         v62     
+	< [1] copper_wire          v30     
+	< [1] plutonium_circuit    v13          uranium_circuit [1] >
+	< [1] copper_wire          v12     
+	< [1] plutonium_circuit    v4           uranium_circuit [1] >
+	< [1] copper_wire          v0      
+
+__ straight split __
+	< [110] plutonium_circuit  v323       uranium_circuit [110] >
+	< [12] copper_plate        v0             copper_wire [311] >
+
+[diamond] 320 total, 4 resources
+	power_supply             ...    24...  7.50%
+	diamond_gear             ...    12...  3.75%
+	diamond_plate            ...    10...  3.12%
+	diamond_wire             ...   274... 85.62%
+
+__ RSD splits (10) __
+	< [4] power_supply         v314            diamond_gear [2] >
+	< [4] diamond_wire         v310    
+	< [2] power_supply         v28             diamond_gear [1] >
+	< [1] diamond_plate        v20             diamond_wire [7] >
+	< [2] diamond_wire         v0      
+
+__ RSD splits (2) __
+	< [1] diamond_plate        v158            diamond_wire [1] >
+	< [1] diamond_gear         v78     
+	< [1] power_supply         v37             diamond_gear [1] >
+	< [1] diamond_plate        v36     
+	< [1] power_supply         v16             diamond_wire [1] >
+	< [1] diamond_wire         v0      
+
+__ straight split __
+	< [24] power_supply        v284           diamond_gear [12] >
+	< [10] diamond_plate       v0            diamond_wire [274] >
+
+[gold] 602 total, 3 resources
+	circuit                  ...   287... 47.67%
+	gold_liquid              ...    54...  8.97%
+	gold_wire                ...   261... 43.36%
+
+__ RSD splits (10) __
+	< [7] circuit              v591             gold_liquid [4] >
+	< [1] gold_wire            v590    
+	< [8] circuit              v46              gold_liquid [5] >
+	< [6] gold_wire            v40     
+	< [2] circuit              v0                 gold_wire [2] >
+
+__ RSD splits (2) __
+	< [1] circuit              v600               gold_wire [1] >
+	< [1] circuit              v298             gold_liquid [1] >
+	< [1] circuit              v147             gold_liquid [1] >
+	< [1] gold_wire            v146    
+	< [1] circuit              v72     
+	< [1] circuit              v34              gold_liquid [1] >
+	< [1] gold_liquid          v16     
+	< [1] circuit              v0                 gold_wire [1] >
+
+__ straight split __
+	< [287] circuit            v261            gold_liquid [54] >
+	< [261] gold_wire          v0      
+
+[iron] 2 total, 1 resources
+	server_rack              ...     2...100.00%
+
+[plutonium] 110 total, 1 resources
+	plutonium_circuit        ...   110...100.00%
+
+[uranium] 115 total, 2 resources
+	uranium_circuit          ...   110... 95.65%
+	uranium_refined          ...     5...  4.35%
+

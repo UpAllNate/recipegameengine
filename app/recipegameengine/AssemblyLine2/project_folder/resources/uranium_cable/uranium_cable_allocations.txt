@@ -1,0 +1,6 @@
+[uranium_wire] 3 total, 1 resources
+	uranium_cable            ...     3...100.00%
+
+[uranium] 3 total, 1 resources
+	uranium_wire             ...     3...100.00%
+

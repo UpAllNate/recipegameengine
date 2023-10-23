@@ -1,0 +1,22 @@
+[circuit] 1 total, 1 resources
+	processor                ...     1...100.00%
+
+[copper_wire] 1 total, 1 resources
+	circuit                  ...     1...100.00%
+
+[diamond_wire] 3 total, 1 resources
+	processor                ...     3...100.00%
+
+[gold_liquid] 3 total, 1 resources
+	processor                ...     3...100.00%
+
+[copper] 1 total, 1 resources
+	copper_wire              ...     1...100.00%
+
+[diamond] 3 total, 1 resources
+	diamond_wire             ...     3...100.00%
+
+[gold] 4 total, 2 resources
+	circuit                  ...     1... 25.00%
+	gold_liquid              ...     3... 75.00%
+

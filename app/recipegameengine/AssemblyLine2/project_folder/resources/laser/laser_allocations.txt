@@ -1,0 +1,26 @@
+[battery] 5 total, 1 resources
+	laser                    ...     5...100.00%
+
+[heater_plate] 5 total, 1 resources
+	laser                    ...     5...100.00%
+
+[copper_liquid] 5 total, 1 resources
+	battery                  ...     5...100.00%
+
+[iron_liquid] 5 total, 1 resources
+	laser                    ...     5...100.00%
+
+[iron_wire] 5 total, 1 resources
+	heater_plate             ...     5...100.00%
+
+[aluminum] 5 total, 1 resources
+	heater_plate             ...     5...100.00%
+
+[copper] 10 total, 2 resources
+	battery                  ...     5... 50.00%
+	copper_liquid            ...     5... 50.00%
+
+[iron] 10 total, 2 resources
+	iron_liquid              ...     5... 50.00%
+	iron_wire                ...     5... 50.00%
+

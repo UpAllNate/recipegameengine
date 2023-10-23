@@ -1,0 +1,33 @@
+[circuit] 10 total, 1 resources
+	uranium_circuit          ...    10...100.00%
+
+[gold_cable] 3 total, 1 resources
+	uranium_circuit          ...     3...100.00%
+
+[copper_wire] 10 total, 1 resources
+	circuit                  ...    10...100.00%
+
+[diamond_wire] 10 total, 1 resources
+	uranium_circuit          ...    10...100.00%
+
+[gold_wire] 9 total, 1 resources
+	gold_cable               ...     9...100.00%
+
+[uranium_refined] 1 total, 1 resources
+	uranium_circuit          ...     1...100.00%
+
+[copper] 20 total, 2 resources
+	uranium_circuit          ...    10... 50.00%
+	copper_wire              ...    10... 50.00%
+
+[diamond] 10 total, 1 resources
+	diamond_wire             ...    10...100.00%
+
+[gold] 19 total, 2 resources
+	circuit                  ...    10... 52.63%
+	gold_wire                ...     9... 47.37%
+
+[uranium] 11 total, 2 resources
+	uranium_circuit          ...    10... 90.91%
+	uranium_refined          ...     1...  9.09%
+

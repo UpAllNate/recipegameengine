@@ -1,0 +1,2401 @@
+Starters needed for period...
+1: 24289.06
+	aluminum: 531.00	copper: 3637.50	diamond: 2356.00	gold: 3894.00	iron: 411.50	plutonium: 6600.00	uranium: 6859.06
+rounded:         531	           3638	            2356	         3894	         412	              6600	            6860	24291
+
+2: 12144.53
+	aluminum: 265.50	copper: 1818.75	diamond: 1178.00	gold: 1947.00	iron: 205.75	plutonium: 3300.00	uranium: 3429.53
+rounded:         266	           1819	            1178	         1947	         206	              3300	            3430	12146
+
+3: 8096.35
+	aluminum: 177.00	copper: 1212.50	diamond: 785.33	gold: 1298.00	iron: 137.17	plutonium: 2200.00	uranium: 2286.35
+rounded:         177	           1213	            786	         1298	         138	              2200	            2287	8099
+
+4: 6072.27
+	aluminum: 132.75	copper: 909.38	diamond: 589.00	gold: 973.50	iron: 102.88	plutonium: 1650.00	uranium: 1714.77
+rounded:         133	           910	            589	         974	         103	              1650	            1715	6074
+
+5: 4857.81
+	aluminum: 106.20	copper: 727.50	diamond: 471.20	gold: 778.80	iron: 82.30	plutonium: 1320.00	uranium: 1371.81
+rounded:         107	           728	            472	         779	         83	              1320	            1372	4861
+
+6: 4048.18
+	aluminum: 88.50	copper: 606.25	diamond: 392.67	gold: 649.00	iron: 68.58	plutonium: 1100.00	uranium: 1143.18
+rounded:         89	           607	            393	         649	         69	              1100	            1144	4051
+
+7: 3469.87
+	aluminum: 75.86	copper: 519.64	diamond: 336.57	gold: 556.29	iron: 58.79	plutonium: 942.86	uranium: 979.87
+rounded:         76	           520	            337	         557	         59	              943	            980	3472
+
+8: 3036.13
+	aluminum: 66.38	copper: 454.69	diamond: 294.50	gold: 486.75	iron: 51.44	plutonium: 825.00	uranium: 857.38
+rounded:         67	           455	            295	         487	         52	              825	            858	3039
+
+9: 2698.78
+	aluminum: 59.00	copper: 404.17	diamond: 261.78	gold: 432.67	iron: 45.72	plutonium: 733.33	uranium: 762.12
+rounded:         59	           405	            262	         433	         46	              734	            763	2702
+
+10: 2428.91
+	aluminum: 53.10	copper: 363.75	diamond: 235.60	gold: 389.40	iron: 41.15	plutonium: 660.00	uranium: 685.91
+rounded:         54	           364	            236	         390	         42	              660	            686	2432
+
+11: 2208.10
+	aluminum: 48.27	copper: 330.68	diamond: 214.18	gold: 354.00	iron: 37.41	plutonium: 600.00	uranium: 623.55
+rounded:         49	           331	            215	         354	         38	              600	            624	2211
+
+12: 2024.09
+	aluminum: 44.25	copper: 303.13	diamond: 196.33	gold: 324.50	iron: 34.29	plutonium: 550.00	uranium: 571.59
+rounded:         45	           304	            197	         325	         35	              550	            572	2028
+
+13: 1868.39
+	aluminum: 40.85	copper: 279.81	diamond: 181.23	gold: 299.54	iron: 31.65	plutonium: 507.69	uranium: 527.62
+rounded:         41	           280	            182	         300	         32	              508	            528	1871
+
+14: 1734.93
+	aluminum: 37.93	copper: 259.82	diamond: 168.29	gold: 278.14	iron: 29.39	plutonium: 471.43	uranium: 489.93
+rounded:         38	           260	            169	         279	         30	              472	            490	1738
+
+15: 1619.27
+	aluminum: 35.40	copper: 242.50	diamond: 157.07	gold: 259.60	iron: 27.43	plutonium: 440.00	uranium: 457.27
+rounded:         36	           243	            158	         260	         28	              440	            458	1623
+
+16: 1518.07
+	aluminum: 33.19	copper: 227.34	diamond: 147.25	gold: 243.38	iron: 25.72	plutonium: 412.50	uranium: 428.69
+rounded:         34	           228	            148	         244	         26	              413	            429	1522
+
+17: 1428.77
+	aluminum: 31.24	copper: 213.97	diamond: 138.59	gold: 229.06	iron: 24.21	plutonium: 388.24	uranium: 403.47
+rounded:         32	           214	            139	         230	         25	              389	            404	1433
+
+18: 1349.39
+	aluminum: 29.50	copper: 202.08	diamond: 130.89	gold: 216.33	iron: 22.86	plutonium: 366.67	uranium: 381.06
+rounded:         30	           203	            131	         217	         23	              367	            382	1353
+
+19: 1278.37
+	aluminum: 27.95	copper: 191.45	diamond: 124.00	gold: 204.95	iron: 21.66	plutonium: 347.37	uranium: 361.00
+rounded:         28	           192	            124	         205	         22	              348	            362	1281
+
+20: 1214.45
+	aluminum: 26.55	copper: 181.88	diamond: 117.80	gold: 194.70	iron: 20.57	plutonium: 330.00	uranium: 342.95
+rounded:         27	           182	            118	         195	         21	              330	            343	1216
+
+21: 1156.62
+	aluminum: 25.29	copper: 173.21	diamond: 112.19	gold: 185.43	iron: 19.60	plutonium: 314.29	uranium: 326.62
+rounded:         26	           174	            113	         186	         20	              315	            327	1161
+
+22: 1104.05
+	aluminum: 24.14	copper: 165.34	diamond: 107.09	gold: 177.00	iron: 18.70	plutonium: 300.00	uranium: 311.78
+rounded:         25	           166	            108	         177	         19	              300	            312	1107
+
+23: 1056.05
+	aluminum: 23.09	copper: 158.15	diamond: 102.43	gold: 169.30	iron: 17.89	plutonium: 286.96	uranium: 298.22
+rounded:         24	           159	            103	         170	         18	              287	            299	1060
+
+24: 1012.04
+	aluminum: 22.12	copper: 151.56	diamond: 98.17	gold: 162.25	iron: 17.15	plutonium: 275.00	uranium: 285.79
+rounded:         23	           152	            99	         163	         18	              275	            286	1016
+
+25: 971.56
+	aluminum: 21.24	copper: 145.50	diamond: 94.24	gold: 155.76	iron: 16.46	plutonium: 264.00	uranium: 274.36
+rounded:         22	           146	            95	         156	         17	              264	            275	975
+
+26: 934.19
+	aluminum: 20.42	copper: 139.90	diamond: 90.62	gold: 149.77	iron: 15.83	plutonium: 253.85	uranium: 263.81
+rounded:         21	           140	            91	         150	         16	              254	            264	936
+
+27: 899.59
+	aluminum: 19.67	copper: 134.72	diamond: 87.26	gold: 144.22	iron: 15.24	plutonium: 244.44	uranium: 254.04
+rounded:         20	           135	            88	         145	         16	              245	            255	904
+
+28: 867.47
+	aluminum: 18.96	copper: 129.91	diamond: 84.14	gold: 139.07	iron: 14.70	plutonium: 235.71	uranium: 244.97
+rounded:         19	           130	            85	         140	         15	              236	            245	870
+
+29: 837.55
+	aluminum: 18.31	copper: 125.43	diamond: 81.24	gold: 134.28	iron: 14.19	plutonium: 227.59	uranium: 236.52
+rounded:         19	           126	            82	         135	         15	              228	            237	842
+
+30: 809.64
+	aluminum: 17.70	copper: 121.25	diamond: 78.53	gold: 129.80	iron: 13.72	plutonium: 220.00	uranium: 228.64
+rounded:         18	           122	            79	         130	         14	              220	            229	812
+
+31: 783.52
+	aluminum: 17.13	copper: 117.34	diamond: 76.00	gold: 125.61	iron: 13.27	plutonium: 212.90	uranium: 221.26
+rounded:         18	           118	            76	         126	         14	              213	            222	787
+
+32: 759.03
+	aluminum: 16.59	copper: 113.67	diamond: 73.62	gold: 121.69	iron: 12.86	plutonium: 206.25	uranium: 214.35
+rounded:         17	           114	            74	         122	         13	              207	            215	762
+
+33: 736.03
+	aluminum: 16.09	copper: 110.23	diamond: 71.39	gold: 118.00	iron: 12.47	plutonium: 200.00	uranium: 207.85
+rounded:         17	           111	            72	         118	         13	              200	            208	739
+
+34: 714.38
+	aluminum: 15.62	copper: 106.99	diamond: 69.29	gold: 114.53	iron: 12.10	plutonium: 194.12	uranium: 201.74
+rounded:         16	           107	            70	         115	         13	              195	            202	718
+
+35: 693.97
+	aluminum: 15.17	copper: 103.93	diamond: 67.31	gold: 111.26	iron: 11.76	plutonium: 188.57	uranium: 195.97
+rounded:         16	           104	            68	         112	         12	              189	            196	697
+
+36: 674.70
+	aluminum: 14.75	copper: 101.04	diamond: 65.44	gold: 108.17	iron: 11.43	plutonium: 183.33	uranium: 190.53
+rounded:         15	           102	            66	         109	         12	              184	            191	679
+
+37: 656.46
+	aluminum: 14.35	copper: 98.31	diamond: 63.68	gold: 105.24	iron: 11.12	plutonium: 178.38	uranium: 185.38
+rounded:         15	           99	            64	         106	         12	              179	            186	661
+
+38: 639.19
+	aluminum: 13.97	copper: 95.72	diamond: 62.00	gold: 102.47	iron: 10.83	plutonium: 173.68	uranium: 180.50
+rounded:         14	           96	            62	         103	         11	              174	            181	641
+
+39: 622.80
+	aluminum: 13.62	copper: 93.27	diamond: 60.41	gold: 99.85	iron: 10.55	plutonium: 169.23	uranium: 175.87
+rounded:         14	           94	            61	         100	         11	              170	            176	626
+
+40: 607.23
+	aluminum: 13.28	copper: 90.94	diamond: 58.90	gold: 97.35	iron: 10.29	plutonium: 165.00	uranium: 171.48
+rounded:         14	           91	            59	         98	         11	              165	            172	610
+
+41: 592.42
+	aluminum: 12.95	copper: 88.72	diamond: 57.46	gold: 94.98	iron: 10.04	plutonium: 160.98	uranium: 167.29
+rounded:         13	           89	            58	         95	         11	              161	            168	595
+
+42: 578.31
+	aluminum: 12.64	copper: 86.61	diamond: 56.10	gold: 92.71	iron: 9.80	plutonium: 157.14	uranium: 163.31
+rounded:         13	           87	            57	         93	         10	              158	            164	582
+
+43: 564.86
+	aluminum: 12.35	copper: 84.59	diamond: 54.79	gold: 90.56	iron: 9.57	plutonium: 153.49	uranium: 159.51
+rounded:         13	           85	            55	         91	         10	              154	            160	568
+
+44: 552.02
+	aluminum: 12.07	copper: 82.67	diamond: 53.55	gold: 88.50	iron: 9.35	plutonium: 150.00	uranium: 155.89
+rounded:         13	           83	            54	         89	         10	              150	            156	555
+
+45: 539.76
+	aluminum: 11.80	copper: 80.83	diamond: 52.36	gold: 86.53	iron: 9.14	plutonium: 146.67	uranium: 152.42
+rounded:         12	           81	            53	         87	         10	              147	            153	543
+
+46: 528.02
+	aluminum: 11.54	copper: 79.08	diamond: 51.22	gold: 84.65	iron: 8.95	plutonium: 143.48	uranium: 149.11
+rounded:         12	           80	            52	         85	         9	              144	            150	532
+
+47: 516.79
+	aluminum: 11.30	copper: 77.39	diamond: 50.13	gold: 82.85	iron: 8.76	plutonium: 140.43	uranium: 145.94
+rounded:         12	           78	            51	         83	         9	              141	            146	520
+
+48: 506.02
+	aluminum: 11.06	copper: 75.78	diamond: 49.08	gold: 81.12	iron: 8.57	plutonium: 137.50	uranium: 142.90
+rounded:         12	           76	            50	         82	         9	              138	            143	510
+
+49: 495.70
+	aluminum: 10.84	copper: 74.23	diamond: 48.08	gold: 79.47	iron: 8.40	plutonium: 134.69	uranium: 139.98
+rounded:         11	           75	            49	         80	         9	              135	            140	499
+
+50: 485.78
+	aluminum: 10.62	copper: 72.75	diamond: 47.12	gold: 77.88	iron: 8.23	plutonium: 132.00	uranium: 137.18
+rounded:         11	           73	            48	         78	         9	              132	            138	489
+
+51: 476.26
+	aluminum: 10.41	copper: 71.32	diamond: 46.20	gold: 76.35	iron: 8.07	plutonium: 129.41	uranium: 134.49
+rounded:         11	           72	            47	         77	         9	              130	            135	481
+
+52: 467.10
+	aluminum: 10.21	copper: 69.95	diamond: 45.31	gold: 74.88	iron: 7.91	plutonium: 126.92	uranium: 131.91
+rounded:         11	           70	            46	         75	         8	              127	            132	469
+
+53: 458.28
+	aluminum: 10.02	copper: 68.63	diamond: 44.45	gold: 73.47	iron: 7.76	plutonium: 124.53	uranium: 129.42
+rounded:         11	           69	            45	         74	         8	              125	            130	462
+
+54: 449.80
+	aluminum: 9.83	copper: 67.36	diamond: 43.63	gold: 72.11	iron: 7.62	plutonium: 122.22	uranium: 127.02
+rounded:         10	           68	            44	         73	         8	              123	            128	454
+
+55: 441.62
+	aluminum: 9.65	copper: 66.14	diamond: 42.84	gold: 70.80	iron: 7.48	plutonium: 120.00	uranium: 124.71
+rounded:         10	           67	            43	         71	         8	              120	            125	444
+
+56: 433.73
+	aluminum: 9.48	copper: 64.96	diamond: 42.07	gold: 69.54	iron: 7.35	plutonium: 117.86	uranium: 122.48
+rounded:         10	           65	            43	         70	         8	              118	            123	437
+
+57: 426.12
+	aluminum: 9.32	copper: 63.82	diamond: 41.33	gold: 68.32	iron: 7.22	plutonium: 115.79	uranium: 120.33
+rounded:         10	           64	            42	         69	         8	              116	            121	430
+
+58: 418.78
+	aluminum: 9.16	copper: 62.72	diamond: 40.62	gold: 67.14	iron: 7.09	plutonium: 113.79	uranium: 118.26
+rounded:         10	           63	            41	         68	         8	              114	            119	423
+
+59: 411.68
+	aluminum: 9.00	copper: 61.65	diamond: 39.93	gold: 66.00	iron: 6.97	plutonium: 111.86	uranium: 116.26
+rounded:         9	           62	            40	         66	         7	              112	            117	413
+
+60: 404.82
+	aluminum: 8.85	copper: 60.63	diamond: 39.27	gold: 64.90	iron: 6.86	plutonium: 110.00	uranium: 114.32
+rounded:         9	           61	            40	         65	         7	              110	            115	407
+
+61: 398.18
+	aluminum: 8.70	copper: 59.63	diamond: 38.62	gold: 63.84	iron: 6.75	plutonium: 108.20	uranium: 112.44
+rounded:         9	           60	            39	         64	         7	              109	            113	401
+
+62: 391.76
+	aluminum: 8.56	copper: 58.67	diamond: 38.00	gold: 62.81	iron: 6.64	plutonium: 106.45	uranium: 110.63
+rounded:         9	           59	            38	         63	         7	              107	            111	394
+
+63: 385.54
+	aluminum: 8.43	copper: 57.74	diamond: 37.40	gold: 61.81	iron: 6.53	plutonium: 104.76	uranium: 108.87
+rounded:         9	           58	            38	         62	         7	              105	            109	388
+
+64: 379.52
+	aluminum: 8.30	copper: 56.84	diamond: 36.81	gold: 60.84	iron: 6.43	plutonium: 103.12	uranium: 107.17
+rounded:         9	           57	            37	         61	         7	              104	            108	383
+
+65: 373.68
+	aluminum: 8.17	copper: 55.96	diamond: 36.25	gold: 59.91	iron: 6.33	plutonium: 101.54	uranium: 105.52
+rounded:         9	           56	            37	         60	         7	              102	            106	377
+
+66: 368.02
+	aluminum: 8.05	copper: 55.11	diamond: 35.70	gold: 59.00	iron: 6.23	plutonium: 100.00	uranium: 103.93
+rounded:         9	           56	            36	         59	         7	              100	            104	371
+
+67: 362.52
+	aluminum: 7.93	copper: 54.29	diamond: 35.16	gold: 58.12	iron: 6.14	plutonium: 98.51	uranium: 102.37
+rounded:         8	           55	            36	         59	         7	              99	            103	367
+
+68: 357.19
+	aluminum: 7.81	copper: 53.49	diamond: 34.65	gold: 57.26	iron: 6.05	plutonium: 97.06	uranium: 100.87
+rounded:         8	           54	            35	         58	         7	              98	            101	361
+
+69: 352.02
+	aluminum: 7.70	copper: 52.72	diamond: 34.14	gold: 56.43	iron: 5.96	plutonium: 95.65	uranium: 99.41
+rounded:         8	           53	            35	         57	         6	              96	            100	355
+
+70: 346.99
+	aluminum: 7.59	copper: 51.96	diamond: 33.66	gold: 55.63	iron: 5.88	plutonium: 94.29	uranium: 97.99
+rounded:         8	           52	            34	         56	         6	              95	            98	349
+
+71: 342.10
+	aluminum: 7.48	copper: 51.23	diamond: 33.18	gold: 54.85	iron: 5.80	plutonium: 92.96	uranium: 96.61
+rounded:         8	           52	            34	         55	         6	              93	            97	345
+
+72: 337.35
+	aluminum: 7.38	copper: 50.52	diamond: 32.72	gold: 54.08	iron: 5.72	plutonium: 91.67	uranium: 95.26
+rounded:         8	           51	            33	         55	         6	              92	            96	341
+
+73: 332.73
+	aluminum: 7.27	copper: 49.83	diamond: 32.27	gold: 53.34	iron: 5.64	plutonium: 90.41	uranium: 93.96
+rounded:         8	           50	            33	         54	         6	              91	            94	336
+
+74: 328.23
+	aluminum: 7.18	copper: 49.16	diamond: 31.84	gold: 52.62	iron: 5.56	plutonium: 89.19	uranium: 92.69
+rounded:         8	           50	            32	         53	         6	              90	            93	332
+
+75: 323.85
+	aluminum: 7.08	copper: 48.50	diamond: 31.41	gold: 51.92	iron: 5.49	plutonium: 88.00	uranium: 91.45
+rounded:         8	           49	            32	         52	         6	              88	            92	327
+
+76: 319.59
+	aluminum: 6.99	copper: 47.86	diamond: 31.00	gold: 51.24	iron: 5.41	plutonium: 86.84	uranium: 90.25
+rounded:         7	           48	            31	         52	         6	              87	            91	322
+
+77: 315.44
+	aluminum: 6.90	copper: 47.24	diamond: 30.60	gold: 50.57	iron: 5.34	plutonium: 85.71	uranium: 89.08
+rounded:         7	           48	            31	         51	         6	              86	            90	319
+
+78: 311.40
+	aluminum: 6.81	copper: 46.63	diamond: 30.21	gold: 49.92	iron: 5.28	plutonium: 84.62	uranium: 87.94
+rounded:         7	           47	            31	         50	         6	              85	            88	314
+
+79: 307.46
+	aluminum: 6.72	copper: 46.04	diamond: 29.82	gold: 49.29	iron: 5.21	plutonium: 83.54	uranium: 86.82
+rounded:         7	           47	            30	         50	         6	              84	            87	311
+
+80: 303.61
+	aluminum: 6.64	copper: 45.47	diamond: 29.45	gold: 48.67	iron: 5.14	plutonium: 82.50	uranium: 85.74
+rounded:         7	           46	            30	         49	         6	              83	            86	307
+
+81: 299.86
+	aluminum: 6.56	copper: 44.91	diamond: 29.09	gold: 48.07	iron: 5.08	plutonium: 81.48	uranium: 84.68
+rounded:         7	           45	            30	         49	         6	              82	            85	304
+
+82: 296.21
+	aluminum: 6.48	copper: 44.36	diamond: 28.73	gold: 47.49	iron: 5.02	plutonium: 80.49	uranium: 83.65
+rounded:         7	           45	            29	         48	         6	              81	            84	300
+
+83: 292.64
+	aluminum: 6.40	copper: 43.83	diamond: 28.39	gold: 46.92	iron: 4.96	plutonium: 79.52	uranium: 82.64
+rounded:         7	           44	            29	         47	         5	              80	            83	295
+
+84: 289.16
+	aluminum: 6.32	copper: 43.30	diamond: 28.05	gold: 46.36	iron: 4.90	plutonium: 78.57	uranium: 81.66
+rounded:         7	           44	            29	         47	         5	              79	            82	293
+
+85: 285.75
+	aluminum: 6.25	copper: 42.79	diamond: 27.72	gold: 45.81	iron: 4.84	plutonium: 77.65	uranium: 80.69
+rounded:         7	           43	            28	         46	         5	              78	            81	288
+
+86: 282.43
+	aluminum: 6.17	copper: 42.30	diamond: 27.40	gold: 45.28	iron: 4.78	plutonium: 76.74	uranium: 79.76
+rounded:         7	           43	            28	         46	         5	              77	            80	286
+
+87: 279.18
+	aluminum: 6.10	copper: 41.81	diamond: 27.08	gold: 44.76	iron: 4.73	plutonium: 75.86	uranium: 78.84
+rounded:         7	           42	            28	         45	         5	              76	            79	282
+
+88: 276.01
+	aluminum: 6.03	copper: 41.34	diamond: 26.77	gold: 44.25	iron: 4.68	plutonium: 75.00	uranium: 77.94
+rounded:         7	           42	            27	         45	         5	              75	            78	279
+
+89: 272.91
+	aluminum: 5.97	copper: 40.87	diamond: 26.47	gold: 43.75	iron: 4.62	plutonium: 74.16	uranium: 77.07
+rounded:         6	           41	            27	         44	         5	              75	            78	276
+
+90: 269.88
+	aluminum: 5.90	copper: 40.42	diamond: 26.18	gold: 43.27	iron: 4.57	plutonium: 73.33	uranium: 76.21
+rounded:         6	           41	            27	         44	         5	              74	            77	274
+
+91: 266.91
+	aluminum: 5.84	copper: 39.97	diamond: 25.89	gold: 42.79	iron: 4.52	plutonium: 72.53	uranium: 75.37
+rounded:         6	           40	            26	         43	         5	              73	            76	269
+
+92: 264.01
+	aluminum: 5.77	copper: 39.54	diamond: 25.61	gold: 42.33	iron: 4.47	plutonium: 71.74	uranium: 74.56
+rounded:         6	           40	            26	         43	         5	              72	            75	267
+
+93: 261.17
+	aluminum: 5.71	copper: 39.11	diamond: 25.33	gold: 41.87	iron: 4.42	plutonium: 70.97	uranium: 73.75
+rounded:         6	           40	            26	         42	         5	              71	            74	264
+
+94: 258.39
+	aluminum: 5.65	copper: 38.70	diamond: 25.06	gold: 41.43	iron: 4.38	plutonium: 70.21	uranium: 72.97
+rounded:         6	           39	            26	         42	         5	              71	            73	262
+
+95: 255.67
+	aluminum: 5.59	copper: 38.29	diamond: 24.80	gold: 40.99	iron: 4.33	plutonium: 69.47	uranium: 72.20
+rounded:         6	           39	            25	         41	         5	              70	            73	259
+
+96: 253.01
+	aluminum: 5.53	copper: 37.89	diamond: 24.54	gold: 40.56	iron: 4.29	plutonium: 68.75	uranium: 71.45
+rounded:         6	           38	            25	         41	         5	              69	            72	256
+
+97: 250.40
+	aluminum: 5.47	copper: 37.50	diamond: 24.29	gold: 40.14	iron: 4.24	plutonium: 68.04	uranium: 70.71
+rounded:         6	           38	            25	         41	         5	              69	            71	255
+
+98: 247.85
+	aluminum: 5.42	copper: 37.12	diamond: 24.04	gold: 39.73	iron: 4.20	plutonium: 67.35	uranium: 69.99
+rounded:         6	           38	            25	         40	         5	              68	            70	252
+
+99: 245.34
+	aluminum: 5.36	copper: 36.74	diamond: 23.80	gold: 39.33	iron: 4.16	plutonium: 66.67	uranium: 69.28
+rounded:         6	           37	            24	         40	         5	              67	            70	249
+
+100: 242.89
+	aluminum: 5.31	copper: 36.38	diamond: 23.56	gold: 38.94	iron: 4.12	plutonium: 66.00	uranium: 68.59
+rounded:         6	           37	            24	         39	         5	              66	            69	246
+
+101: 240.49
+	aluminum: 5.26	copper: 36.01	diamond: 23.33	gold: 38.55	iron: 4.07	plutonium: 65.35	uranium: 67.91
+rounded:         6	           37	            24	         39	         5	              66	            68	245
+
+102: 238.13
+	aluminum: 5.21	copper: 35.66	diamond: 23.10	gold: 38.18	iron: 4.03	plutonium: 64.71	uranium: 67.25
+rounded:         6	           36	            24	         39	         5	              65	            68	243
+
+103: 235.82
+	aluminum: 5.16	copper: 35.32	diamond: 22.87	gold: 37.81	iron: 4.00	plutonium: 64.08	uranium: 66.59
+rounded:         6	           36	            23	         38	         4	              65	            67	239
+
+104: 233.55
+	aluminum: 5.11	copper: 34.98	diamond: 22.65	gold: 37.44	iron: 3.96	plutonium: 63.46	uranium: 65.95
+rounded:         6	           35	            23	         38	         4	              64	            66	236
+
+105: 231.32
+	aluminum: 5.06	copper: 34.64	diamond: 22.44	gold: 37.09	iron: 3.92	plutonium: 62.86	uranium: 65.32
+rounded:         6	           35	            23	         38	         4	              63	            66	235
+
+106: 229.14
+	aluminum: 5.01	copper: 34.32	diamond: 22.23	gold: 36.74	iron: 3.88	plutonium: 62.26	uranium: 64.71
+rounded:         6	           35	            23	         37	         4	              63	            65	233
+
+107: 227.00
+	aluminum: 4.96	copper: 34.00	diamond: 22.02	gold: 36.39	iron: 3.85	plutonium: 61.68	uranium: 64.10
+rounded:         5	           34	            23	         37	         4	              62	            65	230
+
+108: 224.90
+	aluminum: 4.92	copper: 33.68	diamond: 21.81	gold: 36.06	iron: 3.81	plutonium: 61.11	uranium: 63.51
+rounded:         5	           34	            22	         37	         4	              62	            64	228
+
+109: 222.84
+	aluminum: 4.87	copper: 33.37	diamond: 21.61	gold: 35.72	iron: 3.78	plutonium: 60.55	uranium: 62.93
+rounded:         5	           34	            22	         36	         4	              61	            63	225
+
+110: 220.81
+	aluminum: 4.83	copper: 33.07	diamond: 21.42	gold: 35.40	iron: 3.74	plutonium: 60.00	uranium: 62.36
+rounded:         5	           34	            22	         36	         4	              60	            63	224
+
+111: 218.82
+	aluminum: 4.78	copper: 32.77	diamond: 21.23	gold: 35.08	iron: 3.71	plutonium: 59.46	uranium: 61.79
+rounded:         5	           33	            22	         36	         4	              60	            62	222
+
+112: 216.87
+	aluminum: 4.74	copper: 32.48	diamond: 21.04	gold: 34.77	iron: 3.67	plutonium: 58.93	uranium: 61.24
+rounded:         5	           33	            22	         35	         4	              59	            62	220
+
+113: 214.95
+	aluminum: 4.70	copper: 32.19	diamond: 20.85	gold: 34.46	iron: 3.64	plutonium: 58.41	uranium: 60.70
+rounded:         5	           33	            21	         35	         4	              59	            61	218
+
+114: 213.06
+	aluminum: 4.66	copper: 31.91	diamond: 20.67	gold: 34.16	iron: 3.61	plutonium: 57.89	uranium: 60.17
+rounded:         5	           32	            21	         35	         4	              58	            61	216
+
+115: 211.21
+	aluminum: 4.62	copper: 31.63	diamond: 20.49	gold: 33.86	iron: 3.58	plutonium: 57.39	uranium: 59.64
+rounded:         5	           32	            21	         34	         4	              58	            60	214
+
+116: 209.39
+	aluminum: 4.58	copper: 31.36	diamond: 20.31	gold: 33.57	iron: 3.55	plutonium: 56.90	uranium: 59.13
+rounded:         5	           32	            21	         34	         4	              57	            60	213
+
+117: 207.60
+	aluminum: 4.54	copper: 31.09	diamond: 20.14	gold: 33.28	iron: 3.52	plutonium: 56.41	uranium: 58.62
+rounded:         5	           32	            21	         34	         4	              57	            59	212
+
+118: 205.84
+	aluminum: 4.50	copper: 30.83	diamond: 19.97	gold: 33.00	iron: 3.49	plutonium: 55.93	uranium: 58.13
+rounded:         5	           31	            20	         33	         4	              56	            59	208
+
+119: 204.11
+	aluminum: 4.46	copper: 30.57	diamond: 19.80	gold: 32.72	iron: 3.46	plutonium: 55.46	uranium: 57.64
+rounded:         5	           31	            20	         33	         4	              56	            58	207
+
+120: 202.41
+	aluminum: 4.42	copper: 30.31	diamond: 19.63	gold: 32.45	iron: 3.43	plutonium: 55.00	uranium: 57.16
+rounded:         5	           31	            20	         33	         4	              55	            58	206
+
+121: 200.74
+	aluminum: 4.39	copper: 30.06	diamond: 19.47	gold: 32.18	iron: 3.40	plutonium: 54.55	uranium: 56.69
+rounded:         5	           31	            20	         33	         4	              55	            57	205
+
+122: 199.09
+	aluminum: 4.35	copper: 29.82	diamond: 19.31	gold: 31.92	iron: 3.37	plutonium: 54.10	uranium: 56.22
+rounded:         5	           30	            20	         32	         4	              55	            57	203
+
+123: 197.47
+	aluminum: 4.32	copper: 29.57	diamond: 19.15	gold: 31.66	iron: 3.35	plutonium: 53.66	uranium: 55.76
+rounded:         5	           30	            20	         32	         4	              54	            56	201
+
+124: 195.88
+	aluminum: 4.28	copper: 29.33	diamond: 19.00	gold: 31.40	iron: 3.32	plutonium: 53.23	uranium: 55.32
+rounded:         5	           30	            19	         32	         4	              54	            56	200
+
+125: 194.31
+	aluminum: 4.25	copper: 29.10	diamond: 18.85	gold: 31.15	iron: 3.29	plutonium: 52.80	uranium: 54.87
+rounded:         5	           30	            19	         32	         4	              53	            55	198
+
+126: 192.77
+	aluminum: 4.21	copper: 28.87	diamond: 18.70	gold: 30.90	iron: 3.27	plutonium: 52.38	uranium: 54.44
+rounded:         5	           29	            19	         31	         4	              53	            55	196
+
+127: 191.25
+	aluminum: 4.18	copper: 28.64	diamond: 18.55	gold: 30.66	iron: 3.24	plutonium: 51.97	uranium: 54.01
+rounded:         5	           29	            19	         31	         4	              52	            55	195
+
+128: 189.76
+	aluminum: 4.15	copper: 28.42	diamond: 18.41	gold: 30.42	iron: 3.21	plutonium: 51.56	uranium: 53.59
+rounded:         5	           29	            19	         31	         4	              52	            54	194
+
+129: 188.29
+	aluminum: 4.12	copper: 28.20	diamond: 18.26	gold: 30.19	iron: 3.19	plutonium: 51.16	uranium: 53.17
+rounded:         5	           29	            19	         31	         4	              52	            54	194
+
+130: 186.84
+	aluminum: 4.08	copper: 27.98	diamond: 18.12	gold: 29.95	iron: 3.17	plutonium: 50.77	uranium: 52.76
+rounded:         5	           28	            19	         30	         4	              51	            53	190
+
+131: 185.41
+	aluminum: 4.05	copper: 27.77	diamond: 17.98	gold: 29.73	iron: 3.14	plutonium: 50.38	uranium: 52.36
+rounded:         5	           28	            18	         30	         4	              51	            53	189
+
+132: 184.01
+	aluminum: 4.02	copper: 27.56	diamond: 17.85	gold: 29.50	iron: 3.12	plutonium: 50.00	uranium: 51.96
+rounded:         5	           28	            18	         30	         4	              50	            52	187
+
+133: 182.62
+	aluminum: 3.99	copper: 27.35	diamond: 17.71	gold: 29.28	iron: 3.09	plutonium: 49.62	uranium: 51.57
+rounded:         4	           28	            18	         30	         4	              50	            52	186
+
+134: 181.26
+	aluminum: 3.96	copper: 27.15	diamond: 17.58	gold: 29.06	iron: 3.07	plutonium: 49.25	uranium: 51.19
+rounded:         4	           28	            18	         30	         4	              50	            52	186
+
+135: 179.92
+	aluminum: 3.93	copper: 26.94	diamond: 17.45	gold: 28.84	iron: 3.05	plutonium: 48.89	uranium: 50.81
+rounded:         4	           27	            18	         29	         4	              49	            51	182
+
+136: 178.60
+	aluminum: 3.90	copper: 26.75	diamond: 17.32	gold: 28.63	iron: 3.03	plutonium: 48.53	uranium: 50.43
+rounded:         4	           27	            18	         29	         4	              49	            51	182
+
+137: 177.29
+	aluminum: 3.88	copper: 26.55	diamond: 17.20	gold: 28.42	iron: 3.00	plutonium: 48.18	uranium: 50.07
+rounded:         4	           27	            18	         29	         4	              49	            51	182
+
+138: 176.01
+	aluminum: 3.85	copper: 26.36	diamond: 17.07	gold: 28.22	iron: 2.98	plutonium: 47.83	uranium: 49.70
+rounded:         4	           27	            18	         29	         3	              48	            50	179
+
+139: 174.74
+	aluminum: 3.82	copper: 26.17	diamond: 16.95	gold: 28.01	iron: 2.96	plutonium: 47.48	uranium: 49.35
+rounded:         4	           27	            17	         29	         3	              48	            50	178
+
+140: 173.49
+	aluminum: 3.79	copper: 25.98	diamond: 16.83	gold: 27.81	iron: 2.94	plutonium: 47.14	uranium: 48.99
+rounded:         4	           26	            17	         28	         3	              48	            49	175
+
+141: 172.26
+	aluminum: 3.77	copper: 25.80	diamond: 16.71	gold: 27.62	iron: 2.92	plutonium: 46.81	uranium: 48.65
+rounded:         4	           26	            17	         28	         3	              47	            49	174
+
+142: 171.05
+	aluminum: 3.74	copper: 25.62	diamond: 16.59	gold: 27.42	iron: 2.90	plutonium: 46.48	uranium: 48.30
+rounded:         4	           26	            17	         28	         3	              47	            49	174
+
+143: 169.85
+	aluminum: 3.71	copper: 25.44	diamond: 16.48	gold: 27.23	iron: 2.88	plutonium: 46.15	uranium: 47.97
+rounded:         4	           26	            17	         28	         3	              47	            48	173
+
+144: 168.67
+	aluminum: 3.69	copper: 25.26	diamond: 16.36	gold: 27.04	iron: 2.86	plutonium: 45.83	uranium: 47.63
+rounded:         4	           26	            17	         28	         3	              46	            48	172
+
+145: 167.51
+	aluminum: 3.66	copper: 25.09	diamond: 16.25	gold: 26.86	iron: 2.84	plutonium: 45.52	uranium: 47.30
+rounded:         4	           26	            17	         27	         3	              46	            48	171
+
+146: 166.36
+	aluminum: 3.64	copper: 24.91	diamond: 16.14	gold: 26.67	iron: 2.82	plutonium: 45.21	uranium: 46.98
+rounded:         4	           25	            17	         27	         3	              46	            47	169
+
+147: 165.23
+	aluminum: 3.61	copper: 24.74	diamond: 16.03	gold: 26.49	iron: 2.80	plutonium: 44.90	uranium: 46.66
+rounded:         4	           25	            17	         27	         3	              45	            47	168
+
+148: 164.12
+	aluminum: 3.59	copper: 24.58	diamond: 15.92	gold: 26.31	iron: 2.78	plutonium: 44.59	uranium: 46.35
+rounded:         4	           25	            16	         27	         3	              45	            47	167
+
+149: 163.01
+	aluminum: 3.56	copper: 24.41	diamond: 15.81	gold: 26.13	iron: 2.76	plutonium: 44.30	uranium: 46.03
+rounded:         4	           25	            16	         27	         3	              45	            47	167
+
+150: 161.93
+	aluminum: 3.54	copper: 24.25	diamond: 15.71	gold: 25.96	iron: 2.74	plutonium: 44.00	uranium: 45.73
+rounded:         4	           25	            16	         26	         3	              44	            46	164
+
+151: 160.85
+	aluminum: 3.52	copper: 24.09	diamond: 15.60	gold: 25.79	iron: 2.73	plutonium: 43.71	uranium: 45.42
+rounded:         4	           25	            16	         26	         3	              44	            46	164
+
+152: 159.80
+	aluminum: 3.49	copper: 23.93	diamond: 15.50	gold: 25.62	iron: 2.71	plutonium: 43.42	uranium: 45.13
+rounded:         4	           24	            16	         26	         3	              44	            46	163
+
+153: 158.75
+	aluminum: 3.47	copper: 23.77	diamond: 15.40	gold: 25.45	iron: 2.69	plutonium: 43.14	uranium: 44.83
+rounded:         4	           24	            16	         26	         3	              44	            45	162
+
+154: 157.72
+	aluminum: 3.45	copper: 23.62	diamond: 15.30	gold: 25.29	iron: 2.67	plutonium: 42.86	uranium: 44.54
+rounded:         4	           24	            16	         26	         3	              43	            45	161
+
+155: 156.70
+	aluminum: 3.43	copper: 23.47	diamond: 15.20	gold: 25.12	iron: 2.65	plutonium: 42.58	uranium: 44.25
+rounded:         4	           24	            16	         26	         3	              43	            45	161
+
+156: 155.70
+	aluminum: 3.40	copper: 23.32	diamond: 15.10	gold: 24.96	iron: 2.64	plutonium: 42.31	uranium: 43.97
+rounded:         4	           24	            16	         25	         3	              43	            44	159
+
+157: 154.71
+	aluminum: 3.38	copper: 23.17	diamond: 15.01	gold: 24.80	iron: 2.62	plutonium: 42.04	uranium: 43.69
+rounded:         4	           24	            16	         25	         3	              43	            44	159
+
+158: 153.73
+	aluminum: 3.36	copper: 23.02	diamond: 14.91	gold: 24.65	iron: 2.60	plutonium: 41.77	uranium: 43.41
+rounded:         4	           24	            15	         25	         3	              42	            44	157
+
+159: 152.76
+	aluminum: 3.34	copper: 22.88	diamond: 14.82	gold: 24.49	iron: 2.59	plutonium: 41.51	uranium: 43.14
+rounded:         4	           23	            15	         25	         3	              42	            44	156
+
+160: 151.81
+	aluminum: 3.32	copper: 22.73	diamond: 14.72	gold: 24.34	iron: 2.57	plutonium: 41.25	uranium: 42.87
+rounded:         4	           23	            15	         25	         3	              42	            43	155
+
+161: 150.86
+	aluminum: 3.30	copper: 22.59	diamond: 14.63	gold: 24.19	iron: 2.56	plutonium: 40.99	uranium: 42.60
+rounded:         4	           23	            15	         25	         3	              41	            43	154
+
+162: 149.93
+	aluminum: 3.28	copper: 22.45	diamond: 14.54	gold: 24.04	iron: 2.54	plutonium: 40.74	uranium: 42.34
+rounded:         4	           23	            15	         25	         3	              41	            43	154
+
+163: 149.01
+	aluminum: 3.26	copper: 22.32	diamond: 14.45	gold: 23.89	iron: 2.52	plutonium: 40.49	uranium: 42.08
+rounded:         4	           23	            15	         24	         3	              41	            43	153
+
+164: 148.10
+	aluminum: 3.24	copper: 22.18	diamond: 14.37	gold: 23.74	iron: 2.51	plutonium: 40.24	uranium: 41.82
+rounded:         4	           23	            15	         24	         3	              41	            42	152
+
+165: 147.21
+	aluminum: 3.22	copper: 22.05	diamond: 14.28	gold: 23.60	iron: 2.49	plutonium: 40.00	uranium: 41.57
+rounded:         4	           23	            15	         24	         3	              40	            42	151
+
+166: 146.32
+	aluminum: 3.20	copper: 21.91	diamond: 14.19	gold: 23.46	iron: 2.48	plutonium: 39.76	uranium: 41.32
+rounded:         4	           22	            15	         24	         3	              40	            42	150
+
+167: 145.44
+	aluminum: 3.18	copper: 21.78	diamond: 14.11	gold: 23.32	iron: 2.46	plutonium: 39.52	uranium: 41.07
+rounded:         4	           22	            15	         24	         3	              40	            42	150
+
+168: 144.58
+	aluminum: 3.16	copper: 21.65	diamond: 14.02	gold: 23.18	iron: 2.45	plutonium: 39.29	uranium: 40.83
+rounded:         4	           22	            15	         24	         3	              40	            41	149
+
+169: 143.72
+	aluminum: 3.14	copper: 21.52	diamond: 13.94	gold: 23.04	iron: 2.43	plutonium: 39.05	uranium: 40.59
+rounded:         4	           22	            14	         24	         3	              40	            41	148
+
+170: 142.88
+	aluminum: 3.12	copper: 21.40	diamond: 13.86	gold: 22.91	iron: 2.42	plutonium: 38.82	uranium: 40.35
+rounded:         4	           22	            14	         23	         3	              39	            41	146
+
+171: 142.04
+	aluminum: 3.11	copper: 21.27	diamond: 13.78	gold: 22.77	iron: 2.41	plutonium: 38.60	uranium: 40.11
+rounded:         4	           22	            14	         23	         3	              39	            41	146
+
+172: 141.22
+	aluminum: 3.09	copper: 21.15	diamond: 13.70	gold: 22.64	iron: 2.39	plutonium: 38.37	uranium: 39.88
+rounded:         4	           22	            14	         23	         3	              39	            40	145
+
+173: 140.40
+	aluminum: 3.07	copper: 21.03	diamond: 13.62	gold: 22.51	iron: 2.38	plutonium: 38.15	uranium: 39.65
+rounded:         4	           22	            14	         23	         3	              39	            40	145
+
+174: 139.59
+	aluminum: 3.05	copper: 20.91	diamond: 13.54	gold: 22.38	iron: 2.36	plutonium: 37.93	uranium: 39.42
+rounded:         4	           21	            14	         23	         3	              38	            40	143
+
+175: 138.79
+	aluminum: 3.03	copper: 20.79	diamond: 13.46	gold: 22.25	iron: 2.35	plutonium: 37.71	uranium: 39.19
+rounded:         4	           21	            14	         23	         3	              38	            40	143
+
+176: 138.01
+	aluminum: 3.02	copper: 20.67	diamond: 13.39	gold: 22.12	iron: 2.34	plutonium: 37.50	uranium: 38.97
+rounded:         4	           21	            14	         23	         3	              38	            39	142
+
+177: 137.23
+	aluminum: 3.00	copper: 20.55	diamond: 13.31	gold: 22.00	iron: 2.32	plutonium: 37.29	uranium: 38.75
+rounded:         3	           21	            14	         22	         3	              38	            39	140
+
+178: 136.46
+	aluminum: 2.98	copper: 20.44	diamond: 13.24	gold: 21.88	iron: 2.31	plutonium: 37.08	uranium: 38.53
+rounded:         3	           21	            14	         22	         3	              38	            39	140
+
+179: 135.69
+	aluminum: 2.97	copper: 20.32	diamond: 13.16	gold: 21.75	iron: 2.30	plutonium: 36.87	uranium: 38.32
+rounded:         3	           21	            14	         22	         3	              37	            39	139
+
+180: 134.94
+	aluminum: 2.95	copper: 20.21	diamond: 13.09	gold: 21.63	iron: 2.29	plutonium: 36.67	uranium: 38.11
+rounded:         3	           21	            14	         22	         3	              37	            39	139
+
+181: 134.19
+	aluminum: 2.93	copper: 20.10	diamond: 13.02	gold: 21.51	iron: 2.27	plutonium: 36.46	uranium: 37.90
+rounded:         3	           21	            14	         22	         3	              37	            38	138
+
+182: 133.46
+	aluminum: 2.92	copper: 19.99	diamond: 12.95	gold: 21.40	iron: 2.26	plutonium: 36.26	uranium: 37.69
+rounded:         3	           20	            13	         22	         3	              37	            38	136
+
+183: 132.73
+	aluminum: 2.90	copper: 19.88	diamond: 12.87	gold: 21.28	iron: 2.25	plutonium: 36.07	uranium: 37.48
+rounded:         3	           20	            13	         22	         3	              37	            38	136
+
+184: 132.01
+	aluminum: 2.89	copper: 19.77	diamond: 12.80	gold: 21.16	iron: 2.24	plutonium: 35.87	uranium: 37.28
+rounded:         3	           20	            13	         22	         3	              36	            38	135
+
+185: 131.29
+	aluminum: 2.87	copper: 19.66	diamond: 12.74	gold: 21.05	iron: 2.22	plutonium: 35.68	uranium: 37.08
+rounded:         3	           20	            13	         22	         3	              36	            38	135
+
+186: 130.59
+	aluminum: 2.85	copper: 19.56	diamond: 12.67	gold: 20.94	iron: 2.21	plutonium: 35.48	uranium: 36.88
+rounded:         3	           20	            13	         21	         3	              36	            37	133
+
+187: 129.89
+	aluminum: 2.84	copper: 19.45	diamond: 12.60	gold: 20.82	iron: 2.20	plutonium: 35.29	uranium: 36.68
+rounded:         3	           20	            13	         21	         3	              36	            37	133
+
+188: 129.20
+	aluminum: 2.82	copper: 19.35	diamond: 12.53	gold: 20.71	iron: 2.19	plutonium: 35.11	uranium: 36.48
+rounded:         3	           20	            13	         21	         3	              36	            37	133
+
+189: 128.51
+	aluminum: 2.81	copper: 19.25	diamond: 12.47	gold: 20.60	iron: 2.18	plutonium: 34.92	uranium: 36.29
+rounded:         3	           20	            13	         21	         3	              35	            37	132
+
+190: 127.84
+	aluminum: 2.79	copper: 19.14	diamond: 12.40	gold: 20.49	iron: 2.17	plutonium: 34.74	uranium: 36.10
+rounded:         3	           20	            13	         21	         3	              35	            37	132
+
+191: 127.17
+	aluminum: 2.78	copper: 19.04	diamond: 12.34	gold: 20.39	iron: 2.15	plutonium: 34.55	uranium: 35.91
+rounded:         3	           20	            13	         21	         3	              35	            36	131
+
+192: 126.51
+	aluminum: 2.77	copper: 18.95	diamond: 12.27	gold: 20.28	iron: 2.14	plutonium: 34.38	uranium: 35.72
+rounded:         3	           19	            13	         21	         3	              35	            36	130
+
+193: 125.85
+	aluminum: 2.75	copper: 18.85	diamond: 12.21	gold: 20.18	iron: 2.13	plutonium: 34.20	uranium: 35.54
+rounded:         3	           19	            13	         21	         3	              35	            36	130
+
+194: 125.20
+	aluminum: 2.74	copper: 18.75	diamond: 12.14	gold: 20.07	iron: 2.12	plutonium: 34.02	uranium: 35.36
+rounded:         3	           19	            13	         21	         3	              35	            36	130
+
+195: 124.56
+	aluminum: 2.72	copper: 18.65	diamond: 12.08	gold: 19.97	iron: 2.11	plutonium: 33.85	uranium: 35.17
+rounded:         3	           19	            13	         20	         3	              34	            36	128
+
+196: 123.92
+	aluminum: 2.71	copper: 18.56	diamond: 12.02	gold: 19.87	iron: 2.10	plutonium: 33.67	uranium: 35.00
+rounded:         3	           19	            13	         20	         3	              34	            35	127
+
+197: 123.29
+	aluminum: 2.70	copper: 18.46	diamond: 11.96	gold: 19.77	iron: 2.09	plutonium: 33.50	uranium: 34.82
+rounded:         3	           19	            12	         20	         3	              34	            35	126
+
+198: 122.67
+	aluminum: 2.68	copper: 18.37	diamond: 11.90	gold: 19.67	iron: 2.08	plutonium: 33.33	uranium: 34.64
+rounded:         3	           19	            12	         20	         3	              34	            35	126
+
+199: 122.06
+	aluminum: 2.67	copper: 18.28	diamond: 11.84	gold: 19.57	iron: 2.07	plutonium: 33.17	uranium: 34.47
+rounded:         3	           19	            12	         20	         3	              34	            35	126
+
+200: 121.45
+	aluminum: 2.65	copper: 18.19	diamond: 11.78	gold: 19.47	iron: 2.06	plutonium: 33.00	uranium: 34.30
+rounded:         3	           19	            12	         20	         3	              33	            35	125
+
+201: 120.84
+	aluminum: 2.64	copper: 18.10	diamond: 11.72	gold: 19.37	iron: 2.05	plutonium: 32.84	uranium: 34.12
+rounded:         3	           19	            12	         20	         3	              33	            35	125
+
+202: 120.24
+	aluminum: 2.63	copper: 18.01	diamond: 11.66	gold: 19.28	iron: 2.04	plutonium: 32.67	uranium: 33.96
+rounded:         3	           19	            12	         20	         3	              33	            34	124
+
+203: 119.65
+	aluminum: 2.62	copper: 17.92	diamond: 11.61	gold: 19.18	iron: 2.03	plutonium: 32.51	uranium: 33.79
+rounded:         3	           18	            12	         20	         3	              33	            34	123
+
+204: 119.06
+	aluminum: 2.60	copper: 17.83	diamond: 11.55	gold: 19.09	iron: 2.02	plutonium: 32.35	uranium: 33.62
+rounded:         3	           18	            12	         20	         3	              33	            34	123
+
+205: 118.48
+	aluminum: 2.59	copper: 17.74	diamond: 11.49	gold: 19.00	iron: 2.01	plutonium: 32.20	uranium: 33.46
+rounded:         3	           18	            12	         19	         3	              33	            34	122
+
+206: 117.91
+	aluminum: 2.58	copper: 17.66	diamond: 11.44	gold: 18.90	iron: 2.00	plutonium: 32.04	uranium: 33.30
+rounded:         3	           18	            12	         19	         2	              33	            34	121
+
+207: 117.34
+	aluminum: 2.57	copper: 17.57	diamond: 11.38	gold: 18.81	iron: 1.99	plutonium: 31.88	uranium: 33.14
+rounded:         3	           18	            12	         19	         2	              32	            34	120
+
+208: 116.77
+	aluminum: 2.55	copper: 17.49	diamond: 11.33	gold: 18.72	iron: 1.98	plutonium: 31.73	uranium: 32.98
+rounded:         3	           18	            12	         19	         2	              32	            33	119
+
+209: 116.22
+	aluminum: 2.54	copper: 17.40	diamond: 11.27	gold: 18.63	iron: 1.97	plutonium: 31.58	uranium: 32.82
+rounded:         3	           18	            12	         19	         2	              32	            33	119
+
+210: 115.66
+	aluminum: 2.53	copper: 17.32	diamond: 11.22	gold: 18.54	iron: 1.96	plutonium: 31.43	uranium: 32.66
+rounded:         3	           18	            12	         19	         2	              32	            33	119
+
+211: 115.11
+	aluminum: 2.52	copper: 17.24	diamond: 11.17	gold: 18.45	iron: 1.95	plutonium: 31.28	uranium: 32.51
+rounded:         3	           18	            12	         19	         2	              32	            33	119
+
+212: 114.57
+	aluminum: 2.50	copper: 17.16	diamond: 11.11	gold: 18.37	iron: 1.94	plutonium: 31.13	uranium: 32.35
+rounded:         3	           18	            12	         19	         2	              32	            33	119
+
+213: 114.03
+	aluminum: 2.49	copper: 17.08	diamond: 11.06	gold: 18.28	iron: 1.93	plutonium: 30.99	uranium: 32.20
+rounded:         3	           18	            12	         19	         2	              31	            33	118
+
+214: 113.50
+	aluminum: 2.48	copper: 17.00	diamond: 11.01	gold: 18.20	iron: 1.92	plutonium: 30.84	uranium: 32.05
+rounded:         3	           17	            12	         19	         2	              31	            33	117
+
+215: 112.97
+	aluminum: 2.47	copper: 16.92	diamond: 10.96	gold: 18.11	iron: 1.91	plutonium: 30.70	uranium: 31.90
+rounded:         3	           17	            11	         19	         2	              31	            32	115
+
+216: 112.45
+	aluminum: 2.46	copper: 16.84	diamond: 10.91	gold: 18.03	iron: 1.91	plutonium: 30.56	uranium: 31.75
+rounded:         3	           17	            11	         19	         2	              31	            32	115
+
+217: 111.93
+	aluminum: 2.45	copper: 16.76	diamond: 10.86	gold: 17.94	iron: 1.90	plutonium: 30.41	uranium: 31.61
+rounded:         3	           17	            11	         18	         2	              31	            32	114
+
+218: 111.42
+	aluminum: 2.44	copper: 16.69	diamond: 10.81	gold: 17.86	iron: 1.89	plutonium: 30.28	uranium: 31.46
+rounded:         3	           17	            11	         18	         2	              31	            32	114
+
+219: 110.91
+	aluminum: 2.42	copper: 16.61	diamond: 10.76	gold: 17.78	iron: 1.88	plutonium: 30.14	uranium: 31.32
+rounded:         3	           17	            11	         18	         2	              31	            32	114
+
+220: 110.40
+	aluminum: 2.41	copper: 16.53	diamond: 10.71	gold: 17.70	iron: 1.87	plutonium: 30.00	uranium: 31.18
+rounded:         3	           17	            11	         18	         2	              30	            32	113
+
+221: 109.91
+	aluminum: 2.40	copper: 16.46	diamond: 10.66	gold: 17.62	iron: 1.86	plutonium: 29.86	uranium: 31.04
+rounded:         3	           17	            11	         18	         2	              30	            32	113
+
+222: 109.41
+	aluminum: 2.39	copper: 16.39	diamond: 10.61	gold: 17.54	iron: 1.85	plutonium: 29.73	uranium: 30.90
+rounded:         3	           17	            11	         18	         2	              30	            31	112
+
+223: 108.92
+	aluminum: 2.38	copper: 16.31	diamond: 10.57	gold: 17.46	iron: 1.85	plutonium: 29.60	uranium: 30.76
+rounded:         3	           17	            11	         18	         2	              30	            31	112
+
+224: 108.43
+	aluminum: 2.37	copper: 16.24	diamond: 10.52	gold: 17.38	iron: 1.84	plutonium: 29.46	uranium: 30.62
+rounded:         3	           17	            11	         18	         2	              30	            31	112
+
+225: 107.95
+	aluminum: 2.36	copper: 16.17	diamond: 10.47	gold: 17.31	iron: 1.83	plutonium: 29.33	uranium: 30.48
+rounded:         3	           17	            11	         18	         2	              30	            31	112
+
+226: 107.47
+	aluminum: 2.35	copper: 16.10	diamond: 10.42	gold: 17.23	iron: 1.82	plutonium: 29.20	uranium: 30.35
+rounded:         3	           17	            11	         18	         2	              30	            31	112
+
+227: 107.00
+	aluminum: 2.34	copper: 16.02	diamond: 10.38	gold: 17.15	iron: 1.81	plutonium: 29.07	uranium: 30.22
+rounded:         3	           17	            11	         18	         2	              30	            31	112
+
+228: 106.53
+	aluminum: 2.33	copper: 15.95	diamond: 10.33	gold: 17.08	iron: 1.80	plutonium: 28.95	uranium: 30.08
+rounded:         3	           16	            11	         18	         2	              29	            31	110
+
+229: 106.07
+	aluminum: 2.32	copper: 15.88	diamond: 10.29	gold: 17.00	iron: 1.80	plutonium: 28.82	uranium: 29.95
+rounded:         3	           16	            11	         18	         2	              29	            30	109
+
+230: 105.60
+	aluminum: 2.31	copper: 15.82	diamond: 10.24	gold: 16.93	iron: 1.79	plutonium: 28.70	uranium: 29.82
+rounded:         3	           16	            11	         17	         2	              29	            30	108
+
+231: 105.15
+	aluminum: 2.30	copper: 15.75	diamond: 10.20	gold: 16.86	iron: 1.78	plutonium: 28.57	uranium: 29.69
+rounded:         3	           16	            11	         17	         2	              29	            30	108
+
+232: 104.69
+	aluminum: 2.29	copper: 15.68	diamond: 10.16	gold: 16.78	iron: 1.77	plutonium: 28.45	uranium: 29.56
+rounded:         3	           16	            11	         17	         2	              29	            30	108
+
+233: 104.24
+	aluminum: 2.28	copper: 15.61	diamond: 10.11	gold: 16.71	iron: 1.77	plutonium: 28.33	uranium: 29.44
+rounded:         3	           16	            11	         17	         2	              29	            30	108
+
+234: 103.80
+	aluminum: 2.27	copper: 15.54	diamond: 10.07	gold: 16.64	iron: 1.76	plutonium: 28.21	uranium: 29.31
+rounded:         3	           16	            11	         17	         2	              29	            30	108
+
+235: 103.36
+	aluminum: 2.26	copper: 15.48	diamond: 10.03	gold: 16.57	iron: 1.75	plutonium: 28.09	uranium: 29.19
+rounded:         3	           16	            11	         17	         2	              29	            30	108
+
+236: 102.92
+	aluminum: 2.25	copper: 15.41	diamond: 9.98	gold: 16.50	iron: 1.74	plutonium: 27.97	uranium: 29.06
+rounded:         3	           16	            10	         17	         2	              28	            30	106
+
+237: 102.49
+	aluminum: 2.24	copper: 15.35	diamond: 9.94	gold: 16.43	iron: 1.74	plutonium: 27.85	uranium: 28.94
+rounded:         3	           16	            10	         17	         2	              28	            29	105
+
+238: 102.05
+	aluminum: 2.23	copper: 15.28	diamond: 9.90	gold: 16.36	iron: 1.73	plutonium: 27.73	uranium: 28.82
+rounded:         3	           16	            10	         17	         2	              28	            29	105
+
+239: 101.63
+	aluminum: 2.22	copper: 15.22	diamond: 9.86	gold: 16.29	iron: 1.72	plutonium: 27.62	uranium: 28.70
+rounded:         3	           16	            10	         17	         2	              28	            29	105
+
+240: 101.20
+	aluminum: 2.21	copper: 15.16	diamond: 9.82	gold: 16.23	iron: 1.71	plutonium: 27.50	uranium: 28.58
+rounded:         3	           16	            10	         17	         2	              28	            29	105
+
+241: 100.78
+	aluminum: 2.20	copper: 15.09	diamond: 9.78	gold: 16.16	iron: 1.71	plutonium: 27.39	uranium: 28.46
+rounded:         3	           16	            10	         17	         2	              28	            29	105
+
+242: 100.37
+	aluminum: 2.19	copper: 15.03	diamond: 9.74	gold: 16.09	iron: 1.70	plutonium: 27.27	uranium: 28.34
+rounded:         3	           16	            10	         17	         2	              28	            29	105
+
+243: 99.95
+	aluminum: 2.19	copper: 14.97	diamond: 9.70	gold: 16.02	iron: 1.69	plutonium: 27.16	uranium: 28.23
+rounded:         3	           15	            10	         17	         2	              28	            29	104
+
+244: 99.55
+	aluminum: 2.18	copper: 14.91	diamond: 9.66	gold: 15.96	iron: 1.69	plutonium: 27.05	uranium: 28.11
+rounded:         3	           15	            10	         16	         2	              28	            29	103
+
+245: 99.14
+	aluminum: 2.17	copper: 14.85	diamond: 9.62	gold: 15.89	iron: 1.68	plutonium: 26.94	uranium: 28.00
+rounded:         3	           15	            10	         16	         2	              27	            28	101
+
+246: 98.74
+	aluminum: 2.16	copper: 14.79	diamond: 9.58	gold: 15.83	iron: 1.67	plutonium: 26.83	uranium: 27.88
+rounded:         3	           15	            10	         16	         2	              27	            28	101
+
+247: 98.34
+	aluminum: 2.15	copper: 14.73	diamond: 9.54	gold: 15.77	iron: 1.67	plutonium: 26.72	uranium: 27.77
+rounded:         3	           15	            10	         16	         2	              27	            28	101
+
+248: 97.94
+	aluminum: 2.14	copper: 14.67	diamond: 9.50	gold: 15.70	iron: 1.66	plutonium: 26.61	uranium: 27.66
+rounded:         3	           15	            10	         16	         2	              27	            28	101
+
+249: 97.55
+	aluminum: 2.13	copper: 14.61	diamond: 9.46	gold: 15.64	iron: 1.65	plutonium: 26.51	uranium: 27.55
+rounded:         3	           15	            10	         16	         2	              27	            28	101
+
+250: 97.16
+	aluminum: 2.12	copper: 14.55	diamond: 9.42	gold: 15.58	iron: 1.65	plutonium: 26.40	uranium: 27.44
+rounded:         3	           15	            10	         16	         2	              27	            28	101
+
+251: 96.77
+	aluminum: 2.12	copper: 14.49	diamond: 9.39	gold: 15.51	iron: 1.64	plutonium: 26.29	uranium: 27.33
+rounded:         3	           15	            10	         16	         2	              27	            28	101
+
+252: 96.39
+	aluminum: 2.11	copper: 14.43	diamond: 9.35	gold: 15.45	iron: 1.63	plutonium: 26.19	uranium: 27.22
+rounded:         3	           15	            10	         16	         2	              27	            28	101
+
+253: 96.00
+	aluminum: 2.10	copper: 14.38	diamond: 9.31	gold: 15.39	iron: 1.63	plutonium: 26.09	uranium: 27.11
+rounded:         3	           15	            10	         16	         2	              27	            28	101
+
+254: 95.63
+	aluminum: 2.09	copper: 14.32	diamond: 9.28	gold: 15.33	iron: 1.62	plutonium: 25.98	uranium: 27.00
+rounded:         3	           15	            10	         16	         2	              26	            28	100
+
+255: 95.25
+	aluminum: 2.08	copper: 14.26	diamond: 9.24	gold: 15.27	iron: 1.61	plutonium: 25.88	uranium: 26.90
+rounded:         3	           15	            10	         16	         2	              26	            27	99
+
+256: 94.88
+	aluminum: 2.07	copper: 14.21	diamond: 9.20	gold: 15.21	iron: 1.61	plutonium: 25.78	uranium: 26.79
+rounded:         3	           15	            10	         16	         2	              26	            27	99
+
+257: 94.51
+	aluminum: 2.07	copper: 14.15	diamond: 9.17	gold: 15.15	iron: 1.60	plutonium: 25.68	uranium: 26.69
+rounded:         3	           15	            10	         16	         2	              26	            27	99
+
+258: 94.14
+	aluminum: 2.06	copper: 14.10	diamond: 9.13	gold: 15.09	iron: 1.59	plutonium: 25.58	uranium: 26.59
+rounded:         3	           15	            10	         16	         2	              26	            27	99
+
+259: 93.78
+	aluminum: 2.05	copper: 14.04	diamond: 9.10	gold: 15.03	iron: 1.59	plutonium: 25.48	uranium: 26.48
+rounded:         3	           15	            10	         16	         2	              26	            27	99
+
+260: 93.42
+	aluminum: 2.04	copper: 13.99	diamond: 9.06	gold: 14.98	iron: 1.58	plutonium: 25.38	uranium: 26.38
+rounded:         3	           14	            10	         15	         2	              26	            27	97
+
+261: 93.06
+	aluminum: 2.03	copper: 13.94	diamond: 9.03	gold: 14.92	iron: 1.58	plutonium: 25.29	uranium: 26.28
+rounded:         3	           14	            10	         15	         2	              26	            27	97
+
+262: 92.71
+	aluminum: 2.03	copper: 13.88	diamond: 8.99	gold: 14.86	iron: 1.57	plutonium: 25.19	uranium: 26.18
+rounded:         3	           14	            9	         15	         2	              26	            27	96
+
+263: 92.35
+	aluminum: 2.02	copper: 13.83	diamond: 8.96	gold: 14.81	iron: 1.56	plutonium: 25.10	uranium: 26.08
+rounded:         3	           14	            9	         15	         2	              26	            27	96
+
+264: 92.00
+	aluminum: 2.01	copper: 13.78	diamond: 8.92	gold: 14.75	iron: 1.56	plutonium: 25.00	uranium: 25.98
+rounded:         3	           14	            9	         15	         2	              25	            26	94
+
+265: 91.66
+	aluminum: 2.00	copper: 13.73	diamond: 8.89	gold: 14.69	iron: 1.55	plutonium: 24.91	uranium: 25.88
+rounded:         3	           14	            9	         15	         2	              25	            26	94
+
+266: 91.31
+	aluminum: 2.00	copper: 13.67	diamond: 8.86	gold: 14.64	iron: 1.55	plutonium: 24.81	uranium: 25.79
+rounded:         2	           14	            9	         15	         2	              25	            26	93
+
+267: 90.97
+	aluminum: 1.99	copper: 13.62	diamond: 8.82	gold: 14.58	iron: 1.54	plutonium: 24.72	uranium: 25.69
+rounded:         2	           14	            9	         15	         2	              25	            26	93
+
+268: 90.63
+	aluminum: 1.98	copper: 13.57	diamond: 8.79	gold: 14.53	iron: 1.54	plutonium: 24.63	uranium: 25.59
+rounded:         2	           14	            9	         15	         2	              25	            26	93
+
+269: 90.29
+	aluminum: 1.97	copper: 13.52	diamond: 8.76	gold: 14.48	iron: 1.53	plutonium: 24.54	uranium: 25.50
+rounded:         2	           14	            9	         15	         2	              25	            26	93
+
+270: 89.96
+	aluminum: 1.97	copper: 13.47	diamond: 8.73	gold: 14.42	iron: 1.52	plutonium: 24.44	uranium: 25.40
+rounded:         2	           14	            9	         15	         2	              25	            26	93
+
+271: 89.63
+	aluminum: 1.96	copper: 13.42	diamond: 8.69	gold: 14.37	iron: 1.52	plutonium: 24.35	uranium: 25.31
+rounded:         2	           14	            9	         15	         2	              25	            26	93
+
+272: 89.30
+	aluminum: 1.95	copper: 13.37	diamond: 8.66	gold: 14.32	iron: 1.51	plutonium: 24.26	uranium: 25.22
+rounded:         2	           14	            9	         15	         2	              25	            26	93
+
+273: 88.97
+	aluminum: 1.95	copper: 13.32	diamond: 8.63	gold: 14.26	iron: 1.51	plutonium: 24.18	uranium: 25.12
+rounded:         2	           14	            9	         15	         2	              25	            26	93
+
+274: 88.65
+	aluminum: 1.94	copper: 13.28	diamond: 8.60	gold: 14.21	iron: 1.50	plutonium: 24.09	uranium: 25.03
+rounded:         2	           14	            9	         15	         2	              25	            26	93
+
+275: 88.32
+	aluminum: 1.93	copper: 13.23	diamond: 8.57	gold: 14.16	iron: 1.50	plutonium: 24.00	uranium: 24.94
+rounded:         2	           14	            9	         15	         2	              24	            25	91
+
+276: 88.00
+	aluminum: 1.92	copper: 13.18	diamond: 8.54	gold: 14.11	iron: 1.49	plutonium: 23.91	uranium: 24.85
+rounded:         2	           14	            9	         15	         2	              24	            25	91
+
+277: 87.69
+	aluminum: 1.92	copper: 13.13	diamond: 8.51	gold: 14.06	iron: 1.49	plutonium: 23.83	uranium: 24.76
+rounded:         2	           14	            9	         15	         2	              24	            25	91
+
+278: 87.37
+	aluminum: 1.91	copper: 13.08	diamond: 8.47	gold: 14.01	iron: 1.48	plutonium: 23.74	uranium: 24.67
+rounded:         2	           14	            9	         15	         2	              24	            25	91
+
+279: 87.06
+	aluminum: 1.90	copper: 13.04	diamond: 8.44	gold: 13.96	iron: 1.47	plutonium: 23.66	uranium: 24.58
+rounded:         2	           14	            9	         14	         2	              24	            25	90
+
+280: 86.75
+	aluminum: 1.90	copper: 12.99	diamond: 8.41	gold: 13.91	iron: 1.47	plutonium: 23.57	uranium: 24.50
+rounded:         2	           13	            9	         14	         2	              24	            25	89
+
+281: 86.44
+	aluminum: 1.89	copper: 12.94	diamond: 8.38	gold: 13.86	iron: 1.46	plutonium: 23.49	uranium: 24.41
+rounded:         2	           13	            9	         14	         2	              24	            25	89
+
+282: 86.13
+	aluminum: 1.88	copper: 12.90	diamond: 8.35	gold: 13.81	iron: 1.46	plutonium: 23.40	uranium: 24.32
+rounded:         2	           13	            9	         14	         2	              24	            25	89
+
+283: 85.83
+	aluminum: 1.88	copper: 12.85	diamond: 8.33	gold: 13.76	iron: 1.45	plutonium: 23.32	uranium: 24.24
+rounded:         2	           13	            9	         14	         2	              24	            25	89
+
+284: 85.52
+	aluminum: 1.87	copper: 12.81	diamond: 8.30	gold: 13.71	iron: 1.45	plutonium: 23.24	uranium: 24.15
+rounded:         2	           13	            9	         14	         2	              24	            25	89
+
+285: 85.22
+	aluminum: 1.86	copper: 12.76	diamond: 8.27	gold: 13.66	iron: 1.44	plutonium: 23.16	uranium: 24.07
+rounded:         2	           13	            9	         14	         2	              24	            25	89
+
+286: 84.93
+	aluminum: 1.86	copper: 12.72	diamond: 8.24	gold: 13.62	iron: 1.44	plutonium: 23.08	uranium: 23.98
+rounded:         2	           13	            9	         14	         2	              24	            24	88
+
+287: 84.63
+	aluminum: 1.85	copper: 12.67	diamond: 8.21	gold: 13.57	iron: 1.43	plutonium: 23.00	uranium: 23.90
+rounded:         2	           13	            9	         14	         2	              23	            24	87
+
+288: 84.34
+	aluminum: 1.84	copper: 12.63	diamond: 8.18	gold: 13.52	iron: 1.43	plutonium: 22.92	uranium: 23.82
+rounded:         2	           13	            9	         14	         2	              23	            24	87
+
+289: 84.05
+	aluminum: 1.84	copper: 12.59	diamond: 8.15	gold: 13.47	iron: 1.42	plutonium: 22.84	uranium: 23.73
+rounded:         2	           13	            9	         14	         2	              23	            24	87
+
+290: 83.76
+	aluminum: 1.83	copper: 12.54	diamond: 8.12	gold: 13.43	iron: 1.42	plutonium: 22.76	uranium: 23.65
+rounded:         2	           13	            9	         14	         2	              23	            24	87
+
+291: 83.47
+	aluminum: 1.82	copper: 12.50	diamond: 8.10	gold: 13.38	iron: 1.41	plutonium: 22.68	uranium: 23.57
+rounded:         2	           13	            9	         14	         2	              23	            24	87
+
+292: 83.18
+	aluminum: 1.82	copper: 12.46	diamond: 8.07	gold: 13.34	iron: 1.41	plutonium: 22.60	uranium: 23.49
+rounded:         2	           13	            9	         14	         2	              23	            24	87
+
+293: 82.90
+	aluminum: 1.81	copper: 12.41	diamond: 8.04	gold: 13.29	iron: 1.40	plutonium: 22.53	uranium: 23.41
+rounded:         2	           13	            9	         14	         2	              23	            24	87
+
+294: 82.62
+	aluminum: 1.81	copper: 12.37	diamond: 8.01	gold: 13.24	iron: 1.40	plutonium: 22.45	uranium: 23.33
+rounded:         2	           13	            9	         14	         2	              23	            24	87
+
+295: 82.34
+	aluminum: 1.80	copper: 12.33	diamond: 7.99	gold: 13.20	iron: 1.39	plutonium: 22.37	uranium: 23.25
+rounded:         2	           13	            8	         14	         2	              23	            24	86
+
+296: 82.06
+	aluminum: 1.79	copper: 12.29	diamond: 7.96	gold: 13.16	iron: 1.39	plutonium: 22.30	uranium: 23.17
+rounded:         2	           13	            8	         14	         2	              23	            24	86
+
+297: 81.78
+	aluminum: 1.79	copper: 12.25	diamond: 7.93	gold: 13.11	iron: 1.39	plutonium: 22.22	uranium: 23.09
+rounded:         2	           13	            8	         14	         2	              23	            24	86
+
+298: 81.51
+	aluminum: 1.78	copper: 12.21	diamond: 7.91	gold: 13.07	iron: 1.38	plutonium: 22.15	uranium: 23.02
+rounded:         2	           13	            8	         14	         2	              23	            24	86
+
+299: 81.23
+	aluminum: 1.78	copper: 12.17	diamond: 7.88	gold: 13.02	iron: 1.38	plutonium: 22.07	uranium: 22.94
+rounded:         2	           13	            8	         14	         2	              23	            23	85
+
+300: 80.96
+	aluminum: 1.77	copper: 12.13	diamond: 7.85	gold: 12.98	iron: 1.37	plutonium: 22.00	uranium: 22.86
+rounded:         2	           13	            8	         13	         2	              22	            23	83
+
+301: 80.69
+	aluminum: 1.76	copper: 12.08	diamond: 7.83	gold: 12.94	iron: 1.37	plutonium: 21.93	uranium: 22.79
+rounded:         2	           13	            8	         13	         2	              22	            23	83
+
+302: 80.43
+	aluminum: 1.76	copper: 12.04	diamond: 7.80	gold: 12.89	iron: 1.36	plutonium: 21.85	uranium: 22.71
+rounded:         2	           13	            8	         13	         2	              22	            23	83
+
+303: 80.16
+	aluminum: 1.75	copper: 12.00	diamond: 7.78	gold: 12.85	iron: 1.36	plutonium: 21.78	uranium: 22.64
+rounded:         2	           13	            8	         13	         2	              22	            23	83
+
+304: 79.90
+	aluminum: 1.75	copper: 11.97	diamond: 7.75	gold: 12.81	iron: 1.35	plutonium: 21.71	uranium: 22.56
+rounded:         2	           12	            8	         13	         2	              22	            23	82
+
+305: 79.64
+	aluminum: 1.74	copper: 11.93	diamond: 7.72	gold: 12.77	iron: 1.35	plutonium: 21.64	uranium: 22.49
+rounded:         2	           12	            8	         13	         2	              22	            23	82
+
+306: 79.38
+	aluminum: 1.74	copper: 11.89	diamond: 7.70	gold: 12.73	iron: 1.34	plutonium: 21.57	uranium: 22.42
+rounded:         2	           12	            8	         13	         2	              22	            23	82
+
+307: 79.12
+	aluminum: 1.73	copper: 11.85	diamond: 7.67	gold: 12.68	iron: 1.34	plutonium: 21.50	uranium: 22.34
+rounded:         2	           12	            8	         13	         2	              22	            23	82
+
+308: 78.86
+	aluminum: 1.72	copper: 11.81	diamond: 7.65	gold: 12.64	iron: 1.34	plutonium: 21.43	uranium: 22.27
+rounded:         2	           12	            8	         13	         2	              22	            23	82
+
+309: 78.61
+	aluminum: 1.72	copper: 11.77	diamond: 7.62	gold: 12.60	iron: 1.33	plutonium: 21.36	uranium: 22.20
+rounded:         2	           12	            8	         13	         2	              22	            23	82
+
+310: 78.35
+	aluminum: 1.71	copper: 11.73	diamond: 7.60	gold: 12.56	iron: 1.33	plutonium: 21.29	uranium: 22.13
+rounded:         2	           12	            8	         13	         2	              22	            23	82
+
+311: 78.10
+	aluminum: 1.71	copper: 11.70	diamond: 7.58	gold: 12.52	iron: 1.32	plutonium: 21.22	uranium: 22.05
+rounded:         2	           12	            8	         13	         2	              22	            23	82
+
+312: 77.85
+	aluminum: 1.70	copper: 11.66	diamond: 7.55	gold: 12.48	iron: 1.32	plutonium: 21.15	uranium: 21.98
+rounded:         2	           12	            8	         13	         2	              22	            22	81
+
+313: 77.60
+	aluminum: 1.70	copper: 11.62	diamond: 7.53	gold: 12.44	iron: 1.31	plutonium: 21.09	uranium: 21.91
+rounded:         2	           12	            8	         13	         2	              22	            22	81
+
+314: 77.35
+	aluminum: 1.69	copper: 11.58	diamond: 7.50	gold: 12.40	iron: 1.31	plutonium: 21.02	uranium: 21.84
+rounded:         2	           12	            8	         13	         2	              22	            22	81
+
+315: 77.11
+	aluminum: 1.69	copper: 11.55	diamond: 7.48	gold: 12.36	iron: 1.31	plutonium: 20.95	uranium: 21.77
+rounded:         2	           12	            8	         13	         2	              21	            22	80
+
+316: 76.86
+	aluminum: 1.68	copper: 11.51	diamond: 7.46	gold: 12.32	iron: 1.30	plutonium: 20.89	uranium: 21.71
+rounded:         2	           12	            8	         13	         2	              21	            22	80
+
+317: 76.62
+	aluminum: 1.68	copper: 11.47	diamond: 7.43	gold: 12.28	iron: 1.30	plutonium: 20.82	uranium: 21.64
+rounded:         2	           12	            8	         13	         2	              21	            22	80
+
+318: 76.38
+	aluminum: 1.67	copper: 11.44	diamond: 7.41	gold: 12.25	iron: 1.29	plutonium: 20.75	uranium: 21.57
+rounded:         2	           12	            8	         13	         2	              21	            22	80
+
+319: 76.14
+	aluminum: 1.66	copper: 11.40	diamond: 7.39	gold: 12.21	iron: 1.29	plutonium: 20.69	uranium: 21.50
+rounded:         2	           12	            8	         13	         2	              21	            22	80
+
+320: 75.90
+	aluminum: 1.66	copper: 11.37	diamond: 7.36	gold: 12.17	iron: 1.29	plutonium: 20.62	uranium: 21.43
+rounded:         2	           12	            8	         13	         2	              21	            22	80
+
+321: 75.67
+	aluminum: 1.65	copper: 11.33	diamond: 7.34	gold: 12.13	iron: 1.28	plutonium: 20.56	uranium: 21.37
+rounded:         2	           12	            8	         13	         2	              21	            22	80
+
+322: 75.43
+	aluminum: 1.65	copper: 11.30	diamond: 7.32	gold: 12.09	iron: 1.28	plutonium: 20.50	uranium: 21.30
+rounded:         2	           12	            8	         13	         2	              21	            22	80
+
+323: 75.20
+	aluminum: 1.64	copper: 11.26	diamond: 7.29	gold: 12.06	iron: 1.27	plutonium: 20.43	uranium: 21.24
+rounded:         2	           12	            8	         13	         2	              21	            22	80
+
+324: 74.97
+	aluminum: 1.64	copper: 11.23	diamond: 7.27	gold: 12.02	iron: 1.27	plutonium: 20.37	uranium: 21.17
+rounded:         2	           12	            8	         13	         2	              21	            22	80
+
+325: 74.74
+	aluminum: 1.63	copper: 11.19	diamond: 7.25	gold: 11.98	iron: 1.27	plutonium: 20.31	uranium: 21.10
+rounded:         2	           12	            8	         12	         2	              21	            22	79
+
+326: 74.51
+	aluminum: 1.63	copper: 11.16	diamond: 7.23	gold: 11.94	iron: 1.26	plutonium: 20.25	uranium: 21.04
+rounded:         2	           12	            8	         12	         2	              21	            22	79
+
+327: 74.28
+	aluminum: 1.62	copper: 11.12	diamond: 7.20	gold: 11.91	iron: 1.26	plutonium: 20.18	uranium: 20.98
+rounded:         2	           12	            8	         12	         2	              21	            21	78
+
+328: 74.05
+	aluminum: 1.62	copper: 11.09	diamond: 7.18	gold: 11.87	iron: 1.25	plutonium: 20.12	uranium: 20.91
+rounded:         2	           12	            8	         12	         2	              21	            21	78
+
+329: 73.83
+	aluminum: 1.61	copper: 11.06	diamond: 7.16	gold: 11.84	iron: 1.25	plutonium: 20.06	uranium: 20.85
+rounded:         2	           12	            8	         12	         2	              21	            21	78
+
+330: 73.60
+	aluminum: 1.61	copper: 11.02	diamond: 7.14	gold: 11.80	iron: 1.25	plutonium: 20.00	uranium: 20.79
+rounded:         2	           12	            8	         12	         2	              20	            21	77
+
+331: 73.38
+	aluminum: 1.60	copper: 10.99	diamond: 7.12	gold: 11.76	iron: 1.24	plutonium: 19.94	uranium: 20.72
+rounded:         2	           11	            8	         12	         2	              20	            21	76
+
+332: 73.16
+	aluminum: 1.60	copper: 10.96	diamond: 7.10	gold: 11.73	iron: 1.24	plutonium: 19.88	uranium: 20.66
+rounded:         2	           11	            8	         12	         2	              20	            21	76
+
+333: 72.94
+	aluminum: 1.59	copper: 10.92	diamond: 7.08	gold: 11.69	iron: 1.24	plutonium: 19.82	uranium: 20.60
+rounded:         2	           11	            8	         12	         2	              20	            21	76
+
+334: 72.72
+	aluminum: 1.59	copper: 10.89	diamond: 7.05	gold: 11.66	iron: 1.23	plutonium: 19.76	uranium: 20.54
+rounded:         2	           11	            8	         12	         2	              20	            21	76
+
+335: 72.50
+	aluminum: 1.59	copper: 10.86	diamond: 7.03	gold: 11.62	iron: 1.23	plutonium: 19.70	uranium: 20.47
+rounded:         2	           11	            8	         12	         2	              20	            21	76
+
+336: 72.29
+	aluminum: 1.58	copper: 10.83	diamond: 7.01	gold: 11.59	iron: 1.22	plutonium: 19.64	uranium: 20.41
+rounded:         2	           11	            8	         12	         2	              20	            21	76
+
+337: 72.07
+	aluminum: 1.58	copper: 10.79	diamond: 6.99	gold: 11.55	iron: 1.22	plutonium: 19.58	uranium: 20.35
+rounded:         2	           11	            7	         12	         2	              20	            21	75
+
+338: 71.86
+	aluminum: 1.57	copper: 10.76	diamond: 6.97	gold: 11.52	iron: 1.22	plutonium: 19.53	uranium: 20.29
+rounded:         2	           11	            7	         12	         2	              20	            21	75
+
+339: 71.65
+	aluminum: 1.57	copper: 10.73	diamond: 6.95	gold: 11.49	iron: 1.21	plutonium: 19.47	uranium: 20.23
+rounded:         2	           11	            7	         12	         2	              20	            21	75
+
+340: 71.44
+	aluminum: 1.56	copper: 10.70	diamond: 6.93	gold: 11.45	iron: 1.21	plutonium: 19.41	uranium: 20.17
+rounded:         2	           11	            7	         12	         2	              20	            21	75
+
+341: 71.23
+	aluminum: 1.56	copper: 10.67	diamond: 6.91	gold: 11.42	iron: 1.21	plutonium: 19.35	uranium: 20.11
+rounded:         2	           11	            7	         12	         2	              20	            21	75
+
+342: 71.02
+	aluminum: 1.55	copper: 10.64	diamond: 6.89	gold: 11.39	iron: 1.20	plutonium: 19.30	uranium: 20.06
+rounded:         2	           11	            7	         12	         2	              20	            21	75
+
+343: 70.81
+	aluminum: 1.55	copper: 10.60	diamond: 6.87	gold: 11.35	iron: 1.20	plutonium: 19.24	uranium: 20.00
+rounded:         2	           11	            7	         12	         2	              20	            20	74
+
+344: 70.61
+	aluminum: 1.54	copper: 10.57	diamond: 6.85	gold: 11.32	iron: 1.20	plutonium: 19.19	uranium: 19.94
+rounded:         2	           11	            7	         12	         2	              20	            20	74
+
+345: 70.40
+	aluminum: 1.54	copper: 10.54	diamond: 6.83	gold: 11.29	iron: 1.19	plutonium: 19.13	uranium: 19.88
+rounded:         2	           11	            7	         12	         2	              20	            20	74
+
+346: 70.20
+	aluminum: 1.53	copper: 10.51	diamond: 6.81	gold: 11.25	iron: 1.19	plutonium: 19.08	uranium: 19.82
+rounded:         2	           11	            7	         12	         2	              20	            20	74
+
+347: 70.00
+	aluminum: 1.53	copper: 10.48	diamond: 6.79	gold: 11.22	iron: 1.19	plutonium: 19.02	uranium: 19.77
+rounded:         2	           11	            7	         12	         2	              20	            20	74
+
+348: 69.80
+	aluminum: 1.53	copper: 10.45	diamond: 6.77	gold: 11.19	iron: 1.18	plutonium: 18.97	uranium: 19.71
+rounded:         2	           11	            7	         12	         2	              19	            20	73
+
+349: 69.60
+	aluminum: 1.52	copper: 10.42	diamond: 6.75	gold: 11.16	iron: 1.18	plutonium: 18.91	uranium: 19.65
+rounded:         2	           11	            7	         12	         2	              19	            20	73
+
+350: 69.40
+	aluminum: 1.52	copper: 10.39	diamond: 6.73	gold: 11.13	iron: 1.18	plutonium: 18.86	uranium: 19.60
+rounded:         2	           11	            7	         12	         2	              19	            20	73
+
+351: 69.20
+	aluminum: 1.51	copper: 10.36	diamond: 6.71	gold: 11.09	iron: 1.17	plutonium: 18.80	uranium: 19.54
+rounded:         2	           11	            7	         12	         2	              19	            20	73
+
+352: 69.00
+	aluminum: 1.51	copper: 10.33	diamond: 6.69	gold: 11.06	iron: 1.17	plutonium: 18.75	uranium: 19.49
+rounded:         2	           11	            7	         12	         2	              19	            20	73
+
+353: 68.81
+	aluminum: 1.50	copper: 10.30	diamond: 6.67	gold: 11.03	iron: 1.17	plutonium: 18.70	uranium: 19.43
+rounded:         2	           11	            7	         12	         2	              19	            20	73
+
+354: 68.61
+	aluminum: 1.50	copper: 10.28	diamond: 6.66	gold: 11.00	iron: 1.16	plutonium: 18.64	uranium: 19.38
+rounded:         2	           11	            7	         11	         2	              19	            20	72
+
+355: 68.42
+	aluminum: 1.50	copper: 10.25	diamond: 6.64	gold: 10.97	iron: 1.16	plutonium: 18.59	uranium: 19.32
+rounded:         2	           11	            7	         11	         2	              19	            20	72
+
+356: 68.23
+	aluminum: 1.49	copper: 10.22	diamond: 6.62	gold: 10.94	iron: 1.16	plutonium: 18.54	uranium: 19.27
+rounded:         2	           11	            7	         11	         2	              19	            20	72
+
+357: 68.04
+	aluminum: 1.49	copper: 10.19	diamond: 6.60	gold: 10.91	iron: 1.15	plutonium: 18.49	uranium: 19.21
+rounded:         2	           11	            7	         11	         2	              19	            20	72
+
+358: 67.85
+	aluminum: 1.48	copper: 10.16	diamond: 6.58	gold: 10.88	iron: 1.15	plutonium: 18.44	uranium: 19.16
+rounded:         2	           11	            7	         11	         2	              19	            20	72
+
+359: 67.66
+	aluminum: 1.48	copper: 10.13	diamond: 6.56	gold: 10.85	iron: 1.15	plutonium: 18.38	uranium: 19.11
+rounded:         2	           11	            7	         11	         2	              19	            20	72
+
+360: 67.47
+	aluminum: 1.48	copper: 10.10	diamond: 6.54	gold: 10.82	iron: 1.14	plutonium: 18.33	uranium: 19.05
+rounded:         2	           11	            7	         11	         2	              19	            20	72
+
+361: 67.28
+	aluminum: 1.47	copper: 10.08	diamond: 6.53	gold: 10.79	iron: 1.14	plutonium: 18.28	uranium: 19.00
+rounded:         2	           11	            7	         11	         2	              19	            20	72
+
+362: 67.10
+	aluminum: 1.47	copper: 10.05	diamond: 6.51	gold: 10.76	iron: 1.14	plutonium: 18.23	uranium: 18.95
+rounded:         2	           11	            7	         11	         2	              19	            19	71
+
+363: 66.91
+	aluminum: 1.46	copper: 10.02	diamond: 6.49	gold: 10.73	iron: 1.13	plutonium: 18.18	uranium: 18.90
+rounded:         2	           11	            7	         11	         2	              19	            19	71
+
+364: 66.73
+	aluminum: 1.46	copper: 9.99	diamond: 6.47	gold: 10.70	iron: 1.13	plutonium: 18.13	uranium: 18.84
+rounded:         2	           10	            7	         11	         2	              19	            19	70
+
+365: 66.55
+	aluminum: 1.45	copper: 9.97	diamond: 6.45	gold: 10.67	iron: 1.13	plutonium: 18.08	uranium: 18.79
+rounded:         2	           10	            7	         11	         2	              19	            19	70
+
+366: 66.36
+	aluminum: 1.45	copper: 9.94	diamond: 6.44	gold: 10.64	iron: 1.12	plutonium: 18.03	uranium: 18.74
+rounded:         2	           10	            7	         11	         2	              19	            19	70
+
+367: 66.18
+	aluminum: 1.45	copper: 9.91	diamond: 6.42	gold: 10.61	iron: 1.12	plutonium: 17.98	uranium: 18.69
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+368: 66.00
+	aluminum: 1.44	copper: 9.88	diamond: 6.40	gold: 10.58	iron: 1.12	plutonium: 17.93	uranium: 18.64
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+369: 65.82
+	aluminum: 1.44	copper: 9.86	diamond: 6.38	gold: 10.55	iron: 1.12	plutonium: 17.89	uranium: 18.59
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+370: 65.65
+	aluminum: 1.44	copper: 9.83	diamond: 6.37	gold: 10.52	iron: 1.11	plutonium: 17.84	uranium: 18.54
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+371: 65.47
+	aluminum: 1.43	copper: 9.80	diamond: 6.35	gold: 10.50	iron: 1.11	plutonium: 17.79	uranium: 18.49
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+372: 65.29
+	aluminum: 1.43	copper: 9.78	diamond: 6.33	gold: 10.47	iron: 1.11	plutonium: 17.74	uranium: 18.44
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+373: 65.12
+	aluminum: 1.42	copper: 9.75	diamond: 6.32	gold: 10.44	iron: 1.10	plutonium: 17.69	uranium: 18.39
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+374: 64.94
+	aluminum: 1.42	copper: 9.73	diamond: 6.30	gold: 10.41	iron: 1.10	plutonium: 17.65	uranium: 18.34
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+375: 64.77
+	aluminum: 1.42	copper: 9.70	diamond: 6.28	gold: 10.38	iron: 1.10	plutonium: 17.60	uranium: 18.29
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+376: 64.60
+	aluminum: 1.41	copper: 9.67	diamond: 6.27	gold: 10.36	iron: 1.09	plutonium: 17.55	uranium: 18.24
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+377: 64.43
+	aluminum: 1.41	copper: 9.65	diamond: 6.25	gold: 10.33	iron: 1.09	plutonium: 17.51	uranium: 18.19
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+378: 64.26
+	aluminum: 1.40	copper: 9.62	diamond: 6.23	gold: 10.30	iron: 1.09	plutonium: 17.46	uranium: 18.15
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+379: 64.09
+	aluminum: 1.40	copper: 9.60	diamond: 6.22	gold: 10.27	iron: 1.09	plutonium: 17.41	uranium: 18.10
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+380: 63.92
+	aluminum: 1.40	copper: 9.57	diamond: 6.20	gold: 10.25	iron: 1.08	plutonium: 17.37	uranium: 18.05
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+381: 63.75
+	aluminum: 1.39	copper: 9.55	diamond: 6.18	gold: 10.22	iron: 1.08	plutonium: 17.32	uranium: 18.00
+rounded:         2	           10	            7	         11	         2	              18	            19	69
+
+382: 63.58
+	aluminum: 1.39	copper: 9.52	diamond: 6.17	gold: 10.19	iron: 1.08	plutonium: 17.28	uranium: 17.96
+rounded:         2	           10	            7	         11	         2	              18	            18	68
+
+383: 63.42
+	aluminum: 1.39	copper: 9.50	diamond: 6.15	gold: 10.17	iron: 1.07	plutonium: 17.23	uranium: 17.91
+rounded:         2	           10	            7	         11	         2	              18	            18	68
+
+384: 63.25
+	aluminum: 1.38	copper: 9.47	diamond: 6.14	gold: 10.14	iron: 1.07	plutonium: 17.19	uranium: 17.86
+rounded:         2	           10	            7	         11	         2	              18	            18	68
+
+385: 63.09
+	aluminum: 1.38	copper: 9.45	diamond: 6.12	gold: 10.11	iron: 1.07	plutonium: 17.14	uranium: 17.82
+rounded:         2	           10	            7	         11	         2	              18	            18	68
+
+386: 62.93
+	aluminum: 1.38	copper: 9.42	diamond: 6.10	gold: 10.09	iron: 1.07	plutonium: 17.10	uranium: 17.77
+rounded:         2	           10	            7	         11	         2	              18	            18	68
+
+387: 62.76
+	aluminum: 1.37	copper: 9.40	diamond: 6.09	gold: 10.06	iron: 1.06	plutonium: 17.05	uranium: 17.72
+rounded:         2	           10	            7	         11	         2	              18	            18	68
+
+388: 62.60
+	aluminum: 1.37	copper: 9.38	diamond: 6.07	gold: 10.04	iron: 1.06	plutonium: 17.01	uranium: 17.68
+rounded:         2	           10	            7	         11	         2	              18	            18	68
+
+389: 62.44
+	aluminum: 1.37	copper: 9.35	diamond: 6.06	gold: 10.01	iron: 1.06	plutonium: 16.97	uranium: 17.63
+rounded:         2	           10	            7	         11	         2	              17	            18	67
+
+390: 62.28
+	aluminum: 1.36	copper: 9.33	diamond: 6.04	gold: 9.98	iron: 1.06	plutonium: 16.92	uranium: 17.59
+rounded:         2	           10	            7	         10	         2	              17	            18	66
+
+391: 62.12
+	aluminum: 1.36	copper: 9.30	diamond: 6.03	gold: 9.96	iron: 1.05	plutonium: 16.88	uranium: 17.54
+rounded:         2	           10	            7	         10	         2	              17	            18	66
+
+392: 61.96
+	aluminum: 1.35	copper: 9.28	diamond: 6.01	gold: 9.93	iron: 1.05	plutonium: 16.84	uranium: 17.50
+rounded:         2	           10	            7	         10	         2	              17	            18	66
+
+393: 61.80
+	aluminum: 1.35	copper: 9.26	diamond: 5.99	gold: 9.91	iron: 1.05	plutonium: 16.79	uranium: 17.45
+rounded:         2	           10	            6	         10	         2	              17	            18	65
+
+394: 61.65
+	aluminum: 1.35	copper: 9.23	diamond: 5.98	gold: 9.88	iron: 1.04	plutonium: 16.75	uranium: 17.41
+rounded:         2	           10	            6	         10	         2	              17	            18	65
+
+395: 61.49
+	aluminum: 1.34	copper: 9.21	diamond: 5.96	gold: 9.86	iron: 1.04	plutonium: 16.71	uranium: 17.36
+rounded:         2	           10	            6	         10	         2	              17	            18	65
+
+396: 61.34
+	aluminum: 1.34	copper: 9.19	diamond: 5.95	gold: 9.83	iron: 1.04	plutonium: 16.67	uranium: 17.32
+rounded:         2	           10	            6	         10	         2	              17	            18	65
+
+397: 61.18
+	aluminum: 1.34	copper: 9.16	diamond: 5.93	gold: 9.81	iron: 1.04	plutonium: 16.62	uranium: 17.28
+rounded:         2	           10	            6	         10	         2	              17	            18	65
+
+398: 61.03
+	aluminum: 1.33	copper: 9.14	diamond: 5.92	gold: 9.78	iron: 1.03	plutonium: 16.58	uranium: 17.23
+rounded:         2	           10	            6	         10	         2	              17	            18	65
+
+399: 60.87
+	aluminum: 1.33	copper: 9.12	diamond: 5.90	gold: 9.76	iron: 1.03	plutonium: 16.54	uranium: 17.19
+rounded:         2	           10	            6	         10	         2	              17	            18	65
+
+400: 60.72
+	aluminum: 1.33	copper: 9.09	diamond: 5.89	gold: 9.73	iron: 1.03	plutonium: 16.50	uranium: 17.15
+rounded:         2	           10	            6	         10	         2	              17	            18	65
+
+401: 60.57
+	aluminum: 1.32	copper: 9.07	diamond: 5.88	gold: 9.71	iron: 1.03	plutonium: 16.46	uranium: 17.10
+rounded:         2	           10	            6	         10	         2	              17	            18	65
+
+402: 60.42
+	aluminum: 1.32	copper: 9.05	diamond: 5.86	gold: 9.69	iron: 1.02	plutonium: 16.42	uranium: 17.06
+rounded:         2	           10	            6	         10	         2	              17	            18	65
+
+403: 60.27
+	aluminum: 1.32	copper: 9.03	diamond: 5.85	gold: 9.66	iron: 1.02	plutonium: 16.38	uranium: 17.02
+rounded:         2	           10	            6	         10	         2	              17	            18	65
+
+404: 60.12
+	aluminum: 1.31	copper: 9.00	diamond: 5.83	gold: 9.64	iron: 1.02	plutonium: 16.34	uranium: 16.98
+rounded:         2	           10	            6	         10	         2	              17	            17	64
+
+405: 59.97
+	aluminum: 1.31	copper: 8.98	diamond: 5.82	gold: 9.61	iron: 1.02	plutonium: 16.30	uranium: 16.94
+rounded:         2	           9	            6	         10	         2	              17	            17	63
+
+406: 59.83
+	aluminum: 1.31	copper: 8.96	diamond: 5.80	gold: 9.59	iron: 1.01	plutonium: 16.26	uranium: 16.89
+rounded:         2	           9	            6	         10	         2	              17	            17	63
+
+407: 59.68
+	aluminum: 1.30	copper: 8.94	diamond: 5.79	gold: 9.57	iron: 1.01	plutonium: 16.22	uranium: 16.85
+rounded:         2	           9	            6	         10	         2	              17	            17	63
+
+408: 59.53
+	aluminum: 1.30	copper: 8.92	diamond: 5.77	gold: 9.54	iron: 1.01	plutonium: 16.18	uranium: 16.81
+rounded:         2	           9	            6	         10	         2	              17	            17	63
+
+409: 59.39
+	aluminum: 1.30	copper: 8.89	diamond: 5.76	gold: 9.52	iron: 1.01	plutonium: 16.14	uranium: 16.77
+rounded:         2	           9	            6	         10	         2	              17	            17	63
+
+410: 59.24
+	aluminum: 1.30	copper: 8.87	diamond: 5.75	gold: 9.50	iron: 1.00	plutonium: 16.10	uranium: 16.73
+rounded:         2	           9	            6	         10	         2	              17	            17	63
+
+411: 59.10
+	aluminum: 1.29	copper: 8.85	diamond: 5.73	gold: 9.47	iron: 1.00	plutonium: 16.06	uranium: 16.69
+rounded:         2	           9	            6	         10	         2	              17	            17	63
+
+412: 58.95
+	aluminum: 1.29	copper: 8.83	diamond: 5.72	gold: 9.45	iron: 1.00	plutonium: 16.02	uranium: 16.65
+rounded:         2	           9	            6	         10	         1	              17	            17	62
+
+413: 58.81
+	aluminum: 1.29	copper: 8.81	diamond: 5.70	gold: 9.43	iron: 1.00	plutonium: 15.98	uranium: 16.61
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+414: 58.67
+	aluminum: 1.28	copper: 8.79	diamond: 5.69	gold: 9.41	iron: 0.99	plutonium: 15.94	uranium: 16.57
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+415: 58.53
+	aluminum: 1.28	copper: 8.77	diamond: 5.68	gold: 9.38	iron: 0.99	plutonium: 15.90	uranium: 16.53
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+416: 58.39
+	aluminum: 1.28	copper: 8.74	diamond: 5.66	gold: 9.36	iron: 0.99	plutonium: 15.87	uranium: 16.49
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+417: 58.25
+	aluminum: 1.27	copper: 8.72	diamond: 5.65	gold: 9.34	iron: 0.99	plutonium: 15.83	uranium: 16.45
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+418: 58.11
+	aluminum: 1.27	copper: 8.70	diamond: 5.64	gold: 9.32	iron: 0.98	plutonium: 15.79	uranium: 16.41
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+419: 57.97
+	aluminum: 1.27	copper: 8.68	diamond: 5.62	gold: 9.29	iron: 0.98	plutonium: 15.75	uranium: 16.37
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+420: 57.83
+	aluminum: 1.26	copper: 8.66	diamond: 5.61	gold: 9.27	iron: 0.98	plutonium: 15.71	uranium: 16.33
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+421: 57.69
+	aluminum: 1.26	copper: 8.64	diamond: 5.60	gold: 9.25	iron: 0.98	plutonium: 15.68	uranium: 16.29
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+422: 57.56
+	aluminum: 1.26	copper: 8.62	diamond: 5.58	gold: 9.23	iron: 0.98	plutonium: 15.64	uranium: 16.25
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+423: 57.42
+	aluminum: 1.26	copper: 8.60	diamond: 5.57	gold: 9.21	iron: 0.97	plutonium: 15.60	uranium: 16.22
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+424: 57.29
+	aluminum: 1.25	copper: 8.58	diamond: 5.56	gold: 9.18	iron: 0.97	plutonium: 15.57	uranium: 16.18
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+425: 57.15
+	aluminum: 1.25	copper: 8.56	diamond: 5.54	gold: 9.16	iron: 0.97	plutonium: 15.53	uranium: 16.14
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+426: 57.02
+	aluminum: 1.25	copper: 8.54	diamond: 5.53	gold: 9.14	iron: 0.97	plutonium: 15.49	uranium: 16.10
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+427: 56.88
+	aluminum: 1.24	copper: 8.52	diamond: 5.52	gold: 9.12	iron: 0.96	plutonium: 15.46	uranium: 16.06
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+428: 56.75
+	aluminum: 1.24	copper: 8.50	diamond: 5.50	gold: 9.10	iron: 0.96	plutonium: 15.42	uranium: 16.03
+rounded:         2	           9	            6	         10	         1	              16	            17	61
+
+429: 56.62
+	aluminum: 1.24	copper: 8.48	diamond: 5.49	gold: 9.08	iron: 0.96	plutonium: 15.38	uranium: 15.99
+rounded:         2	           9	            6	         10	         1	              16	            16	60
+
+430: 56.49
+	aluminum: 1.23	copper: 8.46	diamond: 5.48	gold: 9.06	iron: 0.96	plutonium: 15.35	uranium: 15.95
+rounded:         2	           9	            6	         10	         1	              16	            16	60
+
+431: 56.36
+	aluminum: 1.23	copper: 8.44	diamond: 5.47	gold: 9.03	iron: 0.95	plutonium: 15.31	uranium: 15.91
+rounded:         2	           9	            6	         10	         1	              16	            16	60
+
+432: 56.22
+	aluminum: 1.23	copper: 8.42	diamond: 5.45	gold: 9.01	iron: 0.95	plutonium: 15.28	uranium: 15.88
+rounded:         2	           9	            6	         10	         1	              16	            16	60
+
+433: 56.09
+	aluminum: 1.23	copper: 8.40	diamond: 5.44	gold: 8.99	iron: 0.95	plutonium: 15.24	uranium: 15.84
+rounded:         2	           9	            6	         9	         1	              16	            16	59
+
+434: 55.97
+	aluminum: 1.22	copper: 8.38	diamond: 5.43	gold: 8.97	iron: 0.95	plutonium: 15.21	uranium: 15.80
+rounded:         2	           9	            6	         9	         1	              16	            16	59
+
+435: 55.84
+	aluminum: 1.22	copper: 8.36	diamond: 5.42	gold: 8.95	iron: 0.95	plutonium: 15.17	uranium: 15.77
+rounded:         2	           9	            6	         9	         1	              16	            16	59
+
+436: 55.71
+	aluminum: 1.22	copper: 8.34	diamond: 5.40	gold: 8.93	iron: 0.94	plutonium: 15.14	uranium: 15.73
+rounded:         2	           9	            6	         9	         1	              16	            16	59
+
+437: 55.58
+	aluminum: 1.22	copper: 8.32	diamond: 5.39	gold: 8.91	iron: 0.94	plutonium: 15.10	uranium: 15.70
+rounded:         2	           9	            6	         9	         1	              16	            16	59
+
+438: 55.45
+	aluminum: 1.21	copper: 8.30	diamond: 5.38	gold: 8.89	iron: 0.94	plutonium: 15.07	uranium: 15.66
+rounded:         2	           9	            6	         9	         1	              16	            16	59
+
+439: 55.33
+	aluminum: 1.21	copper: 8.29	diamond: 5.37	gold: 8.87	iron: 0.94	plutonium: 15.03	uranium: 15.62
+rounded:         2	           9	            6	         9	         1	              16	            16	59
+
+440: 55.20
+	aluminum: 1.21	copper: 8.27	diamond: 5.35	gold: 8.85	iron: 0.94	plutonium: 15.00	uranium: 15.59
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+441: 55.08
+	aluminum: 1.20	copper: 8.25	diamond: 5.34	gold: 8.83	iron: 0.93	plutonium: 14.97	uranium: 15.55
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+442: 54.95
+	aluminum: 1.20	copper: 8.23	diamond: 5.33	gold: 8.81	iron: 0.93	plutonium: 14.93	uranium: 15.52
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+443: 54.83
+	aluminum: 1.20	copper: 8.21	diamond: 5.32	gold: 8.79	iron: 0.93	plutonium: 14.90	uranium: 15.48
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+444: 54.71
+	aluminum: 1.20	copper: 8.19	diamond: 5.31	gold: 8.77	iron: 0.93	plutonium: 14.86	uranium: 15.45
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+445: 54.58
+	aluminum: 1.19	copper: 8.17	diamond: 5.29	gold: 8.75	iron: 0.92	plutonium: 14.83	uranium: 15.41
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+446: 54.46
+	aluminum: 1.19	copper: 8.16	diamond: 5.28	gold: 8.73	iron: 0.92	plutonium: 14.80	uranium: 15.38
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+447: 54.34
+	aluminum: 1.19	copper: 8.14	diamond: 5.27	gold: 8.71	iron: 0.92	plutonium: 14.77	uranium: 15.34
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+448: 54.22
+	aluminum: 1.19	copper: 8.12	diamond: 5.26	gold: 8.69	iron: 0.92	plutonium: 14.73	uranium: 15.31
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+449: 54.10
+	aluminum: 1.18	copper: 8.10	diamond: 5.25	gold: 8.67	iron: 0.92	plutonium: 14.70	uranium: 15.28
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+450: 53.98
+	aluminum: 1.18	copper: 8.08	diamond: 5.24	gold: 8.65	iron: 0.91	plutonium: 14.67	uranium: 15.24
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+451: 53.86
+	aluminum: 1.18	copper: 8.07	diamond: 5.22	gold: 8.63	iron: 0.91	plutonium: 14.63	uranium: 15.21
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+452: 53.74
+	aluminum: 1.17	copper: 8.05	diamond: 5.21	gold: 8.62	iron: 0.91	plutonium: 14.60	uranium: 15.17
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+453: 53.62
+	aluminum: 1.17	copper: 8.03	diamond: 5.20	gold: 8.60	iron: 0.91	plutonium: 14.57	uranium: 15.14
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+454: 53.50
+	aluminum: 1.17	copper: 8.01	diamond: 5.19	gold: 8.58	iron: 0.91	plutonium: 14.54	uranium: 15.11
+rounded:         2	           9	            6	         9	         1	              15	            16	58
+
+455: 53.38
+	aluminum: 1.17	copper: 7.99	diamond: 5.18	gold: 8.56	iron: 0.90	plutonium: 14.51	uranium: 15.07
+rounded:         2	           8	            6	         9	         1	              15	            16	57
+
+456: 53.27
+	aluminum: 1.16	copper: 7.98	diamond: 5.17	gold: 8.54	iron: 0.90	plutonium: 14.47	uranium: 15.04
+rounded:         2	           8	            6	         9	         1	              15	            16	57
+
+457: 53.15
+	aluminum: 1.16	copper: 7.96	diamond: 5.16	gold: 8.52	iron: 0.90	plutonium: 14.44	uranium: 15.01
+rounded:         2	           8	            6	         9	         1	              15	            16	57
+
+458: 53.03
+	aluminum: 1.16	copper: 7.94	diamond: 5.14	gold: 8.50	iron: 0.90	plutonium: 14.41	uranium: 14.98
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+459: 52.92
+	aluminum: 1.16	copper: 7.92	diamond: 5.13	gold: 8.48	iron: 0.90	plutonium: 14.38	uranium: 14.94
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+460: 52.80
+	aluminum: 1.15	copper: 7.91	diamond: 5.12	gold: 8.47	iron: 0.89	plutonium: 14.35	uranium: 14.91
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+461: 52.69
+	aluminum: 1.15	copper: 7.89	diamond: 5.11	gold: 8.45	iron: 0.89	plutonium: 14.32	uranium: 14.88
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+462: 52.57
+	aluminum: 1.15	copper: 7.87	diamond: 5.10	gold: 8.43	iron: 0.89	plutonium: 14.29	uranium: 14.85
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+463: 52.46
+	aluminum: 1.15	copper: 7.86	diamond: 5.09	gold: 8.41	iron: 0.89	plutonium: 14.25	uranium: 14.81
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+464: 52.35
+	aluminum: 1.14	copper: 7.84	diamond: 5.08	gold: 8.39	iron: 0.89	plutonium: 14.22	uranium: 14.78
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+465: 52.23
+	aluminum: 1.14	copper: 7.82	diamond: 5.07	gold: 8.37	iron: 0.88	plutonium: 14.19	uranium: 14.75
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+466: 52.12
+	aluminum: 1.14	copper: 7.81	diamond: 5.06	gold: 8.36	iron: 0.88	plutonium: 14.16	uranium: 14.72
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+467: 52.01
+	aluminum: 1.14	copper: 7.79	diamond: 5.04	gold: 8.34	iron: 0.88	plutonium: 14.13	uranium: 14.69
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+468: 51.90
+	aluminum: 1.13	copper: 7.77	diamond: 5.03	gold: 8.32	iron: 0.88	plutonium: 14.10	uranium: 14.66
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+469: 51.79
+	aluminum: 1.13	copper: 7.76	diamond: 5.02	gold: 8.30	iron: 0.88	plutonium: 14.07	uranium: 14.62
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+470: 51.68
+	aluminum: 1.13	copper: 7.74	diamond: 5.01	gold: 8.29	iron: 0.88	plutonium: 14.04	uranium: 14.59
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+471: 51.57
+	aluminum: 1.13	copper: 7.72	diamond: 5.00	gold: 8.27	iron: 0.87	plutonium: 14.01	uranium: 14.56
+rounded:         2	           8	            6	         9	         1	              15	            15	56
+
+472: 51.46
+	aluminum: 1.12	copper: 7.71	diamond: 4.99	gold: 8.25	iron: 0.87	plutonium: 13.98	uranium: 14.53
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+473: 51.35
+	aluminum: 1.12	copper: 7.69	diamond: 4.98	gold: 8.23	iron: 0.87	plutonium: 13.95	uranium: 14.50
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+474: 51.24
+	aluminum: 1.12	copper: 7.67	diamond: 4.97	gold: 8.22	iron: 0.87	plutonium: 13.92	uranium: 14.47
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+475: 51.13
+	aluminum: 1.12	copper: 7.66	diamond: 4.96	gold: 8.20	iron: 0.87	plutonium: 13.89	uranium: 14.44
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+476: 51.03
+	aluminum: 1.12	copper: 7.64	diamond: 4.95	gold: 8.18	iron: 0.86	plutonium: 13.87	uranium: 14.41
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+477: 50.92
+	aluminum: 1.11	copper: 7.63	diamond: 4.94	gold: 8.16	iron: 0.86	plutonium: 13.84	uranium: 14.38
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+478: 50.81
+	aluminum: 1.11	copper: 7.61	diamond: 4.93	gold: 8.15	iron: 0.86	plutonium: 13.81	uranium: 14.35
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+479: 50.71
+	aluminum: 1.11	copper: 7.59	diamond: 4.92	gold: 8.13	iron: 0.86	plutonium: 13.78	uranium: 14.32
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+480: 50.60
+	aluminum: 1.11	copper: 7.58	diamond: 4.91	gold: 8.11	iron: 0.86	plutonium: 13.75	uranium: 14.29
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+481: 50.50
+	aluminum: 1.10	copper: 7.56	diamond: 4.90	gold: 8.10	iron: 0.86	plutonium: 13.72	uranium: 14.26
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+482: 50.39
+	aluminum: 1.10	copper: 7.55	diamond: 4.89	gold: 8.08	iron: 0.85	plutonium: 13.69	uranium: 14.23
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+483: 50.29
+	aluminum: 1.10	copper: 7.53	diamond: 4.88	gold: 8.06	iron: 0.85	plutonium: 13.66	uranium: 14.20
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+484: 50.18
+	aluminum: 1.10	copper: 7.52	diamond: 4.87	gold: 8.05	iron: 0.85	plutonium: 13.64	uranium: 14.17
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+485: 50.08
+	aluminum: 1.09	copper: 7.50	diamond: 4.86	gold: 8.03	iron: 0.85	plutonium: 13.61	uranium: 14.14
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+486: 49.98
+	aluminum: 1.09	copper: 7.48	diamond: 4.85	gold: 8.01	iron: 0.85	plutonium: 13.58	uranium: 14.11
+rounded:         2	           8	            5	         9	         1	              14	            15	54
+
+487: 49.87
+	aluminum: 1.09	copper: 7.47	diamond: 4.84	gold: 8.00	iron: 0.84	plutonium: 13.55	uranium: 14.08
+rounded:         2	           8	            5	         8	         1	              14	            15	53
+
+488: 49.77
+	aluminum: 1.09	copper: 7.45	diamond: 4.83	gold: 7.98	iron: 0.84	plutonium: 13.52	uranium: 14.06
+rounded:         2	           8	            5	         8	         1	              14	            15	53
+
+489: 49.67
+	aluminum: 1.09	copper: 7.44	diamond: 4.82	gold: 7.96	iron: 0.84	plutonium: 13.50	uranium: 14.03
+rounded:         2	           8	            5	         8	         1	              14	            15	53
+
+490: 49.57
+	aluminum: 1.08	copper: 7.42	diamond: 4.81	gold: 7.95	iron: 0.84	plutonium: 13.47	uranium: 14.00
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+491: 49.47
+	aluminum: 1.08	copper: 7.41	diamond: 4.80	gold: 7.93	iron: 0.84	plutonium: 13.44	uranium: 13.97
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+492: 49.37
+	aluminum: 1.08	copper: 7.39	diamond: 4.79	gold: 7.91	iron: 0.84	plutonium: 13.41	uranium: 13.94
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+493: 49.27
+	aluminum: 1.08	copper: 7.38	diamond: 4.78	gold: 7.90	iron: 0.83	plutonium: 13.39	uranium: 13.91
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+494: 49.17
+	aluminum: 1.07	copper: 7.36	diamond: 4.77	gold: 7.88	iron: 0.83	plutonium: 13.36	uranium: 13.88
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+495: 49.07
+	aluminum: 1.07	copper: 7.35	diamond: 4.76	gold: 7.87	iron: 0.83	plutonium: 13.33	uranium: 13.86
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+496: 48.97
+	aluminum: 1.07	copper: 7.33	diamond: 4.75	gold: 7.85	iron: 0.83	plutonium: 13.31	uranium: 13.83
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+497: 48.87
+	aluminum: 1.07	copper: 7.32	diamond: 4.74	gold: 7.84	iron: 0.83	plutonium: 13.28	uranium: 13.80
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+498: 48.77
+	aluminum: 1.07	copper: 7.30	diamond: 4.73	gold: 7.82	iron: 0.83	plutonium: 13.25	uranium: 13.77
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+499: 48.68
+	aluminum: 1.06	copper: 7.29	diamond: 4.72	gold: 7.80	iron: 0.82	plutonium: 13.23	uranium: 13.75
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+500: 48.58
+	aluminum: 1.06	copper: 7.28	diamond: 4.71	gold: 7.79	iron: 0.82	plutonium: 13.20	uranium: 13.72
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+501: 48.48
+	aluminum: 1.06	copper: 7.26	diamond: 4.70	gold: 7.77	iron: 0.82	plutonium: 13.17	uranium: 13.69
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+502: 48.38
+	aluminum: 1.06	copper: 7.25	diamond: 4.69	gold: 7.76	iron: 0.82	plutonium: 13.15	uranium: 13.66
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+503: 48.29
+	aluminum: 1.06	copper: 7.23	diamond: 4.68	gold: 7.74	iron: 0.82	plutonium: 13.12	uranium: 13.64
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+504: 48.19
+	aluminum: 1.05	copper: 7.22	diamond: 4.67	gold: 7.73	iron: 0.82	plutonium: 13.10	uranium: 13.61
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+505: 48.10
+	aluminum: 1.05	copper: 7.20	diamond: 4.67	gold: 7.71	iron: 0.81	plutonium: 13.07	uranium: 13.58
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+506: 48.00
+	aluminum: 1.05	copper: 7.19	diamond: 4.66	gold: 7.70	iron: 0.81	plutonium: 13.04	uranium: 13.56
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+507: 47.91
+	aluminum: 1.05	copper: 7.17	diamond: 4.65	gold: 7.68	iron: 0.81	plutonium: 13.02	uranium: 13.53
+rounded:         2	           8	            5	         8	         1	              14	            14	52
+
+508: 47.81
+	aluminum: 1.05	copper: 7.16	diamond: 4.64	gold: 7.67	iron: 0.81	plutonium: 12.99	uranium: 13.50
+rounded:         2	           8	            5	         8	         1	              13	            14	51
+
+509: 47.72
+	aluminum: 1.04	copper: 7.15	diamond: 4.63	gold: 7.65	iron: 0.81	plutonium: 12.97	uranium: 13.48
+rounded:         2	           8	            5	         8	         1	              13	            14	51
+
+510: 47.63
+	aluminum: 1.04	copper: 7.13	diamond: 4.62	gold: 7.64	iron: 0.81	plutonium: 12.94	uranium: 13.45
+rounded:         2	           8	            5	         8	         1	              13	            14	51
+
+511: 47.53
+	aluminum: 1.04	copper: 7.12	diamond: 4.61	gold: 7.62	iron: 0.81	plutonium: 12.92	uranium: 13.42
+rounded:         2	           8	            5	         8	         1	              13	            14	51
+
+512: 47.44
+	aluminum: 1.04	copper: 7.10	diamond: 4.60	gold: 7.61	iron: 0.80	plutonium: 12.89	uranium: 13.40
+rounded:         2	           8	            5	         8	         1	              13	            14	51
+
+513: 47.35
+	aluminum: 1.04	copper: 7.09	diamond: 4.59	gold: 7.59	iron: 0.80	plutonium: 12.87	uranium: 13.37
+rounded:         2	           8	            5	         8	         1	              13	            14	51
+
+514: 47.25
+	aluminum: 1.03	copper: 7.08	diamond: 4.58	gold: 7.58	iron: 0.80	plutonium: 12.84	uranium: 13.34
+rounded:         2	           8	            5	         8	         1	              13	            14	51
+
+515: 47.16
+	aluminum: 1.03	copper: 7.06	diamond: 4.57	gold: 7.56	iron: 0.80	plutonium: 12.82	uranium: 13.32
+rounded:         2	           8	            5	         8	         1	              13	            14	51
+
+516: 47.07
+	aluminum: 1.03	copper: 7.05	diamond: 4.57	gold: 7.55	iron: 0.80	plutonium: 12.79	uranium: 13.29
+rounded:         2	           8	            5	         8	         1	              13	            14	51
+
+517: 46.98
+	aluminum: 1.03	copper: 7.04	diamond: 4.56	gold: 7.53	iron: 0.80	plutonium: 12.77	uranium: 13.27
+rounded:         2	           8	            5	         8	         1	              13	            14	51
+
+518: 46.89
+	aluminum: 1.03	copper: 7.02	diamond: 4.55	gold: 7.52	iron: 0.79	plutonium: 12.74	uranium: 13.24
+rounded:         2	           8	            5	         8	         1	              13	            14	51
+
+519: 46.80
+	aluminum: 1.02	copper: 7.01	diamond: 4.54	gold: 7.50	iron: 0.79	plutonium: 12.72	uranium: 13.22
+rounded:         2	           8	            5	         8	         1	              13	            14	51
+
+520: 46.71
+	aluminum: 1.02	copper: 7.00	diamond: 4.53	gold: 7.49	iron: 0.79	plutonium: 12.69	uranium: 13.19
+rounded:         2	           7	            5	         8	         1	              13	            14	50
+
+521: 46.62
+	aluminum: 1.02	copper: 6.98	diamond: 4.52	gold: 7.47	iron: 0.79	plutonium: 12.67	uranium: 13.17
+rounded:         2	           7	            5	         8	         1	              13	            14	50
+
+522: 46.53
+	aluminum: 1.02	copper: 6.97	diamond: 4.51	gold: 7.46	iron: 0.79	plutonium: 12.64	uranium: 13.14
+rounded:         2	           7	            5	         8	         1	              13	            14	50
+
+523: 46.44
+	aluminum: 1.02	copper: 6.96	diamond: 4.50	gold: 7.45	iron: 0.79	plutonium: 12.62	uranium: 13.11
+rounded:         2	           7	            5	         8	         1	              13	            14	50
+
+524: 46.35
+	aluminum: 1.01	copper: 6.94	diamond: 4.50	gold: 7.43	iron: 0.79	plutonium: 12.60	uranium: 13.09
+rounded:         2	           7	            5	         8	         1	              13	            14	50
+
+525: 46.26
+	aluminum: 1.01	copper: 6.93	diamond: 4.49	gold: 7.42	iron: 0.78	plutonium: 12.57	uranium: 13.06
+rounded:         2	           7	            5	         8	         1	              13	            14	50
+
+526: 46.18
+	aluminum: 1.01	copper: 6.92	diamond: 4.48	gold: 7.40	iron: 0.78	plutonium: 12.55	uranium: 13.04
+rounded:         2	           7	            5	         8	         1	              13	            14	50
+
+527: 46.09
+	aluminum: 1.01	copper: 6.90	diamond: 4.47	gold: 7.39	iron: 0.78	plutonium: 12.52	uranium: 13.02
+rounded:         2	           7	            5	         8	         1	              13	            14	50
+
+528: 46.00
+	aluminum: 1.01	copper: 6.89	diamond: 4.46	gold: 7.38	iron: 0.78	plutonium: 12.50	uranium: 12.99
+rounded:         2	           7	            5	         8	         1	              13	            13	49
+
+529: 45.92
+	aluminum: 1.00	copper: 6.88	diamond: 4.45	gold: 7.36	iron: 0.78	plutonium: 12.48	uranium: 12.97
+rounded:         2	           7	            5	         8	         1	              13	            13	49
+
+530: 45.83
+	aluminum: 1.00	copper: 6.86	diamond: 4.45	gold: 7.35	iron: 0.78	plutonium: 12.45	uranium: 12.94
+rounded:         2	           7	            5	         8	         1	              13	            13	49
+
+531: 45.74
+	aluminum: 1.00	copper: 6.85	diamond: 4.44	gold: 7.33	iron: 0.77	plutonium: 12.43	uranium: 12.92
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+532: 45.66
+	aluminum: 1.00	copper: 6.84	diamond: 4.43	gold: 7.32	iron: 0.77	plutonium: 12.41	uranium: 12.89
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+533: 45.57
+	aluminum: 1.00	copper: 6.82	diamond: 4.42	gold: 7.31	iron: 0.77	plutonium: 12.38	uranium: 12.87
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+534: 45.49
+	aluminum: 0.99	copper: 6.81	diamond: 4.41	gold: 7.29	iron: 0.77	plutonium: 12.36	uranium: 12.84
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+535: 45.40
+	aluminum: 0.99	copper: 6.80	diamond: 4.40	gold: 7.28	iron: 0.77	plutonium: 12.34	uranium: 12.82
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+536: 45.32
+	aluminum: 0.99	copper: 6.79	diamond: 4.40	gold: 7.26	iron: 0.77	plutonium: 12.31	uranium: 12.80
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+537: 45.23
+	aluminum: 0.99	copper: 6.77	diamond: 4.39	gold: 7.25	iron: 0.77	plutonium: 12.29	uranium: 12.77
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+538: 45.15
+	aluminum: 0.99	copper: 6.76	diamond: 4.38	gold: 7.24	iron: 0.76	plutonium: 12.27	uranium: 12.75
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+539: 45.06
+	aluminum: 0.99	copper: 6.75	diamond: 4.37	gold: 7.22	iron: 0.76	plutonium: 12.24	uranium: 12.73
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+540: 44.98
+	aluminum: 0.98	copper: 6.74	diamond: 4.36	gold: 7.21	iron: 0.76	plutonium: 12.22	uranium: 12.70
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+541: 44.90
+	aluminum: 0.98	copper: 6.72	diamond: 4.35	gold: 7.20	iron: 0.76	plutonium: 12.20	uranium: 12.68
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+542: 44.81
+	aluminum: 0.98	copper: 6.71	diamond: 4.35	gold: 7.18	iron: 0.76	plutonium: 12.18	uranium: 12.66
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+543: 44.73
+	aluminum: 0.98	copper: 6.70	diamond: 4.34	gold: 7.17	iron: 0.76	plutonium: 12.15	uranium: 12.63
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+544: 44.65
+	aluminum: 0.98	copper: 6.69	diamond: 4.33	gold: 7.16	iron: 0.76	plutonium: 12.13	uranium: 12.61
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+545: 44.57
+	aluminum: 0.97	copper: 6.67	diamond: 4.32	gold: 7.14	iron: 0.76	plutonium: 12.11	uranium: 12.59
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+546: 44.49
+	aluminum: 0.97	copper: 6.66	diamond: 4.32	gold: 7.13	iron: 0.75	plutonium: 12.09	uranium: 12.56
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+547: 44.40
+	aluminum: 0.97	copper: 6.65	diamond: 4.31	gold: 7.12	iron: 0.75	plutonium: 12.07	uranium: 12.54
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+548: 44.32
+	aluminum: 0.97	copper: 6.64	diamond: 4.30	gold: 7.11	iron: 0.75	plutonium: 12.04	uranium: 12.52
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+549: 44.24
+	aluminum: 0.97	copper: 6.63	diamond: 4.29	gold: 7.09	iron: 0.75	plutonium: 12.02	uranium: 12.49
+rounded:         1	           7	            5	         8	         1	              13	            13	48
+
+550: 44.16
+	aluminum: 0.97	copper: 6.61	diamond: 4.28	gold: 7.08	iron: 0.75	plutonium: 12.00	uranium: 12.47
+rounded:         1	           7	            5	         8	         1	              12	            13	47
+
+551: 44.08
+	aluminum: 0.96	copper: 6.60	diamond: 4.28	gold: 7.07	iron: 0.75	plutonium: 11.98	uranium: 12.45
+rounded:         1	           7	            5	         8	         1	              12	            13	47
+
+552: 44.00
+	aluminum: 0.96	copper: 6.59	diamond: 4.27	gold: 7.05	iron: 0.75	plutonium: 11.96	uranium: 12.43
+rounded:         1	           7	            5	         8	         1	              12	            13	47
+
+553: 43.92
+	aluminum: 0.96	copper: 6.58	diamond: 4.26	gold: 7.04	iron: 0.74	plutonium: 11.93	uranium: 12.40
+rounded:         1	           7	            5	         8	         1	              12	            13	47
+
+554: 43.84
+	aluminum: 0.96	copper: 6.57	diamond: 4.25	gold: 7.03	iron: 0.74	plutonium: 11.91	uranium: 12.38
+rounded:         1	           7	            5	         8	         1	              12	            13	47
+
+555: 43.76
+	aluminum: 0.96	copper: 6.55	diamond: 4.25	gold: 7.02	iron: 0.74	plutonium: 11.89	uranium: 12.36
+rounded:         1	           7	            5	         8	         1	              12	            13	47
+
+556: 43.69
+	aluminum: 0.96	copper: 6.54	diamond: 4.24	gold: 7.00	iron: 0.74	plutonium: 11.87	uranium: 12.34
+rounded:         1	           7	            5	         8	         1	              12	            13	47
+
+557: 43.61
+	aluminum: 0.95	copper: 6.53	diamond: 4.23	gold: 6.99	iron: 0.74	plutonium: 11.85	uranium: 12.31
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+558: 43.53
+	aluminum: 0.95	copper: 6.52	diamond: 4.22	gold: 6.98	iron: 0.74	plutonium: 11.83	uranium: 12.29
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+559: 43.45
+	aluminum: 0.95	copper: 6.51	diamond: 4.21	gold: 6.97	iron: 0.74	plutonium: 11.81	uranium: 12.27
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+560: 43.37
+	aluminum: 0.95	copper: 6.50	diamond: 4.21	gold: 6.95	iron: 0.73	plutonium: 11.79	uranium: 12.25
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+561: 43.30
+	aluminum: 0.95	copper: 6.48	diamond: 4.20	gold: 6.94	iron: 0.73	plutonium: 11.76	uranium: 12.23
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+562: 43.22
+	aluminum: 0.94	copper: 6.47	diamond: 4.19	gold: 6.93	iron: 0.73	plutonium: 11.74	uranium: 12.20
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+563: 43.14
+	aluminum: 0.94	copper: 6.46	diamond: 4.18	gold: 6.92	iron: 0.73	plutonium: 11.72	uranium: 12.18
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+564: 43.07
+	aluminum: 0.94	copper: 6.45	diamond: 4.18	gold: 6.90	iron: 0.73	plutonium: 11.70	uranium: 12.16
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+565: 42.99
+	aluminum: 0.94	copper: 6.44	diamond: 4.17	gold: 6.89	iron: 0.73	plutonium: 11.68	uranium: 12.14
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+566: 42.91
+	aluminum: 0.94	copper: 6.43	diamond: 4.16	gold: 6.88	iron: 0.73	plutonium: 11.66	uranium: 12.12
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+567: 42.84
+	aluminum: 0.94	copper: 6.42	diamond: 4.16	gold: 6.87	iron: 0.73	plutonium: 11.64	uranium: 12.10
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+568: 42.76
+	aluminum: 0.93	copper: 6.40	diamond: 4.15	gold: 6.86	iron: 0.72	plutonium: 11.62	uranium: 12.08
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+569: 42.69
+	aluminum: 0.93	copper: 6.39	diamond: 4.14	gold: 6.84	iron: 0.72	plutonium: 11.60	uranium: 12.05
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+570: 42.61
+	aluminum: 0.93	copper: 6.38	diamond: 4.13	gold: 6.83	iron: 0.72	plutonium: 11.58	uranium: 12.03
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+571: 42.54
+	aluminum: 0.93	copper: 6.37	diamond: 4.13	gold: 6.82	iron: 0.72	plutonium: 11.56	uranium: 12.01
+rounded:         1	           7	            5	         7	         1	              12	            13	46
+
+572: 42.46
+	aluminum: 0.93	copper: 6.36	diamond: 4.12	gold: 6.81	iron: 0.72	plutonium: 11.54	uranium: 11.99
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+573: 42.39
+	aluminum: 0.93	copper: 6.35	diamond: 4.11	gold: 6.80	iron: 0.72	plutonium: 11.52	uranium: 11.97
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+574: 42.32
+	aluminum: 0.93	copper: 6.34	diamond: 4.10	gold: 6.78	iron: 0.72	plutonium: 11.50	uranium: 11.95
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+575: 42.24
+	aluminum: 0.92	copper: 6.33	diamond: 4.10	gold: 6.77	iron: 0.72	plutonium: 11.48	uranium: 11.93
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+576: 42.17
+	aluminum: 0.92	copper: 6.32	diamond: 4.09	gold: 6.76	iron: 0.71	plutonium: 11.46	uranium: 11.91
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+577: 42.10
+	aluminum: 0.92	copper: 6.30	diamond: 4.08	gold: 6.75	iron: 0.71	plutonium: 11.44	uranium: 11.89
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+578: 42.02
+	aluminum: 0.92	copper: 6.29	diamond: 4.08	gold: 6.74	iron: 0.71	plutonium: 11.42	uranium: 11.87
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+579: 41.95
+	aluminum: 0.92	copper: 6.28	diamond: 4.07	gold: 6.73	iron: 0.71	plutonium: 11.40	uranium: 11.85
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+580: 41.88
+	aluminum: 0.92	copper: 6.27	diamond: 4.06	gold: 6.71	iron: 0.71	plutonium: 11.38	uranium: 11.83
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+581: 41.81
+	aluminum: 0.91	copper: 6.26	diamond: 4.06	gold: 6.70	iron: 0.71	plutonium: 11.36	uranium: 11.81
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+582: 41.73
+	aluminum: 0.91	copper: 6.25	diamond: 4.05	gold: 6.69	iron: 0.71	plutonium: 11.34	uranium: 11.79
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+583: 41.66
+	aluminum: 0.91	copper: 6.24	diamond: 4.04	gold: 6.68	iron: 0.71	plutonium: 11.32	uranium: 11.77
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+584: 41.59
+	aluminum: 0.91	copper: 6.23	diamond: 4.03	gold: 6.67	iron: 0.70	plutonium: 11.30	uranium: 11.74
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+585: 41.52
+	aluminum: 0.91	copper: 6.22	diamond: 4.03	gold: 6.66	iron: 0.70	plutonium: 11.28	uranium: 11.72
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+586: 41.45
+	aluminum: 0.91	copper: 6.21	diamond: 4.02	gold: 6.65	iron: 0.70	plutonium: 11.26	uranium: 11.70
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+587: 41.38
+	aluminum: 0.90	copper: 6.20	diamond: 4.01	gold: 6.63	iron: 0.70	plutonium: 11.24	uranium: 11.68
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+588: 41.31
+	aluminum: 0.90	copper: 6.19	diamond: 4.01	gold: 6.62	iron: 0.70	plutonium: 11.22	uranium: 11.67
+rounded:         1	           7	            5	         7	         1	              12	            12	45
+
+589: 41.24
+	aluminum: 0.90	copper: 6.18	diamond: 4.00	gold: 6.61	iron: 0.70	plutonium: 11.21	uranium: 11.65
+rounded:         1	           7	            4	         7	         1	              12	            12	44
+
+590: 41.17
+	aluminum: 0.90	copper: 6.17	diamond: 3.99	gold: 6.60	iron: 0.70	plutonium: 11.19	uranium: 11.63
+rounded:         1	           7	            4	         7	         1	              12	            12	44
+
+591: 41.10
+	aluminum: 0.90	copper: 6.15	diamond: 3.99	gold: 6.59	iron: 0.70	plutonium: 11.17	uranium: 11.61
+rounded:         1	           7	            4	         7	         1	              12	            12	44
+
+592: 41.03
+	aluminum: 0.90	copper: 6.14	diamond: 3.98	gold: 6.58	iron: 0.70	plutonium: 11.15	uranium: 11.59
+rounded:         1	           7	            4	         7	         1	              12	            12	44
+
+593: 40.96
+	aluminum: 0.90	copper: 6.13	diamond: 3.97	gold: 6.57	iron: 0.69	plutonium: 11.13	uranium: 11.57
+rounded:         1	           7	            4	         7	         1	              12	            12	44
+
+594: 40.89
+	aluminum: 0.89	copper: 6.12	diamond: 3.97	gold: 6.56	iron: 0.69	plutonium: 11.11	uranium: 11.55
+rounded:         1	           7	            4	         7	         1	              12	            12	44
+
+595: 40.82
+	aluminum: 0.89	copper: 6.11	diamond: 3.96	gold: 6.54	iron: 0.69	plutonium: 11.09	uranium: 11.53
+rounded:         1	           7	            4	         7	         1	              12	            12	44
+
+596: 40.75
+	aluminum: 0.89	copper: 6.10	diamond: 3.95	gold: 6.53	iron: 0.69	plutonium: 11.07	uranium: 11.51
+rounded:         1	           7	            4	         7	         1	              12	            12	44
+
+597: 40.69
+	aluminum: 0.89	copper: 6.09	diamond: 3.95	gold: 6.52	iron: 0.69	plutonium: 11.06	uranium: 11.49
+rounded:         1	           7	            4	         7	         1	              12	            12	44
+
+598: 40.62
+	aluminum: 0.89	copper: 6.08	diamond: 3.94	gold: 6.51	iron: 0.69	plutonium: 11.04	uranium: 11.47
+rounded:         1	           7	            4	         7	         1	              12	            12	44
+
+599: 40.55
+	aluminum: 0.89	copper: 6.07	diamond: 3.93	gold: 6.50	iron: 0.69	plutonium: 11.02	uranium: 11.45
+rounded:         1	           7	            4	         7	         1	              12	            12	44
+
+600: 40.48
+	aluminum: 0.89	copper: 6.06	diamond: 3.93	gold: 6.49	iron: 0.69	plutonium: 11.00	uranium: 11.43
+rounded:         1	           7	            4	         7	         1	              11	            12	43
+

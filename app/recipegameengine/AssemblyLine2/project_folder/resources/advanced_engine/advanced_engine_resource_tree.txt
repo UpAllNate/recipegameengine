@@ -1,0 +1,10 @@
+[advanced_engine]   , flat ingredient count:   0 ... depth: 3
+	engine ... 5.00
+		iron_gear ... 1.00
+			iron ... 1.00
+		iron ... 1.00
+	circuit ... 5.00
+		copper_wire ... 1.00
+			copper ... 1.00
+		gold ... 1.00
+	diamond ... 10.00

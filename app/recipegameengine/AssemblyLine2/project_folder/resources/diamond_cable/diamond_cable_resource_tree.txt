@@ -1,0 +1,3 @@
+[diamond_cable]     , flat ingredient count:   0 ... depth: 2
+	diamond_wire ... 3.00
+		diamond ... 1.00

@@ -1,0 +1,3 @@
+[iron_cable]        , flat ingredient count:   0 ... depth: 2
+	iron_wire ... 3.00
+		iron ... 1.00

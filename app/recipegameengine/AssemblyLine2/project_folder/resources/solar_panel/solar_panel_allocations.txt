@@ -1,0 +1,29 @@
+[circuit] 1 total, 1 resources
+	solar_panel              ...     1...100.00%
+
+[electric_board] 2 total, 1 resources
+	solar_panel              ...     2...100.00%
+
+[solar_cell] 2 total, 1 resources
+	solar_panel              ...     2...100.00%
+
+[copper_wire] 3 total, 2 resources
+	circuit                  ...     1... 33.33%
+	electric_board           ...     2... 66.67%
+
+[diamond_liquid] 2 total, 1 resources
+	solar_cell               ...     2...100.00%
+
+[aluminum] 2 total, 1 resources
+	electric_board           ...     2...100.00%
+
+[copper] 3 total, 1 resources
+	copper_wire              ...     3...100.00%
+
+[diamond] 2 total, 1 resources
+	diamond_liquid           ...     2...100.00%
+
+[gold] 3 total, 2 resources
+	circuit                  ...     1... 33.33%
+	solar_cell               ...     2... 66.67%
+

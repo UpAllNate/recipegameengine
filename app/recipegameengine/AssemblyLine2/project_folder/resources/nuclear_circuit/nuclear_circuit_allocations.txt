@@ -1,0 +1,145 @@
+[plutonium_circuit] 2 total, 1 resources
+	nuclear_circuit          ...     2...100.00%
+
+[processor] 3 total, 1 resources
+	nuclear_circuit          ...     3...100.00%
+
+[uranium_circuit] 2 total, 1 resources
+	nuclear_circuit          ...     2...100.00%
+
+[circuit] 48 total, 4 resources
+	plutonium_circuit        ...    20... 41.67%
+	nuclear_circuit          ...     5... 10.42%
+	processor                ...     3...  6.25%
+	uranium_circuit          ...    20... 41.67%
+
+__ RSD splits (10) __
+	< [5] nuclear_circuit      v40                processor [3] >
+	< [2] plutonium_circuit    v0           uranium_circuit [2] >
+
+__ RSD splits (2) __
+	< [1] nuclear_circuit      v46                processor [1] >
+	< [1] processor            v22     
+	< [1] plutonium_circuit    v9           nuclear_circuit [1] >
+	< [1] uranium_circuit      v8      
+	< [1] plutonium_circuit    v0           uranium_circuit [1] >
+
+__ straight split __
+	< [20] plutonium_circuit   v23          nuclear_circuit [5] >
+	< [3] processor            v0          uranium_circuit [20] >
+
+[gold_cable] 17 total, 3 resources
+	plutonium_circuit        ...     6... 35.29%
+	nuclear_circuit          ...     5... 29.41%
+	uranium_circuit          ...     6... 35.29%
+
+__ RSD splits (10) __
+	< [6] plutonium_circuit    v6           nuclear_circuit [5] >
+	< [6] uranium_circuit      v0      
+
+__ RSD splits (2) __
+	< [1] nuclear_circuit      v16     
+	< [1] plutonium_circuit    v6           uranium_circuit [1] >
+	< [1] plutonium_circuit    v1           nuclear_circuit [1] >
+	< [1] uranium_circuit      v0      
+
+__ straight split __
+	< [6] plutonium_circuit    v6           nuclear_circuit [5] >
+	< [6] uranium_circuit      v0      
+
+[copper_wire] 48 total, 1 resources
+	circuit                  ...    48...100.00%
+
+[diamond_wire] 49 total, 3 resources
+	plutonium_circuit        ...    20... 40.82%
+	processor                ...     9... 18.37%
+	uranium_circuit          ...    20... 40.82%
+
+__ RSD splits (10) __
+	< [9] processor            v40     
+	< [2] plutonium_circuit    v0           uranium_circuit [2] >
+
+__ RSD splits (2) __
+	< [1] processor            v48     
+	< [1] plutonium_circuit    v10          uranium_circuit [1] >
+	< [1] processor            v4      
+	< [1] plutonium_circuit    v0           uranium_circuit [1] >
+
+__ straight split __
+	< [20] plutonium_circuit   v20                processor [9] >
+	< [20] uranium_circuit     v0      
+
+[gold_liquid] 9 total, 1 resources
+	processor                ...     9...100.00%
+
+[gold_wire] 51 total, 1 resources
+	gold_cable               ...    51...100.00%
+
+[uranium_refined] 3 total, 3 resources
+	plutonium_circuit        ...     1... 33.33%
+	nuclear_circuit          ...     1... 33.33%
+	uranium_circuit          ...     1... 33.33%
+
+__ RSD splits (10) __
+	< [1] plutonium_circuit    v1           nuclear_circuit [1] >
+	< [1] uranium_circuit      v0      
+
+__ RSD splits (2) __
+	< [1] plutonium_circuit    v1           nuclear_circuit [1] >
+	< [1] uranium_circuit      v0      
+
+__ straight split __
+	< [1] plutonium_circuit    v1           nuclear_circuit [1] >
+	< [1] uranium_circuit      v0      
+
+[copper] 88 total, 3 resources
+	plutonium_circuit        ...    20... 22.73%
+	uranium_circuit          ...    20... 22.73%
+	copper_wire              ...    48... 54.55%
+
+__ RSD splits (10) __
+	< [8] copper_wire          v80     
+	< [2] plutonium_circuit    v4           uranium_circuit [2] >
+	< [4] copper_wire          v0      
+
+__ RSD splits (2) __
+	< [1] plutonium_circuit    v20          uranium_circuit [1] >
+	< [1] plutonium_circuit    v3           uranium_circuit [1] >
+	< [1] copper_wire          v2      
+	< [1] copper_wire          v0      
+
+__ straight split __
+	< [20] plutonium_circuit   v48         uranium_circuit [20] >
+	< [48] copper_wire         v0      
+
+[diamond] 49 total, 1 resources
+	diamond_wire             ...    49...100.00%
+
+[gold] 108 total, 3 resources
+	circuit                  ...    48... 44.44%
+	gold_liquid              ...     9...  8.33%
+	gold_wire                ...    51... 47.22%
+
+__ RSD splits (10) __
+	< [8] circuit              v91              gold_liquid [9] >
+	< [1] gold_wire            v90     
+	< [4] circuit              v0                 gold_wire [5] >
+
+__ RSD splits (2) __
+	< [1] gold_liquid          v106               gold_wire [1] >
+	< [1] gold_wire            v52     
+	< [1] gold_liquid          v12     
+	< [1] circuit              v4                 gold_wire [1] >
+	< [1] circuit              v0                 gold_wire [1] >
+
+__ straight split __
+	< [48] circuit             v51              gold_liquid [9] >
+	< [51] gold_wire           v0      
+
+[plutonium] 20 total, 1 resources
+	plutonium_circuit        ...    20...100.00%
+
+[uranium] 21 total, 2 resources
+	uranium_circuit          ...    20... 95.24%
+	uranium_refined          ...     1...  4.76%
+

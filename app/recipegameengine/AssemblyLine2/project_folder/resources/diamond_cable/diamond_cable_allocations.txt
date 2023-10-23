@@ -1,0 +1,6 @@
+[diamond_wire] 3 total, 1 resources
+	diamond_cable            ...     3...100.00%
+
+[diamond] 3 total, 1 resources
+	diamond_wire             ...     3...100.00%
+

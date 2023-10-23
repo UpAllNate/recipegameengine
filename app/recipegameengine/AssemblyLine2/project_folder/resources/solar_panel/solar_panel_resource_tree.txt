@@ -1,0 +1,13 @@
+[solar_panel]       , flat ingredient count:   0 ... depth: 3
+	solar_cell ... 2.00
+		diamond_liquid ... 1.00
+			diamond ... 1.00
+		gold ... 1.00
+	circuit ... 1.00
+		copper_wire ... 1.00
+			copper ... 1.00
+		gold ... 1.00
+	electric_board ... 2.00
+		copper_wire ... 1.00
+			copper ... 1.00
+		aluminum ... 1.00

@@ -1,0 +1,609 @@
+[ignition_system] 5 total, 1 resources
+	atomic_bomb              ...     5...100.00%
+
+[nuclear_processor] 2 total, 1 resources
+	atomic_bomb              ...     2...100.00%
+
+[AI_processor] 14 total, 2 resources
+	ignition_system          ...    10... 71.43%
+	nuclear_processor        ...     4... 28.57%
+
+[nuclear_core] 2 total, 1 resources
+	atomic_bomb              ...     2...100.00%
+
+[super_computer] 14 total, 1 resources
+	AI_processor             ...    14...100.00%
+
+[computer] 28 total, 1 resources
+	super_computer           ...    28...100.00%
+
+[nuclear_cell] 11 total, 2 resources
+	atomic_bomb              ...     5... 45.45%
+	nuclear_core             ...     6... 54.55%
+
+[nuclear_circuit] 6 total, 1 resources
+	nuclear_processor        ...     6...100.00%
+
+[explosive] 25 total, 1 resources
+	ignition_system          ...    25...100.00%
+
+[fan] 28 total, 1 resources
+	computer                 ...    28...100.00%
+
+[plutonium_cell] 32 total, 2 resources
+	nuclear_core             ...    10... 31.25%
+	nuclear_cell             ...    22... 68.75%
+
+[plutonium_circuit] 22 total, 2 resources
+	nuclear_processor        ...    10... 45.45%
+	nuclear_circuit          ...    12... 54.55%
+
+[power_supply] 28 total, 1 resources
+	computer                 ...    28...100.00%
+
+[processor] 76 total, 4 resources
+	nuclear_processor        ...    10... 13.16%
+	nuclear_core             ...    20... 26.32%
+	computer                 ...    28... 36.84%
+	nuclear_circuit          ...    18... 23.68%
+
+__ RSD splits (10) __
+	< [8] computer             v60          nuclear_circuit [8] >
+	< [1] nuclear_processor    v3              nuclear_core [2] >
+	< [2] computer             v0           nuclear_circuit [1] >
+
+__ RSD splits (2) __
+	< [1] nuclear_processor    v36          nuclear_circuit [1] >
+	< [1] nuclear_core         v16                 computer [1] >
+	< [1] nuclear_processor    v6                  computer [1] >
+	< [1] nuclear_core         v1                  computer [1] >
+	< [1] nuclear_circuit      v0      
+
+__ straight split __
+	< [10] nuclear_processor   v46            nuclear_core [20] >
+	< [28] computer            v0          nuclear_circuit [18] >
+
+[trigger] 10 total, 1 resources
+	ignition_system          ...    10...100.00%
+
+[uranium_cell] 32 total, 2 resources
+	nuclear_core             ...    10... 31.25%
+	nuclear_cell             ...    22... 68.75%
+
+[uranium_circuit] 22 total, 2 resources
+	nuclear_processor        ...    10... 45.45%
+	nuclear_circuit          ...    12... 54.55%
+
+[battery] 25 total, 1 resources
+	ignition_system          ...    25...100.00%
+
+[circuit] 959 total, 10 resources
+	AI_processor             ...   140... 14.60%
+	super_computer           ...    42...  4.38%
+	nuclear_circuit          ...    30...  3.13%
+	explosive                ...   125... 13.03%
+	fan                      ...    28...  2.92%
+	plutonium_circuit        ...   220... 22.94%
+	power_supply             ...    28...  2.92%
+	processor                ...    76...  7.92%
+	trigger                  ...    50...  5.21%
+	uranium_circuit          ...   220... 22.94%
+
+__ RSD splits (10) __
+	< [2] super_computer       v952               explosive [5] >
+	< [8] fan                  v936            power_supply [8] >
+	< [6] processor            v930    
+	< [4] AI_processor         v85           super_computer [4] >
+	< [3] nuclear_circuit      v80                explosive [2] >
+	< [2] fan                  v76        plutonium_circuit [2] >
+	< [2] power_supply         v67                processor [7] >
+	< [5] trigger              v60          uranium_circuit [2] >
+	< [1] AI_processor         v4                 explosive [1] >
+	< [2] plutonium_circuit    v0           uranium_circuit [2] >
+
+__ RSD splits (2) __
+	< [1] explosive            v958    
+	< [1] super_computer       v477         nuclear_circuit [1] >
+	< [1] trigger              v476    
+	< [1] AI_processor         v236         nuclear_circuit [1] >
+	< [1] explosive            v234                     fan [1] >
+	< [1] plutonium_circuit    v232            power_supply [1] >
+	< [1] processor            v230         uranium_circuit [1] >
+	< [1] AI_processor         v113          super_computer [1] >
+	< [1] nuclear_circuit      v111               explosive [1] >
+	< [1] fan                  v109       plutonium_circuit [1] >
+	< [1] power_supply         v107               processor [1] >
+	< [1] uranium_circuit      v106    
+	< [1] nuclear_circuit      v51                explosive [1] >
+	< [1] fan                  v49        plutonium_circuit [1] >
+	< [1] power_supply         v47                  trigger [1] >
+	< [1] uranium_circuit      v46     
+	< [1] super_computer       v21                explosive [1] >
+	< [1] trigger              v20     
+	< [1] explosive            v8         plutonium_circuit [1] >
+	< [1] processor            v6           uranium_circuit [1] >
+	< [1] AI_processor         v1         plutonium_circuit [1] >
+	< [1] uranium_circuit      v0      
+
+__ straight split __
+	< [140] AI_processor       v777         super_computer [42] >
+	< [30] nuclear_circuit     v622             explosive [125] >
+	< [28] fan                 v374     plutonium_circuit [220] >
+	< [28] power_supply        v270              processor [76] >
+	< [50] trigger             v0         uranium_circuit [220] >
+
+[copper_cable] 626 total, 4 resources
+	AI_processor             ...    56...  8.95%
+	explosive                ...   250... 39.94%
+	plutonium_cell           ...   160... 25.56%
+	uranium_cell             ...   160... 25.56%
+
+__ RSD splits (10) __
+	< [6] AI_processor         v620    
+	< [5] AI_processor         v52                explosive [5] >
+	< [6] plutonium_cell       v40             uranium_cell [6] >
+	< [2] explosive            v1            plutonium_cell [1] >
+	< [1] uranium_cell         v0      
+
+__ RSD splits (2) __
+	< [1] explosive            v312    
+	< [1] AI_processor         v76                explosive [1] >
+	< [1] AI_processor         v36                explosive [1] >
+	< [1] AI_processor         v16                explosive [1] >
+	< [1] plutonium_cell       v14             uranium_cell [1] >
+	< [1] explosive            v6      
+	< [1] explosive            v1            plutonium_cell [1] >
+	< [1] uranium_cell         v0      
+
+__ straight split __
+	< [56] AI_processor        v320             explosive [250] >
+	< [160] plutonium_cell     v0            uranium_cell [160] >
+
+[diamond_cable] 8 total, 1 resources
+	nuclear_core             ...     8...100.00%
+
+[electric_board] 105 total, 2 resources
+	nuclear_cell             ...    55... 52.38%
+	trigger                  ...    50... 47.62%
+
+[gold_cable] 532 total, 7 resources
+	nuclear_core             ...     8...  1.50%
+	super_computer           ...    42...  7.89%
+	nuclear_circuit          ...    30...  5.64%
+	plutonium_cell           ...   160... 30.08%
+	plutonium_circuit        ...    66... 12.41%
+	uranium_cell             ...   160... 30.08%
+	uranium_circuit          ...    66... 12.41%
+
+__ RSD splits (10) __
+	< [8] nuclear_core         v522          super_computer [2] >
+	< [6] plutonium_circuit    v510         uranium_circuit [6] >
+	< [4] super_computer       v44          nuclear_circuit [3] >
+	< [6] plutonium_cell       v32        plutonium_circuit [6] >
+	< [6] uranium_cell         v20          uranium_circuit [6] >
+	< [1] plutonium_cell       v0              uranium_cell [1] >
+
+__ RSD splits (2) __
+	< [1] super_computer       v264         nuclear_circuit [1] >
+	< [1] plutonium_circuit    v262         uranium_circuit [1] >
+	< [1] nuclear_circuit      v130    
+	< [1] nuclear_core         v63           super_computer [1] >
+	< [1] nuclear_circuit      v62     
+	< [1] nuclear_circuit      v30     
+	< [1] super_computer       v13           plutonium_cell [1] >
+	< [1] uranium_cell         v12     
+	< [1] plutonium_circuit    v4           uranium_circuit [1] >
+	< [1] plutonium_cell       v0              uranium_cell [1] >
+
+__ straight split __
+	< [8] nuclear_core         v482         super_computer [42] >
+	< [30] nuclear_circuit     v292        plutonium_cell [160] >
+	< [66] plutonium_circuit   v66           uranium_cell [160] >
+	< [66] uranium_circuit     v0      
+
+[heater_plate] 305 total, 2 resources
+	nuclear_cell             ...    55... 18.03%
+	explosive                ...   250... 81.97%
+
+[solar_cell] 695 total, 3 resources
+	nuclear_cell             ...    55...  7.91%
+	plutonium_cell           ...   320... 46.04%
+	uranium_cell             ...   320... 46.04%
+
+__ RSD splits (10) __
+	< [5] nuclear_cell         v690    
+	< [5] nuclear_cell         v62           plutonium_cell [2] >
+	< [2] uranium_cell         v60     
+	< [3] plutonium_cell       v0              uranium_cell [3] >
+
+__ RSD splits (2) __
+	< [1] nuclear_cell         v694    
+	< [1] nuclear_cell         v346    
+	< [1] nuclear_cell         v172    
+	< [1] nuclear_cell         v42     
+	< [1] nuclear_cell         v20     
+	< [1] plutonium_cell       v8              uranium_cell [1] >
+	< [1] plutonium_cell       v0              uranium_cell [1] >
+
+__ straight split __
+	< [55] nuclear_cell        v320        plutonium_cell [320] >
+	< [320] uranium_cell       v0      
+
+[aluminum_liquid] 84 total, 1 resources
+	power_supply             ...    84...100.00%
+
+[copper_liquid] 25 total, 1 resources
+	battery                  ...    25...100.00%
+
+[copper_plate] 84 total, 1 resources
+	AI_processor             ...    84...100.00%
+
+[copper_wire] 2942 total, 3 resources
+	circuit                  ...   959... 32.60%
+	copper_cable             ...  1878... 63.83%
+	electric_board           ...   105...  3.57%
+
+__ RSD splits (10) __
+	< [9] circuit              v2925           copper_cable [8] >
+	< [5] electric_board       v2920   
+	< [5] circuit              v280            copper_cable [7] >
+	< [9] circuit              v11             copper_cable [8] >
+	< [1] electric_board       v10     
+	< [1] copper_cable         v0      
+
+__ RSD splits (2) __
+	< [1] circuit              v2940         electric_board [1] >
+	< [1] circuit              v1468           copper_cable [1] >
+	< [1] circuit              v732            copper_cable [1] >
+	< [1] circuit              v364          electric_board [1] >
+	< [1] circuit              v180            copper_cable [1] >
+	< [1] circuit              v88           electric_board [1] >
+	< [1] copper_cable         v42           electric_board [1] >
+	< [1] circuit              v20     
+	< [1] circuit              v8              copper_cable [1] >
+	< [1] circuit              v2              copper_cable [1] >
+	< [1] copper_cable         v0      
+
+__ straight split __
+	< [959] circuit            v105         copper_cable [1878] >
+	< [105] electric_board     v0      
+
+[diamond_gear] 84 total, 1 resources
+	fan                      ...    84...100.00%
+
+[diamond_liquid] 1015 total, 3 resources
+	plutonium_cell           ...   160... 15.76%
+	uranium_cell             ...   160... 15.76%
+	solar_cell               ...   695... 68.47%
+
+__ RSD splits (10) __
+	< [5] solar_cell           v1010   
+	< [6] plutonium_cell       v89             uranium_cell [6] >
+	< [9] solar_cell           v80     
+	< [1] plutonium_cell       v6              uranium_cell [1] >
+	< [6] solar_cell           v0      
+
+__ RSD splits (2) __
+	< [1] solar_cell           v1014   
+	< [1] solar_cell           v506    
+	< [1] solar_cell           v252    
+	< [1] solar_cell           v62     
+	< [1] plutonium_cell       v29             uranium_cell [1] >
+	< [1] solar_cell           v28     
+	< [1] plutonium_cell       v5              uranium_cell [1] >
+	< [1] solar_cell           v4      
+	< [1] solar_cell           v0      
+
+__ straight split __
+	< [160] plutonium_cell     v695          uranium_cell [160] >
+	< [695] solar_cell         v0      
+
+[diamond_plate] 20 total, 1 resources
+	nuclear_processor        ...    20...100.00%
+
+[diamond_wire] 1042 total, 6 resources
+	explosive                ...   250... 23.99%
+	plutonium_circuit        ...   220... 21.11%
+	processor                ...   228... 21.88%
+	trigger                  ...   100...  9.60%
+	uranium_circuit          ...   220... 21.11%
+	diamond_cable            ...    24...  2.30%
+
+__ RSD splits (10) __
+	< [8] processor            v1030          diamond_cable [4] >
+	< [5] explosive            v96        plutonium_circuit [2] >
+	< [2] processor            v92          uranium_circuit [2] >
+	< [2] diamond_cable        v90     
+	< [2] explosive            v5         plutonium_circuit [2] >
+	< [2] processor            v2                   trigger [1] >
+	< [2] uranium_circuit      v0      
+
+__ RSD splits (2) __
+	< [1] explosive            v520    
+	< [1] plutonium_circuit    v258               processor [1] >
+	< [1] trigger              v256         uranium_circuit [1] >
+	< [1] explosive            v126       plutonium_circuit [1] >
+	< [1] uranium_circuit      v124           diamond_cable [1] >
+	< [1] explosive            v60        plutonium_circuit [1] >
+	< [1] uranium_circuit      v58            diamond_cable [1] >
+	< [1] explosive            v27                processor [1] >
+	< [1] trigger              v26     
+	< [1] explosive            v11        plutonium_circuit [1] >
+	< [1] processor            v9                   trigger [1] >
+	< [1] uranium_circuit      v8      
+	< [1] explosive            v2         plutonium_circuit [1] >
+	< [1] processor            v0           uranium_circuit [1] >
+
+__ straight split __
+	< [250] explosive          v572     plutonium_circuit [220] >
+	< [228] processor          v244               trigger [100] >
+	< [220] uranium_circuit    v0            diamond_cable [24] >
+
+[gold_liquid] 228 total, 1 resources
+	processor                ...   228...100.00%
+
+[gold_wire] 1596 total, 1 resources
+	gold_cable               ...  1596...100.00%
+
+[iron_wire] 305 total, 1 resources
+	heater_plate             ...   305...100.00%
+
+[server_rack] 14 total, 1 resources
+	super_computer           ...    14...100.00%
+
+[uranium_refined] 26 total, 9 resources
+	atomic_bomb              ...     1...  3.85%
+	nuclear_processor        ...     1...  3.85%
+	nuclear_core             ...     1...  3.85%
+	nuclear_cell             ...     2...  7.69%
+	nuclear_circuit          ...     1...  3.85%
+	plutonium_cell           ...     6... 23.08%
+	plutonium_circuit        ...     4... 15.38%
+	uranium_cell             ...     6... 23.08%
+	uranium_circuit          ...     4... 15.38%
+
+__ RSD splits (10) __
+	< [1] atomic_bomb          v24        nuclear_processor [1] >
+	< [1] nuclear_core         v21             nuclear_cell [2] >
+	< [1] nuclear_circuit      v14           plutonium_cell [6] >
+	< [4] plutonium_circuit    v4              uranium_cell [6] >
+	< [4] uranium_circuit      v0      
+
+__ RSD splits (2) __
+	< [1] atomic_bomb          v24        nuclear_processor [1] >
+	< [1] nuclear_core         v22          nuclear_circuit [1] >
+	< [1] nuclear_cell         v9            plutonium_cell [1] >
+	< [1] uranium_cell         v8      
+	< [1] plutonium_cell       v2         plutonium_circuit [1] >
+	< [1] uranium_cell         v0           uranium_circuit [1] >
+
+__ straight split __
+	< [1] atomic_bomb          v24        nuclear_processor [1] >
+	< [1] nuclear_core         v21             nuclear_cell [2] >
+	< [1] nuclear_circuit      v14           plutonium_cell [6] >
+	< [4] plutonium_circuit    v4              uranium_cell [6] >
+	< [4] uranium_circuit      v0      
+
+[aluminum] 676 total, 5 resources
+	fan                      ...   168... 24.85%
+	electric_board           ...   105... 15.53%
+	heater_plate             ...   305... 45.12%
+	aluminum_liquid          ...    84... 12.43%
+	server_rack              ...    14...  2.07%
+
+__ RSD splits (10) __
+	< [8] fan                  v663          electric_board [5] >
+	< [5] heater_plate         v654         aluminum_liquid [4] >
+	< [4] server_rack          v650    
+	< [6] fan                  v51          aluminum_liquid [8] >
+	< [1] server_rack          v50     
+	< [1] fan                  v3            electric_board [1] >
+	< [3] heater_plate         v0      
+
+__ RSD splits (2) __
+	< [1] electric_board       v674            heater_plate [1] >
+	< [1] server_rack          v336    
+	< [1] aluminum_liquid      v166             server_rack [1] >
+	< [1] fan                  v81           electric_board [1] >
+	< [1] server_rack          v80     
+	< [1] heater_plate         v38          aluminum_liquid [1] >
+	< [1] fan                  v17           electric_board [1] >
+	< [1] heater_plate         v16     
+	< [1] electric_board       v6           aluminum_liquid [1] >
+	< [1] fan                  v2      
+	< [1] heater_plate         v0      
+
+__ straight split __
+	< [168] fan                v403        electric_board [105] >
+	< [305] heater_plate       v14         aluminum_liquid [84] >
+	< [14] server_rack         v0      
+
+[copper] 3516 total, 6 resources
+	plutonium_circuit        ...   220...  6.26%
+	uranium_circuit          ...   220...  6.26%
+	battery                  ...    25...  0.71%
+	copper_liquid            ...    25...  0.71%
+	copper_plate             ...    84...  2.39%
+	copper_wire              ...  2942... 83.67%
+
+__ RSD splits (10) __
+	< [5] battery              v3506          copper_liquid [5] >
+	< [4] copper_plate         v3500            copper_wire [2] >
+	< [2] plutonium_circuit    v346         uranium_circuit [2] >
+	< [2] battery              v342           copper_liquid [2] >
+	< [8] copper_plate         v330             copper_wire [4] >
+	< [2] plutonium_circuit    v29          uranium_circuit [2] >
+	< [9] copper_wire          v20     
+	< [2] copper_wire          v0      
+
+__ RSD splits (2) __
+	< [1] battery              v3514          copper_liquid [1] >
+	< [1] copper_wire          v1756   
+	< [1] plutonium_circuit    v876         uranium_circuit [1] >
+	< [1] copper_plate         v874             copper_wire [1] >
+	< [1] plutonium_circuit    v435         uranium_circuit [1] >
+	< [1] battery              v433           copper_liquid [1] >
+	< [1] copper_wire          v432    
+	< [1] plutonium_circuit    v214         uranium_circuit [1] >
+	< [1] battery              v212           copper_liquid [1] >
+	< [1] copper_plate         v210             copper_wire [1] >
+	< [1] copper_wire          v104    
+	< [1] plutonium_circuit    v50          uranium_circuit [1] >
+	< [1] copper_plate         v48              copper_wire [1] >
+	< [1] plutonium_circuit    v22          uranium_circuit [1] >
+	< [1] copper_wire          v10     
+	< [1] copper_wire          v4      
+	< [1] copper_wire          v0      
+
+__ straight split __
+	< [220] plutonium_circuit  v3076      uranium_circuit [220] >
+	< [25] battery             v3026         copper_liquid [25] >
+	< [84] copper_plate        v0            copper_wire [2942] >
+
+[diamond] 2329 total, 5 resources
+	power_supply             ...   168...  7.21%
+	diamond_gear             ...    84...  3.61%
+	diamond_liquid           ...  1015... 43.58%
+	diamond_plate            ...    20...  0.86%
+	diamond_wire             ...  1042... 44.74%
+
+__ RSD splits (10) __
+	< [8] power_supply         v2317           diamond_gear [4] >
+	< [5] diamond_liquid       v2310           diamond_wire [2] >
+	< [6] power_supply         v217            diamond_gear [8] >
+	< [1] diamond_liquid       v214           diamond_plate [2] >
+	< [4] diamond_wire         v210    
+	< [1] power_supply         v20     
+	< [1] diamond_liquid       v0              diamond_wire [1] >
+
+__ RSD splits (2) __
+	< [1] diamond_liquid       v2328   
+	< [1] diamond_liquid       v1162           diamond_wire [1] >
+	< [1] diamond_gear         v579          diamond_liquid [1] >
+	< [1] diamond_plate        v578    
+	< [1] power_supply         v288    
+	< [1] diamond_gear         v142          diamond_liquid [1] >
+	< [1] diamond_plate        v140            diamond_wire [1] >
+	< [1] power_supply         v68           diamond_liquid [1] >
+	< [1] diamond_gear         v32           diamond_liquid [1] >
+	< [1] power_supply         v14           diamond_liquid [1] >
+	< [1] diamond_liquid       v6      
+	< [1] diamond_liquid       v2      
+	< [1] diamond_wire         v0      
+
+__ straight split __
+	< [168] power_supply       v2077          diamond_gear [84] >
+	< [1015] diamond_liquid    v1042         diamond_plate [20] >
+	< [1042] diamond_wire      v0      
+
+[gold] 3478 total, 4 resources
+	circuit                  ...   959... 27.57%
+	solar_cell               ...   695... 19.98%
+	gold_liquid              ...   228...  6.56%
+	gold_wire                ...  1596... 45.89%
+
+__ RSD splits (10) __
+	< [9] circuit              v3464             solar_cell [5] >
+	< [8] gold_liquid          v3450              gold_wire [6] >
+	< [5] circuit              v331              solar_cell [9] >
+	< [2] gold_liquid          v320               gold_wire [9] >
+	< [9] circuit              v17               solar_cell [6] >
+	< [2] gold_liquid          v10                gold_wire [5] >
+	< [1] gold_wire            v0      
+
+__ RSD splits (2) __
+	< [1] circuit              v3476             solar_cell [1] >
+	< [1] circuit              v1736             solar_cell [1] >
+	< [1] circuit              v866              solar_cell [1] >
+	< [1] gold_liquid          v864               gold_wire [1] >
+	< [1] circuit              v430               gold_wire [1] >
+	< [1] circuit              v213              solar_cell [1] >
+	< [1] gold_wire            v212    
+	< [1] circuit              v104              solar_cell [1] >
+	< [1] gold_liquid          v102               gold_wire [1] >
+	< [1] gold_liquid          v50     
+	< [1] circuit              v23               solar_cell [1] >
+	< [1] gold_liquid          v22     
+	< [1] circuit              v10     
+	< [1] circuit              v3                solar_cell [1] >
+	< [1] gold_wire            v2      
+	< [1] gold_wire            v0      
+
+__ straight split __
+	< [959] circuit            v1824           solar_cell [695] >
+	< [228] gold_liquid        v0              gold_wire [1596] >
+
+[iron] 719 total, 3 resources
+	trigger                  ...   400... 55.63%
+	iron_wire                ...   305... 42.42%
+	server_rack              ...    14...  1.95%
+
+__ RSD splits (10) __
+	< [5] iron_wire            v710             server_rack [4] >
+	< [1] server_rack          v70     
+	< [4] trigger              v0                 iron_wire [3] >
+
+__ RSD splits (2) __
+	< [1] iron_wire            v718    
+	< [1] server_rack          v358    
+	< [1] server_rack          v178    
+	< [1] server_rack          v88     
+	< [1] trigger              v42                iron_wire [1] >
+	< [1] iron_wire            v20     
+	< [1] trigger              v4      
+	< [1] trigger              v0                 iron_wire [1] >
+
+__ straight split __
+	< [400] trigger            v14              iron_wire [305] >
+	< [14] server_rack         v0      
+
+[plutonium] 570 total, 3 resources
+	atomic_bomb              ...    30...  5.26%
+	plutonium_cell           ...   320... 56.14%
+	plutonium_circuit        ...   220... 38.60%
+
+__ RSD splits (10) __
+	< [3] atomic_bomb          v52           plutonium_cell [2] >
+	< [2] plutonium_circuit    v50     
+	< [3] plutonium_cell       v0         plutonium_circuit [2] >
+
+__ RSD splits (2) __
+	< [1] atomic_bomb          v284    
+	< [1] atomic_bomb          v140       plutonium_circuit [1] >
+	< [1] atomic_bomb          v68        plutonium_circuit [1] >
+	< [1] atomic_bomb          v32        plutonium_circuit [1] >
+	< [1] plutonium_cell       v6         plutonium_circuit [1] >
+	< [1] plutonium_circuit    v2      
+	< [1] plutonium_cell       v0      
+
+__ straight split __
+	< [30] atomic_bomb         v220        plutonium_cell [320] >
+	< [220] plutonium_circuit  v0      
+
+[uranium] 592 total, 4 resources
+	atomic_bomb              ...    30...  5.07%
+	uranium_cell             ...   320... 54.05%
+	uranium_circuit          ...   220... 37.16%
+	uranium_refined          ...    22...  3.72%
+
+__ RSD splits (10) __
+	< [2] uranium_refined      v590    
+	< [3] atomic_bomb          v54             uranium_cell [2] >
+	< [2] uranium_circuit      v50          uranium_refined [2] >
+	< [3] uranium_cell         v0           uranium_circuit [2] >
+
+__ RSD splits (2) __
+	< [1] atomic_bomb          v294         uranium_refined [1] >
+	< [1] atomic_bomb          v145         uranium_circuit [1] >
+	< [1] uranium_refined      v144    
+	< [1] atomic_bomb          v70          uranium_circuit [1] >
+	< [1] atomic_bomb          v33          uranium_circuit [1] >
+	< [1] uranium_refined      v32     
+	< [1] uranium_cell         v6           uranium_circuit [1] >
+	< [1] uranium_circuit      v2      
+	< [1] uranium_cell         v0      
+
+__ straight split __
+	< [30] atomic_bomb         v242          uranium_cell [320] >
+	< [220] uranium_circuit    v0          uranium_refined [22] >
+

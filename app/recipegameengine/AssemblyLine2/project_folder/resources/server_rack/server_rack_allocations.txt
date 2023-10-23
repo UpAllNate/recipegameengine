@@ -1,0 +1,6 @@
+[aluminum] 1 total, 1 resources
+	server_rack              ...     1...100.00%
+
+[iron] 1 total, 1 resources
+	server_rack              ...     1...100.00%
+

@@ -1,0 +1,4 @@
+[heater_plate]      , flat ingredient count:   0 ... depth: 2
+	iron_wire ... 1.00
+		iron ... 1.00
+	aluminum ... 1.00

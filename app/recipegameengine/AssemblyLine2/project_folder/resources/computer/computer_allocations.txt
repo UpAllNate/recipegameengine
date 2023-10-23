@@ -1,0 +1,71 @@
+[fan] 1 total, 1 resources
+	computer                 ...     1...100.00%
+
+[power_supply] 1 total, 1 resources
+	computer                 ...     1...100.00%
+
+[processor] 1 total, 1 resources
+	computer                 ...     1...100.00%
+
+[circuit] 3 total, 3 resources
+	fan                      ...     1... 33.33%
+	power_supply             ...     1... 33.33%
+	processor                ...     1... 33.33%
+
+__ RSD splits (10) __
+	< [1] fan                  v1              power_supply [1] >
+	< [1] processor            v0      
+
+__ RSD splits (2) __
+	< [1] fan                  v1              power_supply [1] >
+	< [1] processor            v0      
+
+__ straight split __
+	< [1] fan                  v1              power_supply [1] >
+	< [1] processor            v0      
+
+[aluminum_liquid] 3 total, 1 resources
+	power_supply             ...     3...100.00%
+
+[copper_wire] 3 total, 1 resources
+	circuit                  ...     3...100.00%
+
+[diamond_gear] 3 total, 1 resources
+	fan                      ...     3...100.00%
+
+[diamond_wire] 3 total, 1 resources
+	processor                ...     3...100.00%
+
+[gold_liquid] 3 total, 1 resources
+	processor                ...     3...100.00%
+
+[aluminum] 9 total, 2 resources
+	fan                      ...     6... 66.67%
+	aluminum_liquid          ...     3... 33.33%
+
+[copper] 3 total, 1 resources
+	copper_wire              ...     3...100.00%
+
+[diamond] 12 total, 3 resources
+	power_supply             ...     6... 50.00%
+	diamond_gear             ...     3... 25.00%
+	diamond_wire             ...     3... 25.00%
+
+__ RSD splits (10) __
+	< [6] power_supply         v3              diamond_gear [3] >
+	< [3] diamond_wire         v0      
+
+__ RSD splits (2) __
+	< [1] diamond_gear         v10             diamond_wire [1] >
+	< [1] power_supply         v3              diamond_gear [1] >
+	< [1] diamond_wire         v2      
+	< [1] power_supply         v0      
+
+__ straight split __
+	< [6] power_supply         v3              diamond_gear [3] >
+	< [3] diamond_wire         v0      
+
+[gold] 6 total, 2 resources
+	circuit                  ...     3... 50.00%
+	gold_liquid              ...     3... 50.00%
+

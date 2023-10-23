@@ -1,0 +1,2 @@
+[plutonium_wire]    , flat ingredient count:   0 ... depth: 1
+	plutonium ... 1.00

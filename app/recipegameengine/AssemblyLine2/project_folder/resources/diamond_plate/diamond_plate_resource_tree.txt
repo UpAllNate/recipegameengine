@@ -1,0 +1,2 @@
+[diamond_plate]     , flat ingredient count:   0 ... depth: 1
+	diamond ... 1.00

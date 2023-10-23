@@ -1,7 +1,7 @@
 from recipegameengine import Resource, Ingredient        
 import copy
 
-def generate_straight_split_string(res_list : tuple[Resource, int], remaining_alloc : int) -> str:
+def generate_straight_split_string(res_list : list[tuple[Resource, int]], remaining_alloc : int) -> str:
     ret_str = ""
     alloc_count = len(res_list)
     skip = False
@@ -50,6 +50,43 @@ def generate_straight_split_string(res_list : tuple[Resource, int], remaining_al
             skip = False
     return ret_str, remaining_alloc
 
+def generate_RSD_split_string(res_list : list[tuple[Resource, int]], total_alloc : int, alloc_base : int = 10) -> str:
+
+    ret_str = f"__ RSD splits ({alloc_base}) __\n"
+
+    res_list_parsing = copy.deepcopy(res_list)
+
+    # res list parsing items will be popped as their count
+    # reaches 0 from being split off
+
+    while res_list_parsing:
+        stage_splits = []
+        popindexes = []
+
+        # Split off the ones
+        for index, (res, count) in enumerate(res_list_parsing):
+            ones = int(count % alloc_base)
+            if ones > 0:
+                # print(f"Modulo of {res}:{count} is {ones}")
+                stage_splits.append((res, ones))
+                new_count = (count - ones) / alloc_base
+                if new_count == 0:
+                    popindexes.append(index)
+                else:
+                    res_list_parsing[index] = (res, new_count)
+            else:
+                res_list_parsing[index] = (res, count / alloc_base)
+
+        for index in sorted(popindexes, reverse= True):
+            res_list_parsing.pop(index)
+
+        gen_str, total_alloc = generate_straight_split_string(stage_splits, remaining_alloc= total_alloc)
+        ret_str += gen_str       
+
+        total_alloc = int(total_alloc / alloc_base)
+    ret_str += "\n"
+    return ret_str
+
 def generate_allocation_file(resource : Resource) -> str:
     ret_str = ""
 
@@ -80,45 +117,9 @@ def generate_allocation_file(resource : Resource) -> str:
         ret_str +=  "\n"
 
         # Generate the Recursive Staged Decade splits
-        if alloc_count > 1:
-
-            ret_str += "__ RSD splits __\n"
-
-            remaining_alloc = total_build_requirement
-            res_list_parsing = copy.deepcopy(res_list)
-
-
-            # res list parsing items will be popped as their count
-            # reaches 0 from being split off
-
-            while res_list_parsing:
-                stage_splits = []
-                popindexes = []
-
-                # Split off the ones
-                for index, (res, count) in enumerate(res_list_parsing):
-                    ones = int(count % 10)
-                    if ones > 0:
-                        print(f"Modulo of {res}:{count} is {ones}")
-                        stage_splits.append((res, ones))
-                        new_count = (count - ones) / 10
-                        if new_count == 0:
-                            popindexes.append(index)
-                        else:
-                            res_list_parsing[index] = (res, new_count)
-                    else:
-                        res_list_parsing[index] = (res, count / 10)
-
-                for index in sorted(popindexes, reverse= True):
-                    res_list_parsing.pop(index)
-
-                gen_str, remaining_alloc = generate_straight_split_string(stage_splits, remaining_alloc= remaining_alloc)
-                ret_str += gen_str       
-
-                remaining_alloc = int(remaining_alloc / 10)
-            ret_str += "\n"
-
         if alloc_count > 2:
+            ret_str += generate_RSD_split_string(res_list= res_list, total_alloc= total_build_requirement, alloc_base= 10)
+            ret_str += generate_RSD_split_string(res_list= res_list, total_alloc= total_build_requirement, alloc_base= 2)
             ret_str += "__ straight split __\n"
             gen_str, remaining_alloc = generate_straight_split_string(res_list, remaining_alloc= total_build_requirement)
             ret_str += gen_str

@@ -1,0 +1,4 @@
+[engine]            , flat ingredient count:   0 ... depth: 2
+	iron_gear ... 1.00
+		iron ... 1.00
+	iron ... 1.00

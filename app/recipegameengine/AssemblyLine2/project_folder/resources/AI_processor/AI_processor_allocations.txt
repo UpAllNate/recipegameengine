@@ -1,0 +1,138 @@
+[super_computer] 1 total, 1 resources
+	AI_processor             ...     1...100.00%
+
+[computer] 2 total, 1 resources
+	super_computer           ...     2...100.00%
+
+[fan] 2 total, 1 resources
+	computer                 ...     2...100.00%
+
+[power_supply] 2 total, 1 resources
+	computer                 ...     2...100.00%
+
+[processor] 2 total, 1 resources
+	computer                 ...     2...100.00%
+
+[circuit] 19 total, 5 resources
+	super_computer           ...     3... 15.79%
+	AI_processor             ...    10... 52.63%
+	fan                      ...     2... 10.53%
+	power_supply             ...     2... 10.53%
+	processor                ...     2... 10.53%
+
+__ RSD splits (10) __
+	< [3] super_computer       v14                      fan [2] >
+	< [2] power_supply         v10                processor [2] >
+	< [1] AI_processor         v0      
+
+__ RSD splits (2) __
+	< [1] super_computer       v18     
+	< [1] super_computer       v7              AI_processor [1] >
+	< [1] fan                  v5              power_supply [1] >
+	< [1] processor            v4      
+	< [1] AI_processor         v0      
+
+__ straight split __
+	< [3] super_computer       v6             AI_processor [10] >
+	< [2] fan                  v2              power_supply [2] >
+	< [2] processor            v0      
+
+[copper_cable] 4 total, 1 resources
+	AI_processor             ...     4...100.00%
+
+[gold_cable] 3 total, 1 resources
+	super_computer           ...     3...100.00%
+
+[aluminum_liquid] 6 total, 1 resources
+	power_supply             ...     6...100.00%
+
+[copper_plate] 6 total, 1 resources
+	AI_processor             ...     6...100.00%
+
+[copper_wire] 31 total, 2 resources
+	circuit                  ...    19... 61.29%
+	copper_cable             ...    12... 38.71%
+
+[diamond_gear] 6 total, 1 resources
+	fan                      ...     6...100.00%
+
+[diamond_wire] 6 total, 1 resources
+	processor                ...     6...100.00%
+
+[gold_liquid] 6 total, 1 resources
+	processor                ...     6...100.00%
+
+[gold_wire] 9 total, 1 resources
+	gold_cable               ...     9...100.00%
+
+[server_rack] 1 total, 1 resources
+	super_computer           ...     1...100.00%
+
+[aluminum] 19 total, 3 resources
+	fan                      ...    12... 63.16%
+	aluminum_liquid          ...     6... 31.58%
+	server_rack              ...     1...  5.26%
+
+__ RSD splits (10) __
+	< [2] fan                  v11          aluminum_liquid [6] >
+	< [1] server_rack          v10     
+	< [1] fan                  v0      
+
+__ RSD splits (2) __
+	< [1] server_rack          v18     
+	< [1] aluminum_liquid      v8      
+	< [1] fan                  v2           aluminum_liquid [1] >
+	< [1] fan                  v0      
+
+__ straight split __
+	< [12] fan                 v1           aluminum_liquid [6] >
+	< [1] server_rack          v0      
+
+[copper] 37 total, 2 resources
+	copper_plate             ...     6... 16.22%
+	copper_wire              ...    31... 83.78%
+
+[diamond] 24 total, 3 resources
+	power_supply             ...    12... 50.00%
+	diamond_gear             ...     6... 25.00%
+	diamond_wire             ...     6... 25.00%
+
+__ RSD splits (10) __
+	< [2] power_supply         v16             diamond_gear [6] >
+	< [6] diamond_wire         v10     
+	< [1] power_supply         v0      
+
+__ RSD splits (2) __
+	< [1] diamond_gear         v10             diamond_wire [1] >
+	< [1] power_supply         v3              diamond_gear [1] >
+	< [1] diamond_wire         v2      
+	< [1] power_supply         v0      
+
+__ straight split __
+	< [12] power_supply        v6              diamond_gear [6] >
+	< [6] diamond_wire         v0      
+
+[gold] 34 total, 3 resources
+	circuit                  ...    19... 55.88%
+	gold_liquid              ...     6... 17.65%
+	gold_wire                ...     9... 26.47%
+
+__ RSD splits (10) __
+	< [9] circuit              v19              gold_liquid [6] >
+	< [9] gold_wire            v10     
+	< [1] circuit              v0      
+
+__ RSD splits (2) __
+	< [1] circuit              v32                gold_wire [1] >
+	< [1] circuit              v14              gold_liquid [1] >
+	< [1] gold_liquid          v6      
+	< [1] gold_wire            v2      
+	< [1] circuit              v0      
+
+__ straight split __
+	< [19] circuit             v9               gold_liquid [6] >
+	< [9] gold_wire            v0      
+
+[iron] 1 total, 1 resources
+	server_rack              ...     1...100.00%
+

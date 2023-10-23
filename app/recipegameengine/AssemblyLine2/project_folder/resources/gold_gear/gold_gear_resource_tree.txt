@@ -1,0 +1,2 @@
+[gold_gear]         , flat ingredient count:   0 ... depth: 1
+	gold ... 1.00

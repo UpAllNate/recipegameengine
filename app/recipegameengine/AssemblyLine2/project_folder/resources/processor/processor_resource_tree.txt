@@ -1,0 +1,9 @@
+[processor]         , flat ingredient count:   0 ... depth: 3
+	circuit ... 1.00
+		copper_wire ... 1.00
+			copper ... 1.00
+		gold ... 1.00
+	gold_liquid ... 3.00
+		gold ... 1.00
+	diamond_wire ... 3.00
+		diamond ... 1.00

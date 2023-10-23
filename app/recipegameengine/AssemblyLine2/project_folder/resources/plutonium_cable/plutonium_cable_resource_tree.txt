@@ -1,0 +1,3 @@
+[plutonium_cable]   , flat ingredient count:   0 ... depth: 2
+	plutonium_wire ... 3.00
+		plutonium ... 1.00

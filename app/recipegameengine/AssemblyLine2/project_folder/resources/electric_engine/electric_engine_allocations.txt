@@ -1,0 +1,75 @@
+[advanced_engine] 2 total, 1 resources
+	electric_engine          ...     2...100.00%
+
+[battery] 2 total, 1 resources
+	electric_engine          ...     2...100.00%
+
+[circuit] 10 total, 1 resources
+	advanced_engine          ...    10...100.00%
+
+[electric_board] 2 total, 1 resources
+	electric_engine          ...     2...100.00%
+
+[engine] 10 total, 1 resources
+	advanced_engine          ...    10...100.00%
+
+[copper_liquid] 2 total, 1 resources
+	battery                  ...     2...100.00%
+
+[copper_wire] 12 total, 2 resources
+	circuit                  ...    10... 83.33%
+	electric_board           ...     2... 16.67%
+
+[iron_gear] 10 total, 1 resources
+	engine                   ...    10...100.00%
+
+[iron_plate] 5 total, 1 resources
+	electric_engine          ...     5...100.00%
+
+[aluminum] 2 total, 1 resources
+	electric_board           ...     2...100.00%
+
+[copper] 16 total, 3 resources
+	battery                  ...     2... 12.50%
+	copper_liquid            ...     2... 12.50%
+	copper_wire              ...    12... 75.00%
+
+__ RSD splits (10) __
+	< [2] battery              v12            copper_liquid [2] >
+	< [2] copper_wire          v10     
+	< [1] copper_wire          v0      
+
+__ RSD splits (2) __
+	< [1] battery              v6             copper_liquid [1] >
+	< [1] copper_wire          v2      
+	< [1] copper_wire          v0      
+
+__ straight split __
+	< [2] battery              v12            copper_liquid [2] >
+	< [12] copper_wire         v0      
+
+[diamond] 20 total, 1 resources
+	advanced_engine          ...    20...100.00%
+
+[gold] 10 total, 1 resources
+	circuit                  ...    10...100.00%
+
+[iron] 25 total, 3 resources
+	engine                   ...    10... 40.00%
+	iron_gear                ...    10... 40.00%
+	iron_plate               ...     5... 20.00%
+
+__ RSD splits (10) __
+	< [5] iron_plate           v20     
+	< [1] engine               v0                 iron_gear [1] >
+
+__ RSD splits (2) __
+	< [1] iron_plate           v24     
+	< [1] engine               v10                iron_gear [1] >
+	< [1] iron_plate           v4      
+	< [1] engine               v0                 iron_gear [1] >
+
+__ straight split __
+	< [10] engine              v5                iron_gear [10] >
+	< [5] iron_plate           v0      
+

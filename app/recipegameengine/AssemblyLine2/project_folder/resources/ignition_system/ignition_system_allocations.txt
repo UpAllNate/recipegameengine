@@ -1,0 +1,256 @@
+[AI_processor] 2 total, 1 resources
+	ignition_system          ...     2...100.00%
+
+[super_computer] 2 total, 1 resources
+	AI_processor             ...     2...100.00%
+
+[computer] 4 total, 1 resources
+	super_computer           ...     4...100.00%
+
+[explosive] 5 total, 1 resources
+	ignition_system          ...     5...100.00%
+
+[fan] 4 total, 1 resources
+	computer                 ...     4...100.00%
+
+[power_supply] 4 total, 1 resources
+	computer                 ...     4...100.00%
+
+[processor] 4 total, 1 resources
+	computer                 ...     4...100.00%
+
+[trigger] 2 total, 1 resources
+	ignition_system          ...     2...100.00%
+
+[battery] 5 total, 1 resources
+	ignition_system          ...     5...100.00%
+
+[circuit] 73 total, 7 resources
+	AI_processor             ...    20... 27.40%
+	super_computer           ...     6...  8.22%
+	explosive                ...    25... 34.25%
+	fan                      ...     4...  5.48%
+	power_supply             ...     4...  5.48%
+	processor                ...     4...  5.48%
+	trigger                  ...    10... 13.70%
+
+__ RSD splits (10) __
+	< [6] super_computer       v62                explosive [5] >
+	< [4] fan                  v54             power_supply [4] >
+	< [4] processor            v50     
+	< [2] AI_processor         v1                 explosive [2] >
+	< [1] trigger              v0      
+
+__ RSD splits (2) __
+	< [1] explosive            v72     
+	< [1] super_computer       v34                  trigger [1] >
+	< [1] AI_processor         v15           super_computer [1] >
+	< [1] fan                  v13             power_supply [1] >
+	< [1] processor            v12     
+	< [1] explosive            v4                   trigger [1] >
+	< [1] AI_processor         v0                 explosive [1] >
+
+__ straight split __
+	< [20] AI_processor        v47           super_computer [6] >
+	< [25] explosive           v18                      fan [4] >
+	< [4] power_supply         v10                processor [4] >
+	< [10] trigger             v0      
+
+[copper_cable] 58 total, 2 resources
+	AI_processor             ...     8... 13.79%
+	explosive                ...    50... 86.21%
+
+[electric_board] 10 total, 1 resources
+	trigger                  ...    10...100.00%
+
+[gold_cable] 6 total, 1 resources
+	super_computer           ...     6...100.00%
+
+[heater_plate] 50 total, 1 resources
+	explosive                ...    50...100.00%
+
+[aluminum_liquid] 12 total, 1 resources
+	power_supply             ...    12...100.00%
+
+[copper_liquid] 5 total, 1 resources
+	battery                  ...     5...100.00%
+
+[copper_plate] 12 total, 1 resources
+	AI_processor             ...    12...100.00%
+
+[copper_wire] 257 total, 3 resources
+	circuit                  ...    73... 28.40%
+	copper_cable             ...   174... 67.70%
+	electric_board           ...    10...  3.89%
+
+__ RSD splits (10) __
+	< [3] circuit              v250            copper_cable [4] >
+	< [7] circuit              v11             copper_cable [7] >
+	< [1] electric_board       v10     
+	< [1] copper_cable         v0      
+
+__ RSD splits (2) __
+	< [1] circuit              v256    
+	< [1] copper_cable         v126          electric_board [1] >
+	< [1] copper_cable         v62     
+	< [1] circuit              v29             copper_cable [1] >
+	< [1] electric_board       v28     
+	< [1] copper_cable         v6      
+	< [1] circuit              v2      
+	< [1] copper_cable         v0      
+
+__ straight split __
+	< [73] circuit             v10           copper_cable [174] >
+	< [10] electric_board      v0      
+
+[diamond_gear] 12 total, 1 resources
+	fan                      ...    12...100.00%
+
+[diamond_wire] 82 total, 3 resources
+	explosive                ...    50... 60.98%
+	processor                ...    12... 14.63%
+	trigger                  ...    20... 24.39%
+
+__ RSD splits (10) __
+	< [2] processor            v80     
+	< [5] explosive            v2                 processor [1] >
+	< [2] trigger              v0      
+
+__ RSD splits (2) __
+	< [1] explosive            v40     
+	< [1] processor            v18                  trigger [1] >
+	< [1] processor            v8      
+	< [1] explosive            v2                   trigger [1] >
+	< [1] explosive            v0      
+
+__ straight split __
+	< [50] explosive           v20               processor [12] >
+	< [20] trigger             v0      
+
+[gold_liquid] 12 total, 1 resources
+	processor                ...    12...100.00%
+
+[gold_wire] 18 total, 1 resources
+	gold_cable               ...    18...100.00%
+
+[iron_wire] 50 total, 1 resources
+	heater_plate             ...    50...100.00%
+
+[server_rack] 2 total, 1 resources
+	super_computer           ...     2...100.00%
+
+[aluminum] 98 total, 5 resources
+	fan                      ...    24... 24.49%
+	electric_board           ...    10... 10.20%
+	heater_plate             ...    50... 51.02%
+	aluminum_liquid          ...    12... 12.24%
+	server_rack              ...     2...  2.04%
+
+__ RSD splits (10) __
+	< [4] fan                  v92          aluminum_liquid [2] >
+	< [2] server_rack          v90     
+	< [2] fan                  v6            electric_board [1] >
+	< [5] heater_plate         v0           aluminum_liquid [1] >
+
+__ RSD splits (2) __
+	< [1] electric_board       v47             heater_plate [1] >
+	< [1] server_rack          v46     
+	< [1] aluminum_liquid      v22     
+	< [1] fan                  v9            electric_board [1] >
+	< [1] aluminum_liquid      v8      
+	< [1] fan                  v2              heater_plate [1] >
+	< [1] heater_plate         v0      
+
+__ straight split __
+	< [24] fan                 v64          electric_board [10] >
+	< [50] heater_plate        v2          aluminum_liquid [12] >
+	< [2] server_rack          v0      
+
+[copper] 279 total, 4 resources
+	battery                  ...     5...  1.79%
+	copper_liquid            ...     5...  1.79%
+	copper_plate             ...    12...  4.30%
+	copper_wire              ...   257... 92.11%
+
+__ RSD splits (10) __
+	< [5] battery              v269           copper_liquid [5] >
+	< [2] copper_plate         v260             copper_wire [7] >
+	< [1] copper_plate         v20              copper_wire [5] >
+	< [2] copper_wire          v0      
+
+__ RSD splits (2) __
+	< [1] battery              v277           copper_liquid [1] >
+	< [1] copper_wire          v276    
+	< [1] battery              v67            copper_liquid [1] >
+	< [1] copper_plate         v66     
+	< [1] copper_plate         v32     
+	< [1] copper_wire          v0      
+
+__ straight split __
+	< [5] battery              v269           copper_liquid [5] >
+	< [12] copper_plate        v0             copper_wire [257] >
+
+[diamond] 118 total, 3 resources
+	power_supply             ...    24... 20.34%
+	diamond_gear             ...    12... 10.17%
+	diamond_wire             ...    82... 69.49%
+
+__ RSD splits (10) __
+	< [4] power_supply         v112            diamond_gear [2] >
+	< [2] diamond_wire         v110    
+	< [2] power_supply         v8              diamond_gear [1] >
+	< [8] diamond_wire         v0      
+
+__ RSD splits (2) __
+	< [1] diamond_wire         v58     
+	< [1] diamond_gear         v28     
+	< [1] power_supply         v12             diamond_gear [1] >
+	< [1] power_supply         v4              diamond_wire [1] >
+	< [1] diamond_wire         v0      
+
+__ straight split __
+	< [24] power_supply        v82            diamond_gear [12] >
+	< [82] diamond_wire        v0      
+
+[gold] 103 total, 3 resources
+	circuit                  ...    73... 70.87%
+	gold_liquid              ...    12... 11.65%
+	gold_wire                ...    18... 17.48%
+
+__ RSD splits (10) __
+	< [3] circuit              v98              gold_liquid [2] >
+	< [8] gold_wire            v90     
+	< [7] circuit              v1               gold_liquid [1] >
+	< [1] gold_wire            v0      
+
+__ RSD splits (2) __
+	< [1] circuit              v102    
+	< [1] gold_wire            v50     
+	< [1] gold_liquid          v24     
+	< [1] circuit              v10              gold_liquid [1] >
+	< [1] gold_wire            v4      
+	< [1] circuit              v0      
+
+__ straight split __
+	< [73] circuit             v18             gold_liquid [12] >
+	< [18] gold_wire           v0      
+
+[iron] 132 total, 3 resources
+	trigger                  ...    80... 60.61%
+	iron_wire                ...    50... 37.88%
+	server_rack              ...     2...  1.52%
+
+__ RSD splits (10) __
+	< [2] server_rack          v130    
+	< [8] trigger              v0                 iron_wire [5] >
+
+__ RSD splits (2) __
+	< [1] iron_wire            v64              server_rack [1] >
+	< [1] trigger              v6                 iron_wire [1] >
+	< [1] iron_wire            v2      
+	< [1] trigger              v0      
+
+__ straight split __
+	< [80] trigger             v2                iron_wire [50] >
+	< [2] server_rack          v0      
+

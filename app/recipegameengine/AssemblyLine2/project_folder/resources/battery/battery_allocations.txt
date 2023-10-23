@@ -1,0 +1,7 @@
+[copper_liquid] 1 total, 1 resources
+	battery                  ...     1...100.00%
+
+[copper] 2 total, 2 resources
+	copper_liquid            ...     1... 50.00%
+	battery                  ...     1... 50.00%
+
