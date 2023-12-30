@@ -1,5 +1,6 @@
 from recipegameengine import Resource, Ingredient        
 import copy
+from math import fsum
 
 def generate_straight_split_string(res_list : list[tuple[Resource, int]], remaining_alloc : int) -> str:
     ret_str = ""
@@ -92,7 +93,8 @@ def generate_allocation_file(resource : Resource) -> str:
 
     # The allocation object is a dictionary with a resource as key with 
     # a dictionary of other resources with qty of each as the value
-    for i in resource.allocation.keys():
+    for i in resource.allocation:
+        i : Resource
 
         # It was easier to work in a list of tuples,
         # so it's made here
@@ -103,10 +105,13 @@ def generate_allocation_file(resource : Resource) -> str:
             j : Resource
             res = j.name
             count = resource.allocation[i][j]
-            res_list.append((res, int(count)))
+            res_list.append((res, float(count)))
+
+            # if i.name in ["uranium", "uranium_refined"]:
+            #     print(f"{res} requires {count} {i.name}")
 
         # Compute the total of resource i needed for one crafting of resource
-        total_build_requirement = sum([count for res,count in res_list])
+        total_build_requirement = fsum([count for res,count in res_list])
 
         # The number of resources with i as an ingredient
         alloc_count = len(res_list)

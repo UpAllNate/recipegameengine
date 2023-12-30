@@ -1,7 +1,7 @@
 from typing import Union
 from pathlib import Path
 import tomllib
-from math import ceil
+from math import ceil, fsum
 
 class Resource:
 
@@ -51,9 +51,9 @@ class Resource:
 
 class Ingredient:
 
-    def __init__(self, resource : Resource, qty : int) -> None:
+    def __init__(self, resource : Resource, qty) -> None:
         self.resource = resource
-        self.qty = qty
+        self.qty : float = qty
 
     def __str__(self) -> str:
         ret_str = f"{self.resource.name} ... {self.qty:.2f}"
@@ -135,11 +135,28 @@ class RecipeEngine:
 
         unsummed_flat_ingredients = self._get_flat_ingredient_list(resource)
 
-        # Count the instance of each
+        # Count the instances of each
         ret_ingredients : list[Ingredient] = []
         unsummed_resource_set = set(i.resource for i in unsummed_flat_ingredients)
+
+        if resource.name == "AI_robot_bomber":
+            print(f"Bomber unsummed ingredients")
+            for i in unsummed_flat_ingredients:
+                print(f"\t{i}")
+            print("Bomber ingredient set")
+            for i in unsummed_resource_set:
+                print(f"\t{i}")
+
         for r in unsummed_resource_set:
-            count = sum([i.qty for i in unsummed_flat_ingredients if i.resource == r])
+            count = fsum([i.qty for i in unsummed_flat_ingredients if i.resource == r])
+            if resource.name == "AI_robot_bomber" and r.name == "uranium":
+                print("ur")
+                print([i.qty for i in unsummed_flat_ingredients if i.resource == r])
+                print(count)
+            if resource.name == "AI_robot_bomber" and r.name == "uranium_refined":
+                print("ref")
+                print([i.qty for i in unsummed_flat_ingredients if i.resource == r])
+                print(count)
             ret_ingredients.append(Ingredient(resource= r, qty = count))
 
         return sorted(ret_ingredients,key= lambda ing: (-ing.resource.ingredient_depth, ing.resource.name))
@@ -179,7 +196,7 @@ class RecipeEngine:
                     except:
                         allocation[i.resource] = {}
 
-                    allocation[i.resource][j.resource] = ceil(j.resource.ingredients[index].qty * j.qty)
+                    allocation[i.resource][j.resource] = j.resource.ingredients[index].qty * j.qty
 
                 if i in resource.ingredients:
                     index = resource.ingredients.index(i)
@@ -189,7 +206,7 @@ class RecipeEngine:
                     except:
                         allocation[i.resource] = {}
 
-                    allocation[i.resource][resource] = ceil(resource.ingredients[index].qty)
+                    allocation[i.resource][resource] = resource.ingredients[index].qty
 
         return allocation
 

@@ -9,9 +9,6 @@ import shutil
 
 from math import ceil
 
-user_starter_count = int(input("What is your starter limit?\nAnswer: "))
-user_starter_period_standard = float(input("What is your starter rate for standard resources?\nAnswer: "))
-user_starter_period_nuclear = float(input("What is your starter rate for nuclear resources?\nAnswer: "))
 
 py_file_dir = Path(__file__).parent.resolve()
 working_dir = Path().resolve()
@@ -84,9 +81,9 @@ for resource in re.resources:
     for i in base_ingredients:
         base_ingredient_starters[i] = {}
         if i.resource.name in ["plutonium", "uranium"]:
-            base_ingredient_starters[i]["starter qty"] = i.qty * user_starter_period_nuclear
+            base_ingredient_starters[i]["starter qty"] = i.qty * 0.5
         else:
-            base_ingredient_starters[i]["starter qty"] = i.qty * user_starter_period_standard
+            base_ingredient_starters[i]["starter qty"] = i.qty * 0.25
 
     base_starter_count = sum([i["starter qty"] for i in base_ingredient_starters.values()])
 
