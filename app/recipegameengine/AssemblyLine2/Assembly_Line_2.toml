@@ -376,70 +376,70 @@ iron_plate = 10
 diamond_cable = 5
 
 [plutonium_cell]
-price = 263000
+price = 83440
 
 [plutonium_cell.ingredients]
 uranium_refined = 0.166666666
-plutonium = 10
-solar_cell = 10
-diamond_liquid = 5
-gold_cable = 5
-copper_cable = 5
+plutonium = 2
+solar_cell = 2
+diamond_liquid = 2
+gold_cable = 2
+copper_cable = 2
 
 [uranium_cell]
-price = 263000
+price = 83440
 
 [uranium_cell.ingredients]
 uranium_refined = 0.166666666
-uranium = 10
-solar_cell = 10
-diamond_liquid = 5
-gold_cable = 5
-copper_cable = 5
+uranium = 2
+solar_cell = 2
+diamond_liquid = 2
+gold_cable = 2
+copper_cable = 2
 
 [plutonium_circuit]
-price = 243500
+price = 137200
 
 [plutonium_circuit.ingredients]
 uranium_refined = 0.166666666
-plutonium = 10
-circuit = 10
-copper = 10
-gold_cable = 3
-diamond_wire = 10
+plutonium = 4
+circuit = 5
+copper = 5
+gold_cable = 1
+diamond_wire = 2
 
 [uranium_circuit]
-price = 243500
+price = 137200
 
 [uranium_circuit.ingredients]
 uranium_refined = 0.166666666
-uranium = 10
-circuit = 10
-copper = 10
-gold_cable = 3
-diamond_wire = 10
+uranium = 4
+circuit = 5
+copper = 5
+gold_cable = 1
+diamond_wire = 2
 
 [nuclear_circuit]
-price = 4960000
+price = 2030000
 
 [nuclear_circuit.ingredients]
 uranium_refined = 0.166666666
-uranium_circuit = 2
-plutonium_circuit = 2
-circuit = 5
-gold_cable = 5
+uranium_circuit = 1
+plutonium_circuit = 1
+circuit = 3
+gold_cable = 3
 processor = 3
 
 [nuclear_cell]
-price = 5290000
+price = 1190000
 
 [nuclear_cell.ingredients]
 uranium_refined = 0.166666666
-uranium_cell = 2
-plutonium_cell = 2
-solar_cell = 5
-electric_board = 5
-heater_plate = 5
+uranium_cell = 1
+plutonium_cell = 1
+solar_cell = 3
+electric_board = 3
+heater_plate = 3
 
 [explosive]
 price = 66800
@@ -469,52 +469,52 @@ AI_processor = 2
 battery = 5
 
 [nuclear_core]
-price = 111420000
+price = 12740000
 
 [nuclear_core.ingredients]
 uranium_refined = 0.166666666
-nuclear_cell = 3
-uranium_cell = 5
-plutonium_cell = 5
+nuclear_cell = 1
+uranium_cell = 1
+plutonium_cell = 1
 processor = 10
 diamond_cable = 4
 gold_cable = 4
 
 [nuclear_processor]
-price = 121090000
+price = 33770000
 
 [nuclear_processor.ingredients]
 uranium_refined = 0.166666666
-nuclear_circuit = 3
-uranium_circuit = 5
-plutonium_circuit = 5
-AI_processor = 2
+nuclear_circuit = 1
+uranium_circuit = 1
+plutonium_circuit = 1
+AI_processor = 1
 processor = 5
 diamond_plate = 10
 
 [atomic_bomb]
-price = 3340000000
+price = 548540000
 
 [atomic_bomb.ingredients]
 uranium_refined = 0.166666666
-nuclear_processor = 2
-nuclear_core = 2
-ignition_system = 5
-nuclear_cell = 5
-uranium = 30
-plutonium = 30
+nuclear_processor = 1
+nuclear_core = 1
+ignition_system = 1
+nuclear_cell = 1
+uranium = 15
+plutonium = 15
 
 [AI_robot_bomber]
-price = 24210000000
+price = 5600000000
 
 [AI_robot_bomber.ingredients]
 uranium_refined = 0.166666666
 atomic_bomb = 1
 AI_robot = 1
-AI_processor = 5
-nuclear_cell = 5
-nuclear_processor = 5
-nuclear_circuit = 5
+AI_processor = 2
+nuclear_cell = 3
+nuclear_processor = 1
+nuclear_circuit = 3
 
 [uranium_refined]
 price = 12000
